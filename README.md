@@ -26,12 +26,11 @@
 | Left rotate an array by D places | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Move Zeros to end | [Move Zeores](https://leetcode.com/problems/move-zeroes/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Linear Search | [Liner Search](https://takeuforward.org/plus/dsa/problems/linear-search) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Find the Union | []() | [Github]() | A2Z | Step 3 Lec 1 | Medium |
-| Find missing number in an array | []() | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Maximum Consecutive Ones | []() | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Find the number that appears once, and other numbers twice | []() | [Github]() | A2Z | Step 3 Lec 1 | Medium |
-| Longest subarray with given sum K(positives) | []() | [Github]() | A2Z | Step 3 Lec 1 | Medium |
-| Longest subarray with sum K (Positives + Negatives) | []() | [Github]() | A2Z | Step 3 Lec 1 | Medium |
+| Find the Union | [Union of two sorted arrays](https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
+| Find missing number in an array | [Missing number](https://leetcode.com/problems/missing-number/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
+| Maximum Consecutive Ones | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
+| Find the number that appears once, and other numbers twice | [Single number](https://leetcode.com/problems/single-number/description/) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
+| Longest subarray with given sum K(positives) | [Longes Subarray with sum K](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
 
 | [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | | | | | 
 
