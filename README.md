@@ -30,7 +30,37 @@
 | Find missing number in an array | [Missing number](https://leetcode.com/problems/missing-number/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Maximum Consecutive Ones | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Find the number that appears once, and other numbers twice | [Single number](https://leetcode.com/problems/single-number/description/) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
-| Longest subarray with given sum K(positives) | [Longes Subarray with sum K](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
+| Longest subarray with given sum K(positives) | [Longest Subarray with sum K](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k) | [Github]() | Both | Step 3 Lec 1/Day 4 | Medium |
+| 2Sum Problem | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Github]() | Both | Step 3 Lec 2/Day 4 | Medium |
+| Sort an array of 0's 1's and 2's | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Medium |
+| Majority Element (>n/2 times) | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Github]() | Both | Step 3 Lec 2/Day 3 | Easy |
+| Kadane's Algorithm, maximum subarray sum | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Easy |
+| Print subarray with maximum subarray sum (extended version of above problem) | [Kadane's Algorithm](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm) | [Github]() | A2Z | Step 3 Lec 2 | Medium |
+| Stock Buy and Sell | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Easy |
+| Rearrange the array in alternating positive and negative items | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [Github]() | A2Z | Step 3 Lec 2 | Medium |
+| Next Permutation | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Medium |
+| Leaders in an Array problem | [Leaders in an Array](https://takeuforward.org/plus/dsa/problems/leaders-in-an-array) | [Github]() | A2Z | Step 3 Lec 2 | Easy |
+| Longest Consecutive Sequence in an Array | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Github]() | Both | Step 3 Lec 2/Day 4 | Medium |
+| Set Matrix Zeros | [Set Matrix Zeores](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Medium |
+| Rotate Matrix by 90 degrees | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Github]() | Both | Step 3 Lec 2/Day 2 | Medium |
+| Print the matrix in spiral manner | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Github]() | A2Z | Step 3 Lec 2 | Medium |
+| Count subarrays with given sum | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Github]() | A2Z | Step 3 Lec 2 | Easy |
+| Pascal's Triangle | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Github]() | Both | Step 3 Lec 3/Day 1 | Medium |
+| Majority Element (n/3 times) | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [Github]() | Both | Step 3 Lec 3/Day 3 | Medium |
+| 3-Sum Problem | [3 sum](https://leetcode.com/problems/3sum/description/) | [Github]() | A2Z | Step 3 Lec 3 | Medium |
+| 4-Sum Problem | [4 sum](https://leetcode.com/problems/4sum/description/) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
+| Count number of subarrays with given xor K | [Count subarrays with given xor K](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
+| Merge Overlapping Subintervals | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Github]() | Both | Step 3 Lec 3/Day 2 | Medium |
+| Merge two sorted arrays without extra space | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Github]() | A2Z | Step 3 Lec 3/Day 2 | Medium |
+| Find the repeating and missing number | [Find the repeating and missing number](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number) | [Github]() | Both | Step 3 Lec 3/Day 2 | Hard |
+| Count Inversions | [Count Inversions](https://takeuforward.org/plus/dsa/problems/count-inversions) | [Github]() | Both | Step 3 Lec 3/Day 2 | Hard |
+| Reverse Pairs | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | [Github]() | Both | Step 3 Lec 3/Day 3 | Hard |
+| Maximum Product Subarray | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Github]() | A2Z | Step 3 Lec 3 | Easy |
+| Find the duplicate in an array of N+1 integers | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Github]() | SDE | Day 2 | Medium |
+| Search in a 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Github]() | SDE | Day 3 | Medium |
+| Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github]() | SDE | Day 3 | Medium |
+| Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github]() | SDE | Day 3 | Medium | 
+| Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github]() | SDE | Day 4 | Medium |
 
 | [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | | | | | 
 
@@ -40,9 +70,9 @@
 | --- | ------------------------------------------------------ | ---- |
 | 1   | Learn the Basics ✅                                      | Step |
 | 2   | Important Sorting Techniques ✅                          | Step |
-| 3   | Solve Problems on Arrays \[Easy → Medium → Hard]       | Step |
-| 4   | Arrays                                                 | Day  |
-| 5   | Arrays Part-II                                         | Day  |
+| 3   | Solve Problems on Arrays \[Easy → Medium → Hard] ✅      | Step |
+| 4   | Arrays ✅                                                | Day  |
+| 5   | Arrays Part-II ✅                                        | Day  |
 | 6   | Arrays Part-III                                        | Day  |
 | 7   | Arrays Part-IV                                         | Day  |
 | 8   | Binary Search \[1D, 2D Arrays, Search Space]           | Step |
