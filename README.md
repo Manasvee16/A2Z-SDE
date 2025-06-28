@@ -51,15 +51,15 @@
 | 4-Sum Problem | [4 sum](https://leetcode.com/problems/4sum/description/) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
 | Count number of subarrays with given xor K | [Count subarrays with given xor K](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
 | Merge Overlapping Subintervals | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Github]() | Both | Step 3 Lec 3/Day 2 | Medium |
-| Merge two sorted arrays without extra space | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Github]() | A2Z | Step 3 Lec 3/Day 2 | Medium |
-| Find the repeating and missing number | [Find the repeating and missing number](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number) | [Github]() | Both | Step 3 Lec 3/Day 2 | Hard |
-| Count Inversions | [Count Inversions](https://takeuforward.org/plus/dsa/problems/count-inversions) | [Github]() | Both | Step 3 Lec 3/Day 2 | Hard |
+| Merge two sorted arrays without extra space | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Sorted%20Array.cpp) | A2Z | Step 3 Lec 3/Day 2 | Medium |
+| Find the repeating and missing number | [Find the repeating and missing number](https://takeuforward.org/plus/dsa/problems/find-the-repeating-and-missing-number) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Repeating%20and%20missing%20number.cpp) | Both | Step 3 Lec 3/Day 2 | Hard |
+| Count Inversions | [Count Inversions](https://takeuforward.org/plus/dsa/problems/count-inversions) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20Inversions.cpp) | Both | Step 3 Lec 3/Day 2 | Hard |
 | Reverse Pairs | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | [Github]() | Both | Step 3 Lec 3/Day 3 | Hard |
 | Maximum Product Subarray | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Github]() | A2Z | Step 3 Lec 3 | Easy |
-| Find the duplicate in an array of N+1 integers | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Github]() | SDE | Day 2 | Medium |
+| Find the duplicate in an array of N+1 integers | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Find%20Duplicate.cpp) | SDE | Day 2 | Medium |
 | Search in a 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2018/57.%20Search%20a%202D%20Matrix.cpp) | SDE | Day 3 | Medium |
 | Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | SDE | Day 3 | Medium |
-| Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github]() | SDE | Day 3 | Medium | 
+| Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | SDE | Day 3 | Medium | 
 | Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
 
 | [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | | | | | 
@@ -73,8 +73,8 @@
 | 3   | Solve Problems on Arrays \[Easy → Medium → Hard] ✅      | Step |
 | 4   | Arrays ✅                                                | Day  |
 | 5   | Arrays Part-II ✅                                        | Day  |
-| 6   | Arrays Part-III                                        | Day  |
-| 7   | Arrays Part-IV                                         | Day  |
+| 6   | Arrays Part-III ✅                                       | Day  |
+| 7   | Arrays Part-IV ✅                                        | Day  |
 | 8   | Binary Search \[1D, 2D Arrays, Search Space]           | Step |
 | 9   | Binary Search                                          | Day  |
 | 10  | Sliding Window & Two Pointer Combined Problems         | Step |
