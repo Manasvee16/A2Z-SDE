@@ -61,7 +61,24 @@
 | Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | SDE | Day 3 | Medium |
 | Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | SDE | Day 3 | Medium | 
 | Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
-
+| Reverse a LinkedList | []() | [Github]() | SDE | Day 5 | Easy |
+| Find the middle of LinkedList | []() | [Github]() | SDE | Day 5 | Easy |
+| Merge two sorted Linked List (use method used in mergeSort) | []() | [Github]() | SDE | Day 5 | Easy |
+| Remove N-th node from back of LinkedList | []() | [Github]() | SDE | Day 5 | Medium |
+| Add two numbers as LinkedList | []() | [Github]() | SDE | Day 5 | Medium |
+| Delete a given Node when a node is given.(0(1) solution) | []() | [Github]() | SDE | Day 5 | Medium |
+| Find intersection point of Y LinkedList | []() | [Github]() | SDE | Day 6 | Medium |
+| Detect a cycle in Linked List | []() | [Github]() | SDE | Day 6 | Medium |
+Reverse a LinkedList in groups of size k | []() | [Github]() | SDE | Day 6 | Hard |
+Check if a LinkedList is palindrome or not | []() | [Github]() | SDE | Day 6 | Medium |
+Find the starting point of the Loop of LinkedList | []() | [Github]() | SDE | Day 6 | Medium |
+Flattening of a LinkedList | []() | [Github]() | SDE | Day 6 | Hard |
+Rotate a LinkedList | []() | [Github]() | SDE | Day 7 | Medium |
+Clone a Linked List with random and next pointer | []() | [Github]() | SDE | Day 7 | Hard |
+3 sum | []() | [Github]() | SDE | Day 7 | Medium |
+Trapping Rainwater | []() | [Github]() | SDE | Day 7 | Hard |
+Remove Duplicate from Sorted array | []() | [Github]() | SDE | Day 7 | Easy |
+Max consecutive ones | []() | [Github]() | SDE | Day 7 | Easy |
 | [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | | | | | 
 
 ---
