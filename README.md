@@ -61,21 +61,21 @@
 | Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | Both | Step 7 Lec 1/Day 3 | Medium |
 | Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | SDE | Day 3 | Medium | 
 | Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
-| Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Github]() | SDE | Day 5 | Easy |
+| Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/102.%20Reverse%20Linked%20List.cpp) | SDE | Day 5 | Easy |
 | Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Github]() | SDE | Day 5 | Easy |
 | Merge two sorted Linked List (use method used in mergeSort) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Github]() | SDE | Day 5 | Easy |
-| Remove N-th node from back of LinkedList | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Github]() | SDE | Day 5 | Medium |
-| Add two numbers as LinkedList | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Github]() | SDE | Day 5 | Medium |
+| Remove N-th node from back of LinkedList | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/105.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) | SDE | Day 5 | Medium |
+| Add two numbers as LinkedList | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2038/112.%20Add%20Two%20Numbers.cpp) | SDE | Day 5 | Medium |
 | Delete a given Node when a node is given.(0(1) solution) | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Github]() | SDE | Day 5 | Medium |
-| Find intersection point of Y LinkedList | [Intersection fo Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Github]() | SDE | Day 6 | Medium |
-| Detect a cycle in Linked List | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Github]() | SDE | Day 6 | Medium |
+| Find intersection point of Y LinkedList | [Intersection fo Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2038/114.%20Intersection%20of%20Two%20Linked%20Lists.cpp) | SDE | Day 6 | Medium |
+| Detect a cycle in Linked List | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/100.%20Linked%20List%20Cycle.cpp) | SDE | Day 6 | Medium |
 | Reverse a LinkedList in groups of size k | [Reverse Nodes in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Github]() | SDE | Day 6 | Hard |
-| Check if a LinkedList is palindrome or not | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Github]() | SDE | Day 6 | Medium |
+| Check if a LinkedList is palindrome or not | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/103.%20Palindrome%20Linked%20List.cpp) | SDE | Day 6 | Medium |
 | Find the starting point of the Loop of LinkedList | [Linked List Cycle-II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Github]() | SDE | Day 6 | Medium |
 | Flattening of a LinkedList | [Flatenning of ll](https://takeuforward.org/plus/dsa/problems/flattening-of-ll) | [Github]() | SDE | Day 6 | Hard |
-| Rotate a LinkedList | [Rotatw List](https://leetcode.com/problems/rotate-list/description/) | [Github]() | SDE | Day 7 | Medium |
-| Clone a Linked List with random and next pointer | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Github]() | SDE | Day 7 | Hard |
-| Trapping Rainwater | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Github]() | SDE | Day 7 | Hard |
+| Rotate a LinkedList | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Github]() | SDE | Day 7 | Medium |
+| Clone a Linked List with random and next pointer | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/107.%20Copy%20List%20with%20Random%20Pointer.cpp) | SDE | Day 7 | Hard |
+| Trapping Rainwater | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2033/97.%20Trapping%20Rain%20Water.cpp) | SDE | Day 7 | Hard |
 | Recursive Implementation of atoi() | [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Github]() | A2Z | Step 7 Lec 1 | Hard |
 | Count Good numbers | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | [Github]() | A2Z | Step 7 Lec 1 | Easy |
 | Generate Paranthesis | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
