@@ -22,13 +22,13 @@
 | Largest Element in an Array | [Largest Element](https://takeuforward.org/plus/dsa/problems/largest-element) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Second Largest Element in an Array without sorting | [Second Largest Element](https://takeuforward.org/plus/dsa/problems/second-largest-element) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Check if the array is sorted | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Remove duplicates from Sorted array | [Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
+| Remove duplicates from Sorted array | [Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Github]() | Both | Step 3 Lec 1/Day 7 | Easy |
 | Left rotate an array by D places | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Move Zeros to end | [Move Zeores](https://leetcode.com/problems/move-zeroes/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Linear Search | [Liner Search](https://takeuforward.org/plus/dsa/problems/linear-search) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Find the Union | [Union of two sorted arrays](https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
 | Find missing number in an array | [Missing number](https://leetcode.com/problems/missing-number/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2013/44.%20Missing%20Number.cpp) | A2Z | Step 3 Lec 1 | Easy |
-| Maximum Consecutive Ones | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
+| Maximum Consecutive Ones | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Github]() | Both | Step 3 Lec 1/Day 7 | Easy |
 | Find the number that appears once, and other numbers twice | [Single number](https://leetcode.com/problems/single-number/description/) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
 | Longest subarray with given sum K(positives) | [Longest Subarray with sum K](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k) | [Github]() | Both | Step 3 Lec 1/Day 4 | Medium |
 | 2Sum Problem | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2001/1.%20Two%20Sum.cpp) | Both | Step 3 Lec 2/Day 4 | Medium |
@@ -47,7 +47,7 @@
 | Count subarrays with given sum | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Github]() | A2Z | Step 3 Lec 2 | Easy |
 | Pascal's Triangle | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2027/79.%20Pascal's%20Triangle.cpp) | Both | Step 3 Lec 3/Day 1 | Medium |
 | Majority Element (n/3 times) | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2012/39.%20Majority%20Element%20ii.cpp) | Both | Step 3 Lec 3/Day 3 | Medium |
-| 3-Sum Problem | [3 sum](https://leetcode.com/problems/3sum/description/) | [Github]() | A2Z | Step 3 Lec 3 | Medium |
+| 3-Sum Problem | [3 sum](https://leetcode.com/problems/3sum/description/) | [Github]() | Both | Step 3 Lec 3/Day 7 | Medium |
 | 4-Sum Problem | [4 sum](https://leetcode.com/problems/4sum/description/) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
 | Count number of subarrays with given xor K | [Count subarrays with given xor K](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
 | Merge Overlapping Subintervals | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Github]() | Both | Step 3 Lec 3/Day 2 | Medium |
@@ -58,29 +58,44 @@
 | Maximum Product Subarray | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Github]() | A2Z | Step 3 Lec 3 | Easy |
 | Find the duplicate in an array of N+1 integers | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Find%20Duplicate.cpp) | SDE | Day 2 | Medium |
 | Search in a 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2018/57.%20Search%20a%202D%20Matrix.cpp) | SDE | Day 3 | Medium |
-| Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | SDE | Day 3 | Medium |
+| Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | Both | Step 7 Lec 1/Day 3 | Medium |
 | Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | SDE | Day 3 | Medium | 
 | Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
-| Reverse a LinkedList | []() | [Github]() | SDE | Day 5 | Easy |
-| Find the middle of LinkedList | []() | [Github]() | SDE | Day 5 | Easy |
-| Merge two sorted Linked List (use method used in mergeSort) | []() | [Github]() | SDE | Day 5 | Easy |
-| Remove N-th node from back of LinkedList | []() | [Github]() | SDE | Day 5 | Medium |
-| Add two numbers as LinkedList | []() | [Github]() | SDE | Day 5 | Medium |
-| Delete a given Node when a node is given.(0(1) solution) | []() | [Github]() | SDE | Day 5 | Medium |
-| Find intersection point of Y LinkedList | []() | [Github]() | SDE | Day 6 | Medium |
-| Detect a cycle in Linked List | []() | [Github]() | SDE | Day 6 | Medium |
-Reverse a LinkedList in groups of size k | []() | [Github]() | SDE | Day 6 | Hard |
-Check if a LinkedList is palindrome or not | []() | [Github]() | SDE | Day 6 | Medium |
-Find the starting point of the Loop of LinkedList | []() | [Github]() | SDE | Day 6 | Medium |
-Flattening of a LinkedList | []() | [Github]() | SDE | Day 6 | Hard |
-Rotate a LinkedList | []() | [Github]() | SDE | Day 7 | Medium |
-Clone a Linked List with random and next pointer | []() | [Github]() | SDE | Day 7 | Hard |
-3 sum | []() | [Github]() | SDE | Day 7 | Medium |
-Trapping Rainwater | []() | [Github]() | SDE | Day 7 | Hard |
-Remove Duplicate from Sorted array | []() | [Github]() | SDE | Day 7 | Easy |
-Max consecutive ones | []() | [Github]() | SDE | Day 7 | Easy |
-| [Valid Parentheses ](https://leetcode.com/problems/valid-parentheses/) | | | | | 
-
+| Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Github]() | SDE | Day 5 | Easy |
+| Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Github]() | SDE | Day 5 | Easy |
+| Merge two sorted Linked List (use method used in mergeSort) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Github]() | SDE | Day 5 | Easy |
+| Remove N-th node from back of LinkedList | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Github]() | SDE | Day 5 | Medium |
+| Add two numbers as LinkedList | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Github]() | SDE | Day 5 | Medium |
+| Delete a given Node when a node is given.(0(1) solution) | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Github]() | SDE | Day 5 | Medium |
+| Find intersection point of Y LinkedList | [Intersection fo Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Github]() | SDE | Day 6 | Medium |
+| Detect a cycle in Linked List | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Github]() | SDE | Day 6 | Medium |
+| Reverse a LinkedList in groups of size k | [Reverse Nodes in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Github]() | SDE | Day 6 | Hard |
+| Check if a LinkedList is palindrome or not | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Github]() | SDE | Day 6 | Medium |
+| Find the starting point of the Loop of LinkedList | [Linked List Cycle-II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Github]() | SDE | Day 6 | Medium |
+| Flattening of a LinkedList | [Flatenning of ll](https://takeuforward.org/plus/dsa/problems/flattening-of-ll) | [Github]() | SDE | Day 6 | Hard |
+| Rotate a LinkedList | [Rotatw List](https://leetcode.com/problems/rotate-list/description/) | [Github]() | SDE | Day 7 | Medium |
+| Clone a Linked List with random and next pointer | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Github]() | SDE | Day 7 | Hard |
+| Trapping Rainwater | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Github]() | SDE | Day 7 | Hard |
+| Recursive Implementation of atoi() | [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Github]() | A2Z | Step 7 Lec 1 | Hard |
+| Count Good numbers | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | [Github]() | A2Z | Step 7 Lec 1 | Easy |
+| Generate Paranthesis | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Print all subsequences/Power Set | [Subsets](https://leetcode.com/problems/subsets/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Count all subsequences with sum K | [Count all subsequences with sum K](https://takeuforward.org/plus/dsa/problems/count-all-subsequences-with-sum-k) | [Github]() | A2Z | Step 7 Lec 2 | Hard |
+| Check if there exists a subsequence with sum K | [Check if there exists a subsequence with sum K](https://takeuforward.org/plus/dsa/problems/check-if-there-exists-a-subsequence-with-sum-k) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Combination Sum | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Combination Sum-II | [Combination Sum-II](https://leetcode.com/problems/combination-sum-ii/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Subset Sum-I | [Subset Sum-I](https://takeuforward.org/plus/dsa/problems/subsets-i) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Subset Sum-II | [Subset Sum-II](https://leetcode.com/problems/subsets-ii/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Combination Sum - III | [Subset Sum - III](https://leetcode.com/problems/combination-sum-iii/description/) | [Github]() | A2Z | Step 7 Lec 2 | Hard |
+| Letter Combinations of a Phone number | [Letter Combinations of a Phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Palindrome Partitioning | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Github]() | A2Z | Step 7 Lec 3 | Medium |
+| Word Search | [Word Search](https://leetcode.com/problems/word-search/description/) | [Github]() | A2Z | Step 7 Lec 3 | Medium |
+| N Queen | [N Queen](https://leetcode.com/problems/n-queens/description/) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
+| Rat in a Maze | [Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
+| Word Break | [Word Break](https://leetcode.com/problems/word-break/description/) | [Github]() | A2Z | Step 7 Lec 3 | Medium |
+| M Coloring Problem | [M Coloring Problem](https://takeuforward.org/plus/dsa/problems/m-coloring-problem) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
+| Sudoko Solver | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
+| Expression Add Operators | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
 ---
 
 | No. | Topic                                                  | Type |
@@ -100,13 +115,13 @@ Max consecutive ones | []() | [Github]() | SDE | Day 7 | Easy |
 | 13  | String                                                 | Day  |
 | 14  | String Part-II                                         | Day  |
 | 15  | Learn LinkedList \[Single LL, Double LL, Medium, Hard] | Step |
-| 16  | Linked List                                            | Day  |
-| 17  | Linked List Part-II                                    | Day  |
-| 18  | Linked List and Arrays                                 | Day  |
+| 16  | Linked List ✅                                           | Day  |
+| 17  | Linked List Part-II ✅                                   | Day  |
+| 18  | Linked List and Arrays ✅                                | Day  |
 | 19  | Stack and Queues \[Pre/Post/Infix, Monotonic, Impl.]   | Step |
 | 20  | Stack and Queue                                        | Day  |
 | 21  | Stack and Queue Part-II                                | Day  |
-| 22  | Recursion \[PatternWise]                               | Step |
+| 22  | Recursion \[PatternWise] ✅                              | Step |
 | 23  | Recursion                                              | Day  |
 | 24  | Recursion and Backtracking                             | Day  |
 | 25  | Bit Manipulation \[Concepts & Problems]                | Step |
