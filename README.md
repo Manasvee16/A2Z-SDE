@@ -40,7 +40,7 @@
 | Rearrange the array in alternating positive and negative items | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [Github]() | A2Z | Step 3 Lec 2 | Medium |
 | Next Permutation | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Medium |
 | Leaders in an Array problem | [Leaders in an Array](https://takeuforward.org/plus/dsa/problems/leaders-in-an-array) | [Github]() | A2Z | Step 3 Lec 2 | Easy |
-| Longest Consecutive Sequence in an Array | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Github]() | Both | Step 3 Lec 2/Day 4 | Medium |
+| Longest Consecutive Sequence in an Array | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20Consecutive%20Sequence.cpp) | Both | Step 3 Lec 2/Day 4 | Medium |
 | Set Matrix Zeros | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2014/45.%20Set%20Matrix%20Zeroes.cpp) | Both | Step 3 Lec 2/Day 1 | Medium |
 | Rotate Matrix by 90 degrees | [Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2018/58.%20Rotate%20Image.cpp) | Both | Step 3 Lec 2/Day 2 | Medium |
 | Print the matrix in spiral manner | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2015/49.%20Spiral%20Matrix.cpp) | A2Z | Step 3 Lec 2 | Medium |
@@ -48,7 +48,7 @@
 | Pascal's Triangle | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2027/79.%20Pascal's%20Triangle.cpp) | Both | Step 3 Lec 3/Day 1 | Medium |
 | Majority Element (n/3 times) | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2012/39.%20Majority%20Element%20ii.cpp) | Both | Step 3 Lec 3/Day 3 | Medium |
 | 3-Sum Problem | [3 sum](https://leetcode.com/problems/3sum/description/) | [Github]() | Both | Step 3 Lec 3/Day 7 | Medium |
-| 4-Sum Problem | [4 sum](https://leetcode.com/problems/4sum/description/) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
+| 4-Sum Problem | [4 sum](https://leetcode.com/problems/4sum/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/4%20sum.cpp) | Both | Step 3 Lec 3/Day 4 | Hard |
 | Count number of subarrays with given xor K | [Count subarrays with given xor K](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
 | Merge Overlapping Subintervals | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Github]() | Both | Step 3 Lec 3/Day 2 | Medium |
 | Merge two sorted arrays without extra space | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Sorted%20Array.cpp) | A2Z | Step 3 Lec 3/Day 2 | Medium |
@@ -82,20 +82,25 @@
 | Print all subsequences/Power Set | [Subsets](https://leetcode.com/problems/subsets/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
 | Count all subsequences with sum K | [Count all subsequences with sum K](https://takeuforward.org/plus/dsa/problems/count-all-subsequences-with-sum-k) | [Github]() | A2Z | Step 7 Lec 2 | Hard |
 | Check if there exists a subsequence with sum K | [Check if there exists a subsequence with sum K](https://takeuforward.org/plus/dsa/problems/check-if-there-exists-a-subsequence-with-sum-k) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
-| Combination Sum | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
-| Combination Sum-II | [Combination Sum-II](https://leetcode.com/problems/combination-sum-ii/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Combination Sum | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Github]() | Both | Step 7 Lec 2/Day 9 | Medium |
+| Combination Sum-II | [Combination Sum-II](https://leetcode.com/problems/combination-sum-ii/description/) | [Github]() | Both | Step 7 Lec 2/Day 9 | Medium |
 | Subset Sum-I | [Subset Sum-I](https://takeuforward.org/plus/dsa/problems/subsets-i) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
-| Subset Sum-II | [Subset Sum-II](https://leetcode.com/problems/subsets-ii/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Subset Sum-II | [Subset Sum-II](https://leetcode.com/problems/subsets-ii/description/) | [Github]() | Both | Step 7 Lec 2/Day 9 | Medium |
 | Combination Sum - III | [Subset Sum - III](https://leetcode.com/problems/combination-sum-iii/description/) | [Github]() | A2Z | Step 7 Lec 2 | Hard |
 | Letter Combinations of a Phone number | [Letter Combinations of a Phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
-| Palindrome Partitioning | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Github]() | A2Z | Step 7 Lec 3 | Medium |
+| Palindrome Partitioning | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Github]() | Both | Step 7 Lec 3/Day 9 | Medium |
 | Word Search | [Word Search](https://leetcode.com/problems/word-search/description/) | [Github]() | A2Z | Step 7 Lec 3 | Medium |
-| N Queen | [N Queen](https://leetcode.com/problems/n-queens/description/) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
-| Rat in a Maze | [Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
-| Word Break | [Word Break](https://leetcode.com/problems/word-break/description/) | [Github]() | A2Z | Step 7 Lec 3 | Medium |
-| M Coloring Problem | [M Coloring Problem](https://takeuforward.org/plus/dsa/problems/m-coloring-problem) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
-| Sudoko Solver | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
+| N Queen | [N Queen](https://leetcode.com/problems/n-queens/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/N%20Queens.cpp) | Both | Step 7 Lec 3/Day 10 | Hard |
+| Rat in a Maze | [Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze) | [Github]() | Both | Step 7 Lec 3/Day 10 | Hard |
+| Word Break | [Word Break](https://leetcode.com/problems/word-break/description/) | [Github]() | Both | Step 7 Lec 3/Day 10 | Medium |
+| M Coloring Problem | [M Coloring Problem](https://takeuforward.org/plus/dsa/problems/m-coloring-problem) | [Github]() | Both | Step 7 Lec 3/Day 10 | Hard |
+| Sudoko Solver | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Github]() | Both | Step 7 Lec 3/Day 10 | Hard |
 | Expression Add Operators | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
+| Subset Sums | [Subset sum equals to target](https://takeuforward.org/plus/dsa/problems/subset-sum-equals-to-target) | [Github]() | SDE | Day 9 | Hard |
+| K-th permutation Sequence | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Permutation%20Sequence.cpp) | SDE | Day 9 | Hard |
+| Print all Permutations of a String/Array | [Permutations](https://leetcode.com/problems/permutations/description/) | [Github]() | SDE | Day 10 | Medium |
+
+
 ---
 
 | No. | Topic                                                  | Type |
@@ -122,8 +127,8 @@
 | 20  | Stack and Queue                                        | Day  |
 | 21  | Stack and Queue Part-II                                | Day  |
 | 22  | Recursion \[PatternWise] ✅                              | Step |
-| 23  | Recursion                                              | Day  |
-| 24  | Recursion and Backtracking                             | Day  |
+| 23  | Recursion ✅                                             | Day  |
+| 24  | Recursion and Backtracking ✅                            | Day  |
 | 25  | Bit Manipulation \[Concepts & Problems]                | Step |
 | 26  | Heaps \[Learning, Medium, Hard Problems]               | Step |
 | 27  | Heaps                                                  | Day  |
