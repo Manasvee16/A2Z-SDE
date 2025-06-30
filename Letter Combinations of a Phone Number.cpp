@@ -52,3 +52,47 @@ Each digit can map to 3 or 4 letters
 SC O(4^n × n)
 Output vector will hold O(4^n) strings, each of length n
 */
+
+class Solution {
+public:
+    vector<string> letterCombinations(string digits) {
+        if (digits.size()==0)
+            return {};
+        string temp=""; //stores the current combination being formed
+        vector<string> ans;
+        unordered_map<char, string> getLetters{
+            {'2',"abc"}, 
+            {'3', "def"}, 
+            {'4', "ghi"}, 
+            {'5', "jkl"}, 
+            {'6', "mno"}, 
+            {'7', "pqrs"}, 
+            {'8', "tuv"}, 
+            {'9', "wxyz"}
+        };
+        helper(digits, temp, ans, 0, getLetters);
+        return ans;
+    }
+    void helper(string digits, string temp, vector<string>& ans, int idx, unordered_map<char, string>& getLetters)
+    {
+        if (idx==digits.size())
+         {
+            ans.push_back(temp);   
+            return ;
+         }
+        char digit = digits[idx];
+        for (char letter: getLetters[digit])
+        {   
+            temp.push_back(letter); //choose
+            helper(digits, temp, ans, idx+1, getLetters); //explore
+            temp.pop_back(); //backtrack
+        }
+    }
+};
+/* 
+TC O(4^n × n)
+n = digits.size()
+Each digit can map to 3 or 4 letters
+SC O(4^n × n)
+Output vector will hold O(4^n) strings, each of length n
+*/
