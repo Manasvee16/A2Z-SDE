@@ -22,13 +22,13 @@
 | Largest Element in an Array | [Largest Element](https://takeuforward.org/plus/dsa/problems/largest-element) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Second Largest Element in an Array without sorting | [Second Largest Element](https://takeuforward.org/plus/dsa/problems/second-largest-element) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Check if the array is sorted | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Remove duplicates from Sorted array | [Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Github]() | Both | Step 3 Lec 1/Day 7 | Easy |
+| Remove duplicates from Sorted array | [Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Remove%20Duplicates%20From%20Sorted%20Array.cpp) | Both | Step 3 Lec 1/Day 7 | Easy |
 | Left rotate an array by D places | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Move Zeros to end | [Move Zeores](https://leetcode.com/problems/move-zeroes/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Linear Search | [Liner Search](https://takeuforward.org/plus/dsa/problems/linear-search) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
 | Find the Union | [Union of two sorted arrays](https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
 | Find missing number in an array | [Missing number](https://leetcode.com/problems/missing-number/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2013/44.%20Missing%20Number.cpp) | A2Z | Step 3 Lec 1 | Easy |
-| Maximum Consecutive Ones | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Github]() | Both | Step 3 Lec 1/Day 7 | Easy |
+| Maximum Consecutive Ones | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Max%20Consecutive%20Ones.cpp) | Both | Step 3 Lec 1/Day 7 | Easy |
 | Find the number that appears once, and other numbers twice | [Single number](https://leetcode.com/problems/single-number/description/) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
 | Longest subarray with given sum K(positives) | [Longest Subarray with sum K](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k) | [Github]() | Both | Step 3 Lec 1/Day 4 | Medium |
 | 2Sum Problem | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2001/1.%20Two%20Sum.cpp) | Both | Step 3 Lec 2/Day 4 | Medium |
@@ -62,43 +62,43 @@
 | Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | SDE | Day 3 | Medium | 
 | Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
 | Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/102.%20Reverse%20Linked%20List.cpp) | SDE | Day 5 | Easy |
-| Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Github]() | SDE | Day 5 | Easy |
+| Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Middle%20of%20the%20Linked%20List.cpp) | SDE | Day 5 | Easy |
 | Merge two sorted Linked List (use method used in mergeSort) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Github]() | SDE | Day 5 | Easy |
 | Remove N-th node from back of LinkedList | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/105.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) | SDE | Day 5 | Medium |
 | Add two numbers as LinkedList | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2038/112.%20Add%20Two%20Numbers.cpp) | SDE | Day 5 | Medium |
-| Delete a given Node when a node is given.(0(1) solution) | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Github]() | SDE | Day 5 | Medium |
+| Delete a given Node when a node is given.(0(1) solution) | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Delete%20Node%20in%20a%20Linked%20List.cpp) | SDE | Day 5 | Medium |
 | Find intersection point of Y LinkedList | [Intersection fo Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2038/114.%20Intersection%20of%20Two%20Linked%20Lists.cpp) | SDE | Day 6 | Medium |
 | Detect a cycle in Linked List | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/100.%20Linked%20List%20Cycle.cpp) | SDE | Day 6 | Medium |
-| Reverse a LinkedList in groups of size k | [Reverse Nodes in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Github]() | SDE | Day 6 | Hard |
+| Reverse a LinkedList in groups of size k | [Reverse Nodes in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Reverse%20Nodes%20in%20k-Group.cpp) | SDE | Day 6 | Hard |
 | Check if a LinkedList is palindrome or not | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/103.%20Palindrome%20Linked%20List.cpp) | SDE | Day 6 | Medium |
 | Find the starting point of the Loop of LinkedList | [Linked List Cycle-II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Github]() | SDE | Day 6 | Medium |
 | Flattening of a LinkedList | [Flatenning of ll](https://takeuforward.org/plus/dsa/problems/flattening-of-ll) | [Github]() | SDE | Day 6 | Hard |
-| Rotate a LinkedList | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Github]() | SDE | Day 7 | Medium |
+| Rotate a LinkedList | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Rotate%20List.cpp) | SDE | Day 7 | Medium |
 | Clone a Linked List with random and next pointer | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/107.%20Copy%20List%20with%20Random%20Pointer.cpp) | SDE | Day 7 | Hard |
 | Trapping Rainwater | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2033/97.%20Trapping%20Rain%20Water.cpp) | SDE | Day 7 | Hard |
 | Recursive Implementation of atoi() | [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Github]() | A2Z | Step 7 Lec 1 | Hard |
 | Count Good numbers | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | [Github]() | A2Z | Step 7 Lec 1 | Easy |
-| Generate Paranthesis | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Generate Paranthesis | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2002/5.%20Generate%20Parentheses.cpp) | A2Z | Step 7 Lec 2 | Medium |
 | Print all subsequences/Power Set | [Subsets](https://leetcode.com/problems/subsets/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
 | Count all subsequences with sum K | [Count all subsequences with sum K](https://takeuforward.org/plus/dsa/problems/count-all-subsequences-with-sum-k) | [Github]() | A2Z | Step 7 Lec 2 | Hard |
 | Check if there exists a subsequence with sum K | [Check if there exists a subsequence with sum K](https://takeuforward.org/plus/dsa/problems/check-if-there-exists-a-subsequence-with-sum-k) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
 | Combination Sum | [Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Github]() | Both | Step 7 Lec 2/Day 9 | Medium |
-| Combination Sum-II | [Combination Sum-II](https://leetcode.com/problems/combination-sum-ii/description/) | [Github]() | Both | Step 7 Lec 2/Day 9 | Medium |
+| Combination Sum-II | [Combination Sum-II](https://leetcode.com/problems/combination-sum-ii/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Combination%20Sum%20ii.cpp) | Both | Step 7 Lec 2/Day 9 | Medium |
 | Subset Sum-I | [Subset Sum-I](https://takeuforward.org/plus/dsa/problems/subsets-i) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
 | Subset Sum-II | [Subset Sum-II](https://leetcode.com/problems/subsets-ii/description/) | [Github]() | Both | Step 7 Lec 2/Day 9 | Medium |
-| Combination Sum - III | [Subset Sum - III](https://leetcode.com/problems/combination-sum-iii/description/) | [Github]() | A2Z | Step 7 Lec 2 | Hard |
-| Letter Combinations of a Phone number | [Letter Combinations of a Phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+| Combination Sum - III | [Combination Sum - III](https://leetcode.com/problems/combination-sum-iii/description/) | [Github]() | A2Z | Step 7 Lec 2 | Hard |
+| Letter Combinations of a Phone number | [Letter Combinations of a Phone number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Letter%20Combinations%20of%20a%20Phone%20Number.cpp) | A2Z | Step 7 Lec 2 | Medium |
 | Palindrome Partitioning | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/) | [Github]() | Both | Step 7 Lec 3/Day 9 | Medium |
-| Word Search | [Word Search](https://leetcode.com/problems/word-search/description/) | [Github]() | A2Z | Step 7 Lec 3 | Medium |
+| Word Search | [Word Search](https://leetcode.com/problems/word-search/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2045/132.%20Word%20Search.cpp) | A2Z | Step 7 Lec 3 | Medium |
 | N Queen | [N Queen](https://leetcode.com/problems/n-queens/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/N%20Queens.cpp) | Both | Step 7 Lec 3/Day 10 | Hard |
 | Rat in a Maze | [Rat in a Maze](https://takeuforward.org/plus/dsa/problems/rat-in-a-maze) | [Github]() | Both | Step 7 Lec 3/Day 10 | Hard |
-| Word Break | [Word Break](https://leetcode.com/problems/word-break/description/) | [Github]() | Both | Step 7 Lec 3/Day 10 | Medium |
+| Word Break | [Word Break](https://leetcode.com/problems/word-break/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2034/98.%20Word%20Break.cpp) | Both | Step 7 Lec 3/Day 10 | Medium |
 | M Coloring Problem | [M Coloring Problem](https://takeuforward.org/plus/dsa/problems/m-coloring-problem) | [Github]() | Both | Step 7 Lec 3/Day 10 | Hard |
-| Sudoko Solver | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Github]() | Both | Step 7 Lec 3/Day 10 | Hard |
+| Sudoko Solver | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Sudoku%20Solver.cpp) | Both | Step 7 Lec 3/Day 10 | Hard |
 | Expression Add Operators | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [Github]() | A2Z | Step 7 Lec 3 | Hard |
 | Subset Sums | [Subset sum equals to target](https://takeuforward.org/plus/dsa/problems/subset-sum-equals-to-target) | [Github]() | SDE | Day 9 | Hard |
 | K-th permutation Sequence | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Permutation%20Sequence.cpp) | SDE | Day 9 | Hard |
-| Print all Permutations of a String/Array | [Permutations](https://leetcode.com/problems/permutations/description/) | [Github]() | SDE | Day 10 | Medium |
+| Print all Permutations of a String/Array | [Permutations](https://leetcode.com/problems/permutations/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2023/72.%20Permutations.cpp) | SDE | Day 10 | Medium |
 
 
 ---
