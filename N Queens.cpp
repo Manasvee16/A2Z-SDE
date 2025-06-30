@@ -2,6 +2,40 @@ class Solution {
 public:
     vector<vector<string>> solveNQueens(int n) {
         vector<vector<string>> ans;
+        vector<int> cols(n); // cols[i] = column index of queen in row i
+        // Generate all permutations (each row gets a queen in a unique column)
+        for (int i = 0; i < n; i++) 
+            cols[i] = i;
+        do {
+            // Use helper to check diagonals 
+            if (isValid(cols, n)) {
+                // Build the board
+                vector<string> board(n, string(n, '.'));
+                for (int i = 0; i < n; i++) {
+                    board[i][cols[i]] = 'Q';
+                }
+                ans.push_back(board);
+            }
+        } while (next_permutation(cols.begin(), cols.end()));
+        return ans;
+    }
+    // Check for diagonal conflicts
+    bool isValid(vector<int>& cols, int n) {
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if (abs(i - j) == abs(cols[i] - cols[j])) {
+                    return false; // same diagonal
+                }
+            }
+        }
+        return true;
+    }
+};
+
+class Solution {
+public:
+    vector<vector<string>> solveNQueens(int n) {
+        vector<vector<string>> ans;
         vector<string> board;
         string row(n, '.');
         for (int i=0;i<n;i++)
