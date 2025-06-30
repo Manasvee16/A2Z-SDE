@@ -46,3 +46,41 @@ public:
         return true;
     }
 };
+
+class Solution {
+public:
+    void solveSudoku(vector<vector<char>>& board) { helper(board); }
+    bool helper(vector<vector<char>>& board) {
+
+        for (int i = 0; i < board.size(); i++) {
+            for (int j = 0; j < board[0].size(); j++) {
+                if (board[i][j] == '.') {
+                    for (char c = '1'; c <= '9'; c++) {
+                        if (isSafe(board, c, i, j)) {
+                            board[i][j] = c;
+                            if (helper(board))
+                                return 1;
+                            else
+                                board[i][j] = '.';
+                        }
+                    }
+                    return false;
+                }
+            }
+        } 
+            return true;
+        }
+        bool isSafe(vector<vector<char>> & board, char num, int row, int col) {
+            for (int i = 0; i < board.size(); i++) {
+                if (board[i][col] == num)
+                    return false;
+                if (board[row][i] == num)
+                    return false;
+                int newrow = (3 * (row / 3) + (i / 3));
+                int newcol = (3 * (col / 3) + (i % 3));
+                if (board[newrow][newcol] == num)
+                    return false;
+            }
+            return true;
+        }
+    };
