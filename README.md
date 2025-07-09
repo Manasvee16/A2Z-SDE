@@ -3,38 +3,38 @@
 
 | Question   | Link | Solution | SDE/A2Z |Category | Difficulty|
 |--------------------------|-------------|-------------------------|-----------|-----------|--------------------------------|
-| Count Digits | [Count all Digits of a Number](https://takeuforward.org/plus/dsa/problems/count-all-digits-of-a-number) | [Github]() | A2Z | Step 1 Lec 4 | Easy |
-| Reverse a Number | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Github]() | A2Z | Step 1 Lec 4 | Easy |
-| Check Palindrome | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Github]() | A2Z | Step 1 Lec 4 | Easy |
-| GCD or HCF | [GCD of Two Numbers](https://takeuforward.org/plus/dsa/problems/gcd-of-two-numbers) | [Github]() | A2Z | Step 1 Lec 4 | Easy |
-| Print all Divisors | [Divisors of a Number](https://takeuforward.org/plus/dsa/problems/divisors-of-a-number) | [Github]() | A2Z | Step 1 Lec 4 | Easy |
-| Check for Prime | [Check for Prime Number](https://takeuforward.org/plus/dsa/problems/check-for-prime-number) | [Github]() | A2Z | Step 1 Lec 4 | Easy |
-| Factorial of N numbers | [Factorial of a Given Number](https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number) | [Github]() | A2Z | Step 1 Lec 5 | Easy |
-| Reverse an array | [Reverse an array](https://takeuforward.org/plus/dsa/problems/reverse-an-array) | [Github]() | A2Z | Step 1 Lec 5 | Easy |
+| Count Digits | [Count all Digits of a Number](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20Digits.cpp) | A2Z | Step 1 Lec 4 | Easy |
+| Reverse a Number | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Reverse%20Integer.cpp) | A2Z | Step 1 Lec 4 | Easy |
+| Check Palindrome | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Palindrome%20Number.cpp) | A2Z | Step 1 Lec 4 | Easy |
+| GCD or HCF | [GCD of Two Numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/GCD%20of%20Two%20Numbers.cpp) | A2Z | Step 1 Lec 4 | Easy |
+| Print all Divisors | [All Divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/All%20Divisors%20of%20a%20Number.cpp) | A2Z | Step 1 Lec 4 | Easy |
+| Check for Prime | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Prime%20Number.cpp) | A2Z | Step 1 Lec 4 | Easy |
+| Factorial of N numbers | [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Factorial.cpp) | A2Z | Step 1 Lec 5 | Easy |
+| Reverse an array | [Reverse an array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Reverse%20an%20Array.cpp) | A2Z | Step 1 Lec 5 | Easy |
 | Check if a string is palindrome or not | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2003/13.%20Valid%20Palindrome.cpp) | A2Z | Step 1 Lec 5 | Medium |
 | Fibonacci Number | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2025/75.%20Fibonacci%20Number.cpp) | A2Z | Step 1 Lec 5 | Easy |
-| Find the highest/lowest frequency element | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Github]() | A2Z | Step 1 Lec 6 | Medium |
-| Selection Sort | [Selection Sort](https://takeuforward.org/plus/dsa/problems/selection-sort) | [Github]() | A2Z | Step 2 Lec 1 | Easy |
-| Bubble Sort | [Bubble Sort](https://takeuforward.org/plus/dsa/problems/bubble-sort) | [Github]() | A2Z | Step 2 Lec 1 | Easy |
-| Insertion Sort | [Insertion Sorting](https://takeuforward.org/plus/dsa/problems/insertion-sorting) | [Github]() | A2Z | Step 2 Lec 1 | Easy |
-| Merge Sort | [Merge Sorting](https://takeuforward.org/plus/dsa/problems/merge-sorting) | [Github]() | A2Z | Step 2 Lec 2 | Medium |
-| Quick Sort | [Quick Sorting](https://takeuforward.org/plus/dsa/problems/quick-sorting) | [Github]() | A2Z | Step 2 Lec 2 | Easy |
-| Largest Element in an Array | [Largest Element](https://takeuforward.org/plus/dsa/problems/largest-element) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Second Largest Element in an Array without sorting | [Second Largest Element](https://takeuforward.org/plus/dsa/problems/second-largest-element) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Check if the array is sorted | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
+| Find the highest/lowest frequency element | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frequency%20of%20the%20Most%20Frequent%20Element.cpp) | A2Z | Step 1 Lec 6 | Medium |
+| Selection Sort | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Selection%20Sort.cpp) | A2Z | Step 2 Lec 1 | Easy |
+| Bubble Sort | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Bubble%20Sort.cpp) | A2Z | Step 2 Lec 1 | Easy |
+| Insertion Sort | [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Insertion%20Sort.cpp) | A2Z | Step 2 Lec 1 | Easy |
+| Merge Sort | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Sort.cpp) | A2Z | Step 2 Lec 2 | Medium |
+| Quick Sort | [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Quick%20Sort.cpp) | A2Z | Step 2 Lec 2 | Easy |
+| Largest Element in an Array | [Largest Element in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Largest%20Element%20in%20Array.cpp) | A2Z | Step 3 Lec 1 | Easy |
+| Second Largest Element in an Array without sorting | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Second%20Largest.cpp) | A2Z | Step 3 Lec 1 | Easy |
+| Check if the array is sorted | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Check%20if%20Array%20is%20Sorted%20and%20Rotated.cpp) | A2Z | Step 3 Lec 1 | Easy |
 | Remove duplicates from Sorted array | [Remove duplicates from Sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Remove%20Duplicates%20From%20Sorted%20Array.cpp) | Both | Step 3 Lec 1/Day 7 | Easy |
-| Left rotate an array by D places | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Move Zeros to end | [Move Zeores](https://leetcode.com/problems/move-zeroes/description/) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Linear Search | [Liner Search](https://takeuforward.org/plus/dsa/problems/linear-search) | [Github]() | A2Z | Step 3 Lec 1 | Easy |
-| Find the Union | [Union of two sorted arrays](https://takeuforward.org/plus/dsa/problems/union-of-two-sorted-arrays) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
+| Left rotate an array by D places | [Rotate Array](https://leetcode.com/problems/rotate-array/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Rotate%20Array.cpp) | A2Z | Step 3 Lec 1 | Easy |
+| Move Zeros to end | [Move Zeores](https://leetcode.com/problems/move-zeroes/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Move%20Zeroes.cpp) | A2Z | Step 3 Lec 1 | Easy |
+| Linear Search | [Array Search](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Array%20Search.cpp) | A2Z | Step 3 Lec 1 | Easy |
+| Find the Union | [Union of two sorted arrays](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Union%20of%20Arrays%20with%20Duplicates.cpp) | A2Z | Step 3 Lec 1 | Medium |
 | Find missing number in an array | [Missing number](https://leetcode.com/problems/missing-number/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2013/44.%20Missing%20Number.cpp) | A2Z | Step 3 Lec 1 | Easy |
 | Maximum Consecutive Ones | [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Max%20Consecutive%20Ones.cpp) | Both | Step 3 Lec 1/Day 7 | Easy |
-| Find the number that appears once, and other numbers twice | [Single number](https://leetcode.com/problems/single-number/description/) | [Github]() | A2Z | Step 3 Lec 1 | Medium |
-| Longest subarray with given sum K(positives) | [Longest Subarray with sum K](https://takeuforward.org/plus/dsa/problems/longest-subarray-with-sum-k) | [Github]() | Both | Step 3 Lec 1/Day 4 | Medium |
+| Find the number that appears once, and other numbers twice | [Single number](https://leetcode.com/problems/single-number/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Single%20Number.cpp) | A2Z | Step 3 Lec 1 | Medium |
+| Longest subarray with given sum K(positives) | [Longest Subarray with sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20Subarray%20with%20Sum%20K.cpp) | Both | Step 3 Lec 1/Day 4 | Medium |
 | 2Sum Problem | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2001/1.%20Two%20Sum.cpp) | Both | Step 3 Lec 2/Day 4 | Medium |
-| Sort an array of 0's 1's and 2's | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Medium |
+| Sort an array of 0's 1's and 2's | [Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Sort%20Colors.cpp) | Both | Step 3 Lec 2/Day 1 | Medium |
 | Majority Element (>n/2 times) | [Majority Element](https://leetcode.com/problems/majority-element/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2012/38.%20Majority%20Element.cpp) | Both | Step 3 Lec 2/Day 3 | Easy |
-| Kadane's Algorithm, maximum subarray sum | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Easy |
+| Kadane's Algorithm, maximum subarray sum | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Subarray.cpp) | Both | Step 3 Lec 2/Day 1 | Easy |
 | Print subarray with maximum subarray sum (extended version of above problem) | [Kadane's Algorithm](https://takeuforward.org/plus/dsa/problems/kadane's-algorithm) | [Github]() | A2Z | Step 3 Lec 2 | Medium |
 | Stock Buy and Sell | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Github]() | Both | Step 3 Lec 2/Day 1 | Easy |
 | Rearrange the array in alternating positive and negative items | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [Github]() | A2Z | Step 3 Lec 2 | Medium |
