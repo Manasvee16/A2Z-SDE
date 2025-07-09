@@ -99,7 +99,77 @@
 | Subset Sums | [Subset sum equals to target](https://takeuforward.org/plus/dsa/problems/subset-sum-equals-to-target) | [Github]() | SDE | Day 9 | Hard |
 | K-th permutation Sequence | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Permutation%20Sequence.cpp) | SDE | Day 9 | Hard |
 | Print all Permutations of a String/Array | [Permutations](https://leetcode.com/problems/permutations/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2023/72.%20Permutations.cpp) | SDE | Day 10 | Medium |
-
+| Assign Cookies | []() | [Github]() | A2Z | Step 12 Lec 1 | Easy |
+| Fractional Knapsack Problem | []() | [Github]() | A2Z | Step 12 Lec 1 | Medium |
+| Greedy algorithm to find minimum number of coins | []() | [Github]() | A2Z | Step 12 Lec 1 | Medium |
+| Lemonade Change | []() | [Github]() | A2Z | Step 12 Lec 1 | Easy |
+| Valid Paranthesis Checker | []() | [Github]() | A2Z | Step 12 Lec 1 | Medium |
+| N meetings in one room | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Jump Game | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Jump Game 2 | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Minimum number of platforms required for a railway | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Job sequencing Problem | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Candy | []() | [Github]() | A2Z | Step 12 Lec 2 | Hard |
+| Program for Shortest Job First (or SJF) CPU Scheduling | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Program for Least Recently Used (LRU) Page Replacement Algorithm | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Insert Interval | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Merge Intervals | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Non-overlapping Intervals | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Climbing Stars | []() | [Github]() | A2Z | Step 16 Lec 2 | Medium |
+| Frog Jump | []() | [Github]() | A2Z | Step 16 Lec 2 | Medium |
+| Frog Jump with k distances | []() | [Github]() | A2Z | Step 16 Lec 2 | Medium |
+| Maximum sum of non-adjacent elements | []() | [Github]() | A2Z | Step 16 Lec 2 | Medium |
+| House Robber | []() | [Github]() | A2Z | Step 16 Lec 2 | Medium |
+| Ninja's Training | []() | [Github]() | A2Z | Step 16 Lec 3 | Medium |
+| Grid Unique Paths : DP on Grids | []() | [Github]() | A2Z | Step 16 Lec 3 | Medium |
+| Grid Unique Paths 2 | []() | [Github]() | A2Z | Step 16 Lec 3 | Medium |
+| Minimum path sum in Grid | []() | [Github]() | A2Z | Step 16 Lec 3 | Medium |
+| Minimum path sum in Triangular Grid | []() | [Github]() | A2Z | Step 16 Lec 3 | Medium |
+| Minimum/Maximum Falling Path Sum | []() | [Github]() | A2Z | Step 16 Lec 3 | Medium |
+| 3-d DP : Ninja and his friends | []() | [Github]() | A2Z | Step 16 Lec 3 | Medium |
+| Subset sum equal to target | []() | [Github]() | A2Z | Step 16 Lec 4 | Medium |
+| Partition Equal Subset Sum | []() | [Github]() | A2Z | Step 16 Lec 4 | Medium |
+| Partition Set Into 2 Subsets With Min Absolute Sum Diff | []() | [Github]() | A2Z | Step 16 Lec 4 | Medium |
+| Count Subsets with Sum K | []() | [Github]() | A2Z | Step 16 Lec 4 | Medium |
+| Count Partitions with Given Difference | []() | [Github]() | A2Z | Step 16 Lec 4 | Medium |
+| Assign Cookies | []() | [Github]() | A2Z | Step 16 Lec 4 | Hard |
+| Minimum Coins | []() | [Github]() | A2Z | Step 16 Lec 4 | Hard |
+| Target Sum | []() | [Github]() | A2Z | Step 16 Lec 4 | Medium |
+| Coin Change 2 | []() | [Github]() | A2Z | Step 16 Lec 4 | Hard |
+| Unbounded Knapsack | []() | [Github]() | A2Z | Step 16 Lec 4 | Hard |
+| Rod Cutting Problem | []() | [Github]() | A2Z | Step 16 Lec 4 | Hard |
+| Longest Common Subsequence | []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Print Longest Common Subsequence | []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Longest Common Substring | []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Longest Palindromic Subsequence | []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Minimum insertions to make string palindrome | []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Minimum Insertions/Deletions to Convert String | []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Shortest Common Supersequence | []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Distinct Subsequences| []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Edit Distance | []() | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Wildcard Matching | []() | [Github]() | A2Z | Step 16 Lec 5 | Medium |
+| Best Time to Buy and Sell Stock | []() | [Github]() | A2Z | Step 16 Lec 6 | Hard |
+| Buy and Sell Stock - II | []() | [Github]() | A2Z | Step 16 Lec 6 | Hard |
+| Buy and Sell Stocks III | []() | [Github]() | A2Z | Step 16 Lec 6 | Hard |
+| Buy and Stock Sell IV | []() | [Github]() | A2Z | Step 16 Lec 6 | Hard |
+| Buy and Sell Stocks With Cooldown | []() | [Github]() | A2Z | Step 16 Lec 6 | Hard |
+| Buy and Sell Stocks With Transaction Fee | []() | [Github]() | A2Z | Step 16 Lec 6 | Hard |
+| Longest Increasing Subsequence | []() | [Github]() | A2Z | Step 16 Lec 7 | Hard |
+| Printing Longest Increasing Subsequence | []() | [Github]() | A2Z | Step 16 Lec 7 | Hard |
+| Longest Increasing Subsequence | []() | [Github]() | A2Z | Step 16 Lec 7 | Hard |
+| Largest Divisible Subset | []() | [Github]() | A2Z | Step 16 Lec 7 | Hard |
+| Longest String Chain | []() | [Github]() | A2Z | Step 16 Lec 7 | Hard |
+| Longest Bitonic Subsequence | []() | [Github]() | A2Z | Step 16 Lec 7 | Hard |
+| Number of Longest Increasing Subsequences | []() | [Github]() | A2Z | Step 16 Lec 7 | Hard |
+| Matrix Chain Multiplication | []() | [Github]() | A2Z | Step 16 Lec 8 | Hard |
+| Matrix Chain Multiplication (Bottom-Up) | []() | [Github]() | A2Z | Step 16 Lec 8 | Hard |
+| Minimum Cost to Cut the Stick | []() | [Github]() | A2Z | Step 16 Lec 8 | Hard |
+| Burst Balloons | []() | [Github]() | A2Z | Step 16 Lec 8 | Hard |
+| Evaluate Boolean Expression to True | []() | [Github]() | A2Z | Step 16 Lec 8 | Hard |
+| Palindrome Partitioning - II | []() | [Github]() | A2Z | Step 16 Lec 8 | Hard |
+| Partition Array for Maximum Sum | []() | [Github]() | A2Z | Step 16 Lec 8 | Hard |
+| Maximum Rectangle Area with all 1's | []() | [Github]() | A2Z | Step 16 Lec 9 | Hard |
+| Count Square Submatrices with All Ones | []() | [Github]() | A2Z | Step 16 Lec 9 | Hard |
 
 ---
 
@@ -132,7 +202,7 @@
 | 25  | Bit Manipulation \[Concepts & Problems]                | Step |
 | 26  | Heaps \[Learning, Medium, Hard Problems]               | Step |
 | 27  | Heaps                                                  | Day  |
-| 28  | Greedy Algorithms \[Easy, Medium/Hard]                 | Step |
+| 28  | Greedy Algorithms \[Easy, Medium/Hard] ✅                | Step |
 | 29  | Greedy Algorithm                                       | Day  |
 | 30  | Binary Trees \[Traversals, Medium and Hard Problems]   | Step |
 | 31  | Binary Tree                                            | Day  |
@@ -145,7 +215,7 @@
 | 38  | Graphs \[Concepts & Problems]                          | Step |
 | 39  | Graph                                                  | Day  |
 | 40  | Graph Part-II                                          | Day  |
-| 41  | Dynamic Programming \[Patterns and Problems]           | Step |
+| 41  | Dynamic Programming \[Patterns and Problems] ✅          | Step |
 | 42  | Dynamic Programming                                    | Day  |
 | 43  | Dynamic Programming Part-II                            | Day  |
 | 44  | Tries                                                  | Step |
