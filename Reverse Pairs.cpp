@@ -42,3 +42,11 @@ For each valid i, the number of valid js is j - (mid + 1)*/
         return count;
     }
 };
+/*TC: 
+merge sort=O(nlogn)
+divides array in logn and merge in n
+two pointers=O(n)
+SC:
+vector=O(n)
+recursion=O(logn)
+*/
