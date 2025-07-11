@@ -46,7 +46,7 @@
 | Count subarrays with given sum | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Subarray%20Sum%20Equals%20K.cpp) | A2Z | Step 3 Lec 2 | Easy |
 | Pascal's Triangle | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2027/79.%20Pascal's%20Triangle.cpp) | Both | Step 3 Lec 3/Day 1 | Medium |
 | Majority Element (n/3 times) | [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2012/39.%20Majority%20Element%20ii.cpp) | Both | Step 3 Lec 3/Day 3 | Medium |
-| 3-Sum Problem | [3 sum](https://leetcode.com/problems/3sum/description/) | [Github]() | Both | Step 3 Lec 3/Day 7 | Medium |
+| 3-Sum Problem | [3 sum](https://leetcode.com/problems/3sum/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/3%20sum.cpp) | Both | Step 3 Lec 3/Day 7 | Medium |
 | 4-Sum Problem | [4 sum](https://leetcode.com/problems/4sum/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/4%20sum.cpp) | Both | Step 3 Lec 3/Day 4 | Hard |
 | Count number of subarrays with given xor K | [Count subarrays with given xor K](https://takeuforward.org/plus/dsa/problems/count-subarrays-with-given-xor-k) | [Github]() | Both | Step 3 Lec 3/Day 4 | Hard |
 | Merge Overlapping Subintervals | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Github]() | Both | Step 3 Lec 3/Day 2 | Medium |
