@@ -1,3 +1,34 @@
+//greedy
+class Solution {
+public:
+    double fractionalKnapsack(vector<int>& val, vector<int>& wt, int capacity) {
+        int n = val.size();
+        vector<pair<double, int>> capacities;  // {value/weight, index}
+        // 1. Store value/weight ratio with item index
+        for (int i = 0; i < n; i++) {
+            double ratio = (double)val[i] / wt[i];
+            capacities.push_back({ratio, i});
+        }
+        // 2. Sort by ratio in descending order
+        sort(capacities.begin(), capacities.end(), greater<>());
+        // 3. Greedily pick items
+        double totalValue = 0.0;
+        for (auto& p : capacities) {
+            int idx = p.second;
+            if (capacity >= wt[idx]) {
+                totalValue += val[idx];
+                capacity -= wt[idx];
+            } 
+            else {
+                // take a fraction of the remaining capacity
+                totalValue += (double)val[idx] * capacity / wt[idx];
+                break;
+            }
+        }
+        return totalValue;
+    }
+};
+
 #include <bits/stdc++.h>
 
 using namespace std;
