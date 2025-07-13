@@ -98,28 +98,28 @@
 | Subset Sums | [Subset sum problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Subset%20Sum%20Problem.cpp) | Both | Step 16 Lec 4/Day 9 | Hard |
 | K-th permutation Sequence | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Permutation%20Sequence.cpp) | SDE | Day 9 | Hard |
 | Print all Permutations of a String/Array | [Permutations](https://leetcode.com/problems/permutations/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2023/72.%20Permutations.cpp) | SDE | Day 10 | Medium |
-| Assign Cookies | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Github]() | A2Z | Step 12 Lec 1/Step 16 Lec 4 | Easy |
-| Fractional Knapsack Problem | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Github]() | A2Z | Step 12 Lec 1 | Medium |
-| Lemonade Change | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Github]() | A2Z | Step 12 Lec 1 | Easy |
-| Valid Paranthesis Checker | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Github]() | A2Z | Step 12 Lec 1 | Medium |
-| N meetings in one room | [N Meetings in one Room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
-| Jump Game | [Jump Game](https://leetcode.com/problems/jump-game/) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
-| Jump Game 2 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
-| Minimum number of platforms required for a railway | [Minimum platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Assign Cookies | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Assign%20Cookies.cpp) | A2Z | Step 12 Lec 1/Step 16 Lec 4 | Easy |
+| Fractional Knapsack Problem | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Fractional%20Knapsack.cpp) | A2Z | Step 12 Lec 1 | Medium |
+| Lemonade Change | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Lemonade%20Change.cpp) | A2Z | Step 12 Lec 1 | Easy |
+| Valid Paranthesis Checker | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Valid%20Parenthesis%20String.cpp) | A2Z | Step 12 Lec 1 | Medium |
+| N meetings in one room | [N Meetings in one Room](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/N%20Meetings%20in%20One%20Room.cpp) | A2Z | Step 12 Lec 2 | Medium |
+| Jump Game | [Jump Game](https://leetcode.com/problems/jump-game/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2024/73.%20Jump%20Game.cpp) | A2Z | Step 12 Lec 2 | Medium |
+| Jump Game 2 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2024/74.%20Jump%20Game%20ii.cpp) | A2Z | Step 12 Lec 2 | Medium |
+| Minimum number of platforms required for a railway | [Minimum platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Minimum%20Platforms.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Job sequencing Problem | [Job sequencing Problem](https://takeuforward.org/plus/dsa/problems/job-sequencing-problem) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
-| Candy | [Candy](https://leetcode.com/problems/candy/) | [Github]() | A2Z | Step 12 Lec 2 | Hard |
-| Program for Shortest Job First (or SJF) CPU Scheduling | [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Candy | [Candy](https://leetcode.com/problems/candy/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Candy.cpp) | A2Z | Step 12 Lec 2 | Hard |
+| Program for Shortest Job First (or SJF) CPU Scheduling | [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Shortest%20Job%20First.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Program for Least Recently Used (LRU) Page Replacement Algorithm | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
-| Insert Interval | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
-| Non-overlapping Intervals | [Non overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
-| Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
+| Insert Interval | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Insert%20Interval.cpp) | A2Z | Step 12 Lec 2 | Medium |
+| Non-overlapping Intervals | [Non overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Non%20Overlapping%20Intervals.cpp) | A2Z | Step 12 Lec 2 | Medium |
+| Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
-| Maximum sum of non-adjacent elements | [House Robber](https://leetcode.com/problems/house-robber/) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
-| House Robber | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
+| Maximum sum of non-adjacent elements | [House Robber](https://leetcode.com/problems/house-robber/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2033/96.%20House%20Robber.cpp) | A2Z | Step 16 Lec 2 | Medium |
+| House Robber | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2034/99.%20House%20Robber%20II.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Ninja's Training | [Ninja's Training](https://takeuforward.org/plus/dsa/problems/ninja's-training) | [Github- ques link not working]() | A2Z | Step 16 Lec 3 | Medium |
 | Grid Unique Paths 2 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Github]() | A2Z | Step 16 Lec 3 | Medium |
-| Minimum path sum in Grid | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Github]() | Both | Step 16 Lec 3/Day 26 | Medium |
+| Minimum path sum in Grid | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/82.%20Minimum%20Path%20Sum.cpp) | Both | Step 16 Lec 3/Day 26 | Medium |
 | Minimum path sum in Triangular Grid | [Triangle](https://leetcode.com/problems/triangle/) | [Github]() | A2Z | Step 16 Lec 3 | Medium |
 | Minimum/Maximum Falling Path Sum | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Github]() | A2Z | Step 16 Lec 3 | Medium |
 | 3-d DP : Ninja and his friends | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/description/) [Chocolates Pickup](https://www.geeksforgeeks.org/problems/chocolates-pickup/1) | [Github]() | A2Z | Step 16 Lec 3 | Medium |
@@ -127,9 +127,9 @@
 | Partition Set Into 2 Subsets With Min Absolute Sum Diff | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) | [Github]() | A2Z | Step 16 Lec 4 | Medium |
 | Count Subsets with Sum K | [Perfect Sum Problem](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) | [Github]() | A2Z | Step 16 Lec 4 | Medium |
 | Count Partitions with Given Difference | [Count Partitions with Given Difference](https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1) | [Github]() | A2Z | Step 16 Lec 4 | Medium |
-| Minimum Coins | [Coin Change](https://leetcode.com/problems/coin-change/) | [Github]() | Both | Step 12 Lec 1/Step 16 Lec 4/Day 26 | Hard |
+| Minimum Coins | [Coin Change](https://leetcode.com/problems/coin-change/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2043/125.%20Coin%20Change) | Both | Step 12 Lec 1/Step 16 Lec 4/Day 26 | Hard |
 | Target Sum | [Target Sum](https://leetcode.com/problems/target-sum/) | [Github]() | A2Z | Step 16 Lec 4 | Medium |
-| Coin Change 2 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Github]() | A2Z | Step 16 Lec 4 | Hard |
+| Coin Change 2 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2043/126.%20Coin%20Change%20ii.cpp) | A2Z | Step 16 Lec 4 | Hard |
 | Unbounded Knapsack | [Unbounded Knapsack](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | [Github]() | A2Z | Step 16 Lec 4 | Hard |
 | Rod Cutting Problem | [Rod Cutting Problem](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | [Github]() | A2Z | Step 16 Lec 4 | Hard |
 | Longest Common Subsequence | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Github]() | Both | Step 16 Lec 5/Day 25 | Hard |
@@ -139,7 +139,7 @@
 | Minimum Insertions/Deletions to Convert String | [Delete Operation for two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
 | Shortest Common Supersequence | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
 | Distinct Subsequences| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
-| Edit Distance | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Github]() | Both | Step 16 Lec 5/Day 25 | Hard |
+| Edit Distance | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2027/80.%20Edit%20Distance.cpp) | Both | Step 16 Lec 5/Day 25 | Hard |
 | Wildcard Matching | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Github]() | A2Z | Step 16 Lec 5 | Medium |
 | Buy and Sell Stock - II | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Github]() | A2Z | Step 16 Lec 6 | Hard |
 | Buy and Sell Stocks III | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Github]() | A2Z | Step 16 Lec 6 | Hard |
