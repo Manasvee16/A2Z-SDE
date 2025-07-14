@@ -162,6 +162,27 @@
 | Count Square Submatrices with All Ones | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Github]() | A2Z | Step 16 Lec 9 | Hard |
 | Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github]() | SDE | Day 25 | Medium |
 | 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github]() | SDE | Day 26 | Medium |
+Inorder Traversal Easy
+Preorder Traversal Easy
+Postorder Traversal Easy
+Morris Inorder Traversal Medium
+Morris Preorder Traversal Medium
+LeftView Of Binary Tree Easy
+Bottom View of Binary Tree Medium
+Top View of Binary Tree Easy
+Preorder inorder postorder in a single traversal Medium
+Vertical order traversal Easy
+Root to Node Path in Binary Tree Medium
+Max width of a Binary Tree Medium
+Level order Traversal / Level order traversal in spiral form Easy
+Height of a Binary Tree Medium
+Diameter of Binary Tree Medium
+Check if the Binary tree is height-balanced or not Medium
+LCA in Binary Tree Medium
+Check if two trees are identical or not Medium
+Zig Zag Traversal of Binary Tree Easy
+Boundary Traversal of Binary Tree Medium
+
 
 ---
 
@@ -197,8 +218,8 @@
 | 28  | Greedy Algorithms \[Easy, Medium/Hard] ✅                | Step |
 | 29  | Greedy Algorithm                                       | Day  |
 | 30  | Binary Trees \[Traversals, Medium and Hard Problems]   | Step |
-| 31  | Binary Tree                                            | Day  |
-| 32  | Binary Tree Part-II                                    | Day  |
+| 31  | Binary Tree ✅                                           | Day  |
+| 32  | Binary Tree Part-II ✅                                   | Day  |
 | 33  | Binary Tree Part-III                                   | Day  |
 | 34  | Binary Trees \[Miscellaneous]                          | Day  |
 | 35  | Binary Search Trees \[Concept and Problems]            | Step |
