@@ -130,15 +130,15 @@
 | Minimum Coins | [Coin Change](https://leetcode.com/problems/coin-change/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2043/125.%20Coin%20Change) | Both | Step 12 Lec 1/Step 16 Lec 4/Day 26 | Hard |
 | Target Sum | [Target Sum](https://leetcode.com/problems/target-sum/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Target%20Sum.cpp) | A2Z | Step 16 Lec 4 | Medium |
 | Coin Change 2 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2043/126.%20Coin%20Change%20ii.cpp) | A2Z | Step 16 Lec 4 | Hard |
-| Unbounded Knapsack | [Unbounded Knapsack](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | [Github]() | A2Z | Step 16 Lec 4 | Hard |
-| Rod Cutting Problem | [Rod Cutting Problem](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | [Github]() | A2Z | Step 16 Lec 4 | Hard |
-| Longest Common Subsequence | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Github]() | Both | Step 16 Lec 5/Day 25 | Hard |
-| Longest Common Substring | [Longest Common Substring](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
-| Longest Palindromic Subsequence | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
-| Minimum insertions to make string palindrome | [Minimum insertions to make string palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Unbounded Knapsack | [Knapsack with Duplicate Items](https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Knapsack%20with%20Duplicate%20Items.cpp) | A2Z | Step 16 Lec 4 | Hard |
+| Rod Cutting Problem | [Rod Cutting Problem](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Rod%20Cutting.cpp) | A2Z | Step 16 Lec 4 | Hard |
+| Longest Common Subsequence | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20Common%20Subsequence.cpp) | Both | Step 16 Lec 5/Day 25 | Hard |
+| Longest Common Substring | [Longest Common Substring](https://www.geeksforgeeks.org/problems/longest-common-substring1452/1) | [Github no dp](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20Common%20Substring.cpp) | A2Z | Step 16 Lec 5 | Hard |
+| Longest Palindromic Subsequence | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20Palindromic%20Subsequence.cpp) | A2Z | Step 16 Lec 5 | Hard |
+| Minimum insertions to make string palindrome | [Minimum insertions to make string palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Minimum%20Insertion%20Steps%20to%20Make%20a%20String%20Palindrome.cpp) | A2Z | Step 16 Lec 5 | Hard |
 | Minimum Insertions/Deletions to Convert String | [Delete Operation for two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
 | Shortest Common Supersequence | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
-| Distinct Subsequences| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
+| Distinct Subsequences| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Distinct%20Subsequences.cpp) | A2Z | Step 16 Lec 5 | Hard |
 | Edit Distance | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2027/80.%20Edit%20Distance.cpp) | Both | Step 16 Lec 5/Day 25 | Hard |
 | Wildcard Matching | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Github]() | A2Z | Step 16 Lec 5 | Medium |
 | Buy and Sell Stock - II | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Github]() | A2Z | Step 16 Lec 6 | Hard |
