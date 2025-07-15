@@ -162,26 +162,26 @@
 | Count Square Submatrices with All Ones | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Github]() | A2Z | Step 16 Lec 9 | Hard |
 | Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Sum%20Increasing%20Subsequence.cpp) | SDE | Day 25 | Medium |
 | 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/0-1%20Knapsack.cpp) | SDE | Day 26 | Medium |
-Inorder Traversal Easy
-Preorder Traversal Easy
-Postorder Traversal Easy
-Morris Inorder Traversal Medium
-Morris Preorder Traversal Medium
-LeftView Of Binary Tree Easy
-Bottom View of Binary Tree Medium
-Top View of Binary Tree Easy
-Preorder inorder postorder in a single traversal Medium
-Vertical order traversal Easy
-Root to Node Path in Binary Tree Medium
-Max width of a Binary Tree Medium
-Level order Traversal / Level order traversal in spiral form Easy
-Height of a Binary Tree Medium
-Diameter of Binary Tree Medium
-Check if the Binary tree is height-balanced or not Medium
-LCA in Binary Tree Medium
-Check if two trees are identical or not Medium
-Zig Zag Traversal of Binary Tree Easy
-Boundary Traversal of Binary Tree Medium
+| Inorder Traversal | [](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github]() | SDE | Day 17 | Easy |
+| Preorder Traversal | [](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Github]() | SDE | Day 17 | Easy |
+| Postorder Traversal | [](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github]() | SDE | Day 17 | Easy |
+| Morris Inorder Traversal | [](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github]() | SDE | Day 17 | Medium |
+| Morris Preorder Traversal | [](https://takeuforward.org/plus/dsa/problems/morris-preorder-traversal-) | [Github]() | SDE | Day 17 | Medium |
+| LeftView Of Binary Tree | [](https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt) | [Github]() | SDE | Day 17 | Easy |
+| Bottom View of Binary Tree | [](https://takeuforward.org/plus/dsa/problems/bottom-view-of-bt) | [Github]() | SDE | Day 17 | Medium |
+| Top View of Binary Tree | [](https://takeuforward.org/plus/dsa/problems/top-view-of-bt) | [Github]() | SDE | Day 17 | Easy |
+| Preorder inorder postorder in a single traversal | [](https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal) | [Github]() | SDE | Day 17 | Medium |
+| Vertical order traversal | [](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Github]() | SDE | Day 17 | Easy |
+| Root to Node Path in Binary Tree | [](https://takeuforward.org/plus/dsa/problems/print-root-to-note-path-in-bt) | [Github]() | SDE | Day 17 | Medium |
+| Max width of a Binary Tree | [](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Github]() | SDE | Day 17 | Medium |
+| Level order Traversal / Level order traversal in spiral form | [](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Github]() | SDE | Day 18 | Easy |
+| Height of a Binary Tree | [](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
+| Diameter of Binary Tree | [](https://leetcode.com/problems/diameter-of-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
+| Check if the Binary tree is height-balanced or not | [](https://leetcode.com/problems/balanced-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
+| LCA in Binary Tree | [](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
+| Check if two trees are identical or not | [](https://leetcode.com/problems/same-tree/) | [Github]() | SDE | Day 18 | Medium |
+| Zig Zag Traversal of Binary Tree | [](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Github]() | SDE | Day 18 | Easy |
+| Boundary Traversal of Binary Tree | [](https://leetcode.com/problems/boundary-of-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
 
 
 ---
