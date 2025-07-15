@@ -140,17 +140,17 @@
 | Shortest Common Supersequence | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [Github]() | A2Z | Step 16 Lec 5 | Hard |
 | Distinct Subsequences| [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Distinct%20Subsequences.cpp) | A2Z | Step 16 Lec 5 | Hard |
 | Edit Distance | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2027/80.%20Edit%20Distance.cpp) | Both | Step 16 Lec 5/Day 25 | Hard |
-| Wildcard Matching | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Github]() | A2Z | Step 16 Lec 5 | Medium |
-| Buy and Sell Stock - II | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Github]() | A2Z | Step 16 Lec 6 | Hard |
+| Wildcard Matching | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Wildcard%20Matching.cpp) | A2Z | Step 16 Lec 5 | Medium |
+| Buy and Sell Stock - II | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20ii.cpp) | A2Z | Step 16 Lec 6 | Hard |
 | Buy and Sell Stocks III | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/) | [Github]() | A2Z | Step 16 Lec 6 | Hard |
 | Buy and Stock Sell IV | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Github]() | A2Z | Step 16 Lec 6 | Hard |
 | Buy and Sell Stocks With Cooldown | [Best Time to Buy and Sell Stock With Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Github]() | A2Z | Step 16 Lec 6 | Hard |
 | Buy and Sell Stocks With Transaction Fee | [Best Time to Buy and Sell Stock With Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Github]() | A2Z | Step 16 Lec 6 | Hard |
-| Longest Increasing Subsequence | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Github]() | Both | Step 16 Lec 7/Day 25 | Hard |
-| Printing Longest Increasing Subsequence | [Print Longest Increasing Subsequence](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1) | [Github]() | A2Z | Step 16 Lec 7 | Hard |
-| Largest Divisible Subset | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Github]() | A2Z | Step 16 Lec 7 | Hard |
-| Longest String Chain | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Github]() | A2Z | Step 16 Lec 7 | Hard |
-| Longest Bitonic Subsequence | [Longest Bitonic Subsequence](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | [Github]() | A2Z | Step 16 Lec 7 | Hard |
+| Longest Increasing Subsequence | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20Increasing%20Subsequence.cpp) | Both | Step 16 Lec 7/Day 25 | Hard |
+| Printing Longest Increasing Subsequence | [Print Longest Increasing Subsequence](https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1) | [Github no dp](https://github.com/Manasvee16/A2Z-SDE/blob/main/Printing%20Longest%20Increasing%20Subsequence.cpp) | A2Z | Step 16 Lec 7 | Hard |
+| Largest Divisible Subset | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Largest%20Divisible%20Subset.cpp) | A2Z | Step 16 Lec 7 | Hard |
+| Longest String Chain | [Longest String Chain](https://leetcode.com/problems/longest-string-chain/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20String%20Chain.cpp) | A2Z | Step 16 Lec 7 | Hard |
+| Longest Bitonic Subsequence | [Longest Bitonic Subsequence](https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20Bitonic%20Subsequence.cpp) | A2Z | Step 16 Lec 7 | Hard |
 | Number of Longest Increasing Subsequences | [Number of Longest Increasing Subsequences](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Github]() | A2Z | Step 16 Lec 7 | Hard |
 | Matrix Chain Multiplication | [Matrix Chain Multiplication](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | [Github]() | Both | Step 16 Lec 8/Day 25 | Hard |
 | Minimum Cost to Cut the Stick | [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/) | [Github]() | Both | Step 16 Lec 8/Day 26 | Hard |
@@ -160,8 +160,8 @@
 | Partition Array for Maximum Sum | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum/) | [Github]() | A2Z | Step 16 Lec 8 | Hard |
 | Maximum Rectangle Area with all 1's | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Github]() | A2Z | Step 16 Lec 9 | Hard |
 | Count Square Submatrices with All Ones | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Github]() | A2Z | Step 16 Lec 9 | Hard |
-| Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github]() | SDE | Day 25 | Medium |
-| 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github]() | SDE | Day 26 | Medium |
+| Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Sum%20Increasing%20Subsequence.cpp) | SDE | Day 25 | Medium |
+| 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/0-1%20Knapsack.cpp) | SDE | Day 26 | Medium |
 Inorder Traversal Easy
 Preorder Traversal Easy
 Postorder Traversal Easy
