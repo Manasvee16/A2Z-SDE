@@ -112,6 +112,26 @@
 | Program for Least Recently Used (LRU) Page Replacement Algorithm | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
 | Insert Interval | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Insert%20Interval.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Non-overlapping Intervals | [Non overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Non%20Overlapping%20Intervals.cpp) | A2Z | Step 12 Lec 2 | Medium |
+| Inorder Traversal | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2049/141.%20Binary%20Tree%20Inorder%20Traversal.cpp) | SDE | Day 17 | Easy |
+| Preorder Traversal | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2039/116.%20Binary%20Tree%20Preorder%20Traversal.cpp) | SDE | Day 17 | Easy |
+| Postorder Traversal | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2055/153.%20Binary%20Tree%20Postorder%20Traversal.cpp) | SDE | Day 17 | Easy |
+| Morris Inorder Traversal | [](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github]() | SDE | Day 17 | Medium |
+| Morris Preorder Traversal | [](https://takeuforward.org/plus/dsa/problems/morris-preorder-traversal-) | [Github]() | SDE | Day 17 | Medium |
+| LeftView Of Binary Tree | [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Left%20View%20of%20Binary%20Tree.cpp) | SDE | Day 17 | Easy |
+| Bottom View of Binary Tree | [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Bottom%20View%20of%20Binary%20Tree.cpp) | SDE | Day 17 | Medium |
+| Top View of Binary Tree | [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Top%20View%20of%20Binary%20Tree.cpp) | SDE | Day 17 | Easy |
+| Preorder inorder postorder in a single traversal | [Pre, Post, Inorder in One Traversal](https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Pre%2C%20Post%2C%20Inorder%20in%20one%20Traversal.cpp) | SDE | Day 17 | Medium |
+| Vertical order traversal | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.cpp) | SDE | Day 17 | Easy |
+| Root to Node Path in Binary Tree | [Root to Leaf Paths](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Root%20to%20Leaf%20Paths.cpp) | SDE | Day 17 | Medium |
+| Max width of a Binary Tree | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Width%20of%20Binary%20Tree.cpp) | SDE | Day 17 | Medium |
+| Level order Traversal / Level order traversal in spiral form | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Binary%20Tree%20Level%20Order%20Traversal.cpp) | SDE | Day 18 | Easy |
+| Height of a Binary Tree | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2042/123.%20Maximum%20Depth%20of%20Binary%20Tree.cpp) | SDE | Day 18 | Medium |
+| Diameter of Binary Tree | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2042/122.%20Diameter%20of%20Binary%20Tree.cpp) | SDE | Day 18 | Medium |
+| Check if the Binary tree is height-balanced or not | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2057/156.%20Balanced%20Binary%20Tree.cpp) | SDE | Day 18 | Medium |
+| LCA in Binary Tree | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp) | SDE | Day 18 | Medium |
+| Check if two trees are identical or not | [Same Tree](https://leetcode.com/problems/same-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2040/118.%20Same%20Tree.cpp) | SDE | Day 18 | Medium |
+| Zig Zag Traversal of Binary Tree | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp) | SDE | Day 18 | Easy |
+| Boundary Traversal of Binary Tree | [Boundary Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Tree%20Boundary%20Traversal.cpp) | SDE | Day 18 | Medium |
 | Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frog%20Jump.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
@@ -162,26 +182,7 @@
 | Count Square Submatrices with All Ones | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Github]() | A2Z | Step 16 Lec 9 | Hard |
 | Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Sum%20Increasing%20Subsequence.cpp) | SDE | Day 25 | Medium |
 | 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/0-1%20Knapsack.cpp) | SDE | Day 26 | Medium |
-| Inorder Traversal | [](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github]() | SDE | Day 17 | Easy |
-| Preorder Traversal | [](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Github]() | SDE | Day 17 | Easy |
-| Postorder Traversal | [](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github]() | SDE | Day 17 | Easy |
-| Morris Inorder Traversal | [](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github]() | SDE | Day 17 | Medium |
-| Morris Preorder Traversal | [](https://takeuforward.org/plus/dsa/problems/morris-preorder-traversal-) | [Github]() | SDE | Day 17 | Medium |
-| LeftView Of Binary Tree | [](https://takeuforward.org/plus/dsa/problems/right-left-view-of-bt) | [Github]() | SDE | Day 17 | Easy |
-| Bottom View of Binary Tree | [](https://takeuforward.org/plus/dsa/problems/bottom-view-of-bt) | [Github]() | SDE | Day 17 | Medium |
-| Top View of Binary Tree | [](https://takeuforward.org/plus/dsa/problems/top-view-of-bt) | [Github]() | SDE | Day 17 | Easy |
-| Preorder inorder postorder in a single traversal | [](https://takeuforward.org/plus/dsa/problems/pre,-post,-inorder-in-one-traversal) | [Github]() | SDE | Day 17 | Medium |
-| Vertical order traversal | [](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Github]() | SDE | Day 17 | Easy |
-| Root to Node Path in Binary Tree | [](https://takeuforward.org/plus/dsa/problems/print-root-to-note-path-in-bt) | [Github]() | SDE | Day 17 | Medium |
-| Max width of a Binary Tree | [](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Github]() | SDE | Day 17 | Medium |
-| Level order Traversal / Level order traversal in spiral form | [](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Github]() | SDE | Day 18 | Easy |
-| Height of a Binary Tree | [](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
-| Diameter of Binary Tree | [](https://leetcode.com/problems/diameter-of-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
-| Check if the Binary tree is height-balanced or not | [](https://leetcode.com/problems/balanced-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
-| LCA in Binary Tree | [](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
-| Check if two trees are identical or not | [](https://leetcode.com/problems/same-tree/) | [Github]() | SDE | Day 18 | Medium |
-| Zig Zag Traversal of Binary Tree | [](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Github]() | SDE | Day 18 | Easy |
-| Boundary Traversal of Binary Tree | [](https://leetcode.com/problems/boundary-of-binary-tree/) | [Github]() | SDE | Day 18 | Medium |
+
 
 
 ---
