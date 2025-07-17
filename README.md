@@ -115,8 +115,6 @@
 | Inorder Traversal | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2049/141.%20Binary%20Tree%20Inorder%20Traversal.cpp) | SDE | Day 17 | Easy |
 | Preorder Traversal | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2039/116.%20Binary%20Tree%20Preorder%20Traversal.cpp) | SDE | Day 17 | Easy |
 | Postorder Traversal | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2055/153.%20Binary%20Tree%20Postorder%20Traversal.cpp) | SDE | Day 17 | Easy |
-| Morris Inorder Traversal | [](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github]() | SDE | Day 17 | Medium |
-| Morris Preorder Traversal | [](https://takeuforward.org/plus/dsa/problems/morris-preorder-traversal-) | [Github]() | SDE | Day 17 | Medium |
 | LeftView Of Binary Tree | [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Left%20View%20of%20Binary%20Tree.cpp) | SDE | Day 17 | Easy |
 | Bottom View of Binary Tree | [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Bottom%20View%20of%20Binary%20Tree.cpp) | SDE | Day 17 | Medium |
 | Top View of Binary Tree | [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Top%20View%20of%20Binary%20Tree.cpp) | SDE | Day 17 | Easy |
@@ -132,6 +130,13 @@
 | Check if two trees are identical or not | [Same Tree](https://leetcode.com/problems/same-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2040/118.%20Same%20Tree.cpp) | SDE | Day 18 | Medium |
 | Zig Zag Traversal of Binary Tree | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp) | SDE | Day 18 | Easy |
 | Boundary Traversal of Binary Tree | [Boundary Traversal of Binary Tree](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Tree%20Boundary%20Traversal.cpp) | SDE | Day 18 | Medium |
+| Maximum path sum | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Github]() | SDE | Day 19 | Hard |
+| Construct Binary Tree from inorder and preorder | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Github]() | SDE | Day 19 | Hard |
+| Construct Binary Tree from Inorder and Postorder | []() | [Github]() | SDE | Day 19 | Hard |
+| Symmetric Binary Tree | []() | [Github]() | SDE | Day 19 | Medium |
+| Flatten Binary Tree to LinkedList | []() | [Github]() | SDE | Day 19 | Hard |
+| Check if Binary Tree is the mirror of itself or not | []() | [Github]() | SDE | Day 19 | Medium |
+| Check for Children Sum Property | []() | [Github]() | SDE | Day 19 | Hard |
 | Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frog%20Jump.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
@@ -221,7 +226,7 @@
 | 30  | Binary Trees \[Traversals, Medium and Hard Problems]   | Step |
 | 31  | Binary Tree ✅                                           | Day  |
 | 32  | Binary Tree Part-II ✅                                   | Day  |
-| 33  | Binary Tree Part-III                                   | Day  |
+| 33  | Binary Tree Part-III ✅                                  | Day  |
 | 34  | Binary Trees \[Miscellaneous]                          | Day  |
 | 35  | Binary Search Trees \[Concept and Problems]            | Step |
 | 36  | Binary Search Tree                                     | Day  |
