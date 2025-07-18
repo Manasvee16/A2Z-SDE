@@ -134,8 +134,15 @@
 | Construct Binary Tree from inorder and preorder | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp) | SDE | Day 19 | Hard |
 | Construct Binary Tree from Inorder and Postorder | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [Github]() | SDE | Day 19 | Hard |
 | Symmetric Binary Tree | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2040/119.%20Symmetric%20Tree.cpp) | SDE | Day 19 | Medium |
-| Flatten Binary Tree to LinkedList | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Github]() | SDE | Day 19 | Hard |
-| Check for Children Sum Property | [Children Sum Parent](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | [Github]() | SDE | Day 19 | Hard |
+| Flatten Binary Tree to LinkedList | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Flatten%20Binary%20Tree%20to%20Linked%20List.cpp) | SDE | Day 19 | Hard |
+| Check for Children Sum Property | [Children Sum Parent](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Children%20Sum%20Parent.cpp) | SDE | Day 19 | Hard |
+| Populate Next Right pointers of Tree | [](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Github]() | SDE | Day 20 | Medium |
+| Search given Key in BST | [](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Github]() | SDE | Day 20 | Easy |
+| Construct BST from given keys | [](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Github]() | SDE | Day 20 | Hard |
+| Construct a BST from a preorder traversal | [](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Github]() | SDE | Day 20 | Medium |
+| Check is a BT is BST or not | [](https://leetcode.com/problems/validate-binary-search-tree/) | [Github]() | SDE | Day 20 | Medium |
+| Find LCA of two nodes in BST | [](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Github]() | SDE | Day 20 | Medium |
+| Find the inorder predecessor/successor of a given Key in BST. | [](https://takeuforward.org/plus/dsa/problems/inorder-successor-and-predecessor-in-bst) | [Github]() | SDE | Day 20 | Medium |
 | Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frog%20Jump.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
@@ -228,7 +235,7 @@
 | 33  | Binary Tree Part-III ✅                                  | Day  |
 | 34  | Binary Trees \[Miscellaneous]                          | Day  |
 | 35  | Binary Search Trees \[Concept and Problems]            | Step |
-| 36  | Binary Search Tree                                     | Day  |
+| 36  | Binary Search Tree ✅                                    | Day  |
 | 37  | Binary Search Tree Part-II                             | Day  |
 | 38  | Graphs \[Concepts & Problems]                          | Step |
 | 39  | Graph                                                  | Day  |
