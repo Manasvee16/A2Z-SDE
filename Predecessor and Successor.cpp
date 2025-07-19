@@ -1,26 +1,10 @@
-/* BST Node
-class Node
-{
-   public:
-    int data;
-    Node *left;
-    Node *right;
-
-    Node(int x){
-        data = x;
-        left = NULL;
-        right = NULL;
-    }
-}; */
-
 class Solution {
   public:
     vector<Node*> findPreSuc(Node* root, int key) {
-        // code here
         if (!root)
             return {};
-        vector<Node*> inorder;
-        dfs(root, inorder);
+        vector<Node*> inorder; //inorder will give sorted order
+        dfs(root, inorder); 
         vector<Node*> ans;
         int n=inorder.size();
         int start=0, end=n-1;
@@ -29,8 +13,8 @@ class Solution {
             int mid=start+(end-start)/2;
             if (inorder[mid]->data==key)
             {
-                ans.push_back(inorder[mid-1]);
-                ans.push_back(inorder[mid+1]);
+                ans.push_back(inorder[mid-1]); //immediate predecessor
+                ans.push_back(inorder[mid+1]); //immediate successor
             }
             if (inorder[mid]->data>key)
             {
@@ -47,12 +31,11 @@ class Solution {
     {
         if (node)
         {
-        //if (node->left)
-        dfs(node->left, inorder);
+        if (node->left)
+           dfs(node->left, inorder);
         inorder.push_back(node);
-        //if (node->right)
-        dfs(node->right, inorder);
+        if (node->right)
+           dfs(node->right, inorder);
         }
-        //return inorder;
     }
 };
