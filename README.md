@@ -143,6 +143,31 @@
 | Check is a BT is BST or not | [](https://leetcode.com/problems/validate-binary-search-tree/) | [Github]() | SDE | Day 20 | Medium |
 | Find LCA of two nodes in BST | [](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Github]() | SDE | Day 20 | Medium |
 | Find the inorder predecessor/successor of a given Key in BST. | [](https://takeuforward.org/plus/dsa/problems/inorder-successor-and-predecessor-in-bst) | [Github]() | SDE | Day 20 | Medium |
+Floor in a BST Easy
+Ceil in a BST Easy
+Find K-th smallest element in BST Medium
+Find K-th largest element in BST Medium
+Find a pair with a given sum in BST Medium
+BST iterator Medium
+Size of the largest BST in a Binary Tree Medium
+Serialize and deserialize Binary Tree Hard
+Connected Components - Logic Explanation Hard
+BFS Medium
+DFS Hard
+Number of provinces (leetcode) Medium
+Connected Components Problem in Matrix Hard
+Rotten Oranges Medium
+Flood fill Hard
+Cycle Detection in unirected Graph (bfs) Hard
+Cycle Detection in undirected Graph (dfs) Hard
+0/1 Matrix (Bfs Problem) Medium
+Surrounded Regions (dfs) Hard
+Number of Enclaves [flood fill implementation - multisource] Hard
+Word ladder - 1 Hard
+Word ladder - 2 Hard
+Number of Distinct Islands [dfs multisource] Hard
+Bipartite Graph (DFS) Medium
+Cycle Detection in Directed Graph (DFS) Hard
 | Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frog%20Jump.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
