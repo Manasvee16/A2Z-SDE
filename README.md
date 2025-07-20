@@ -106,10 +106,10 @@
 | Jump Game | [Jump Game](https://leetcode.com/problems/jump-game/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2024/73.%20Jump%20Game.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Jump Game 2 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2024/74.%20Jump%20Game%20ii.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Minimum number of platforms required for a railway | [Minimum platforms](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Minimum%20Platforms.cpp) | A2Z | Step 12 Lec 2 | Medium |
-| Job sequencing Problem | [Job sequencing Problem](https://takeuforward.org/plus/dsa/problems/job-sequencing-problem) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Job sequencing Problem | [Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
 | Candy | [Candy](https://leetcode.com/problems/candy/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Candy.cpp) | A2Z | Step 12 Lec 2 | Hard |
 | Program for Shortest Job First (or SJF) CPU Scheduling | [Shortest Job First](https://www.geeksforgeeks.org/problems/shortest-job-first/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Shortest%20Job%20First.cpp) | A2Z | Step 12 Lec 2 | Medium |
-| Program for Least Recently Used (LRU) Page Replacement Algorithm | []() | [Github]() | A2Z | Step 12 Lec 2 | Medium |
+| Program for Least Recently Used (LRU) Page Replacement Algorithm | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | [Github]() | A2Z | Step 12 Lec 2 | Medium |
 | Insert Interval | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Insert%20Interval.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Non-overlapping Intervals | [Non overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Non%20Overlapping%20Intervals.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Inorder Traversal | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2049/141.%20Binary%20Tree%20Inorder%20Traversal.cpp) | SDE | Day 17 | Easy |
@@ -140,34 +140,33 @@
 | Search given Key in BST | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Search%20in%20a%20Binary%20Search%20Tree.cpp) | SDE | Day 20 | Easy |
 | Construct BST from given keys | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp) | SDE | Day 20 | Hard |
 | Construct a BST from a preorder traversal | [Construct Binary Search Tree From Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2039/117.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.cpp) | SDE | Day 20 | Medium |
-| Check is a BT is BST or not | [](https://leetcode.com/problems/validate-binary-search-tree/) | [Github]() | SDE | Day 20 | Medium |
-| Find LCA of two nodes in BST | [](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Github]() | SDE | Day 20 | Medium |
-| Find the inorder predecessor/successor of a given Key in BST. | [](https://takeuforward.org/plus/dsa/problems/inorder-successor-and-predecessor-in-bst) | [Github]() | SDE | Day 20 | Medium |
-Floor in a BST Easy
-Ceil in a BST Easy
-Find K-th smallest element in BST Medium
-Find K-th largest element in BST Medium
-Find a pair with a given sum in BST Medium
-BST iterator Medium
-Size of the largest BST in a Binary Tree Medium
-Serialize and deserialize Binary Tree Hard
-Connected Components - Logic Explanation Hard
-BFS Medium
-DFS Hard
-Number of provinces (leetcode) Medium
-Connected Components Problem in Matrix Hard
-Rotten Oranges Medium
-Flood fill Hard
-Cycle Detection in unirected Graph (bfs) Hard
-Cycle Detection in undirected Graph (dfs) Hard
-0/1 Matrix (Bfs Problem) Medium
-Surrounded Regions (dfs) Hard
-Number of Enclaves [flood fill implementation - multisource] Hard
-Word ladder - 1 Hard
-Word ladder - 2 Hard
-Number of Distinct Islands [dfs multisource] Hard
-Bipartite Graph (DFS) Medium
-Cycle Detection in Directed Graph (DFS) Hard
+| Check is a BT is BST or not | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2054/150.%20Validate%20Binary%20Search%20Tree.cpp) | SDE | Day 20 | Medium |
+| Find LCA of two nodes in BST | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp) | SDE | Day 20 | Medium |
+| Find the inorder predecessor/successor of a given Key in BST. | [Predecessor and Successor](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1) | [Github](http://github.com/Manasvee16/A2Z-SDE/blob/main/Predecessor%20and%20Successor.cpp) | SDE | Day 20 | Medium |
+| Floor in a BST | [Floor in BST](https://www.geeksforgeeks.org/problems/floor-in-bst/1) | [Github]() | SDE | Day 21 | Easy |
+| Ceil in a BST | [Implementing Ceil in BST](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | [Github]() | SDE | Day 21 | Easy |
+| Find K-th smallest element in BST | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | [Github]() | SDE | Day 21 | Medium |
+| Find K-th largest element in BST | [Kth Largest Element in BST](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | [Github]() | SDE | Day 21 | Medium |
+| Find a pair with a given sum in BST | [Two Sum IV Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | [Github]() | SDE | Day 21 | Medium |
+| BST iterator | [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | [Github]() | SDE | Day 21 | Medium |
+| Size of the largest BST in a Binary Tree | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | [Github]() | SDE | Day 21 | Medium |
+| Serialize and deserialize Binary Tree | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Github]() | SDE | Day 21 | Hard |
+| Connected Components - Logic Explanation | [Connected Components in an Undirected Graph](https://www.geeksforgeeks.org/problems/connected-components-in-an-undirected-graph/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Connected%20Components%20in%20an%20Undirected%20Graph.cpp) | A2Z | Step 15 Lec 1 | Hard |
+| BFS | [BFS Traversal of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2063/173.%20BFS%20of%20Graph.cpp) | A2Z | Step 15 Lec 1 | Medium |
+| DFS | [Depth First Traversal for a Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2064/177.%20DFS%20of%20Graph.cpp) | A2Z | Step 15 Lec 1 | Hard |
+| Number of provinces (leetcode) | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2045/131.%20Number%20of%20Provinces.cpp) | A2Z | Step 15 Lec 2 | Medium |
+| Connected Components Problem in Matrix | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/) | [Github]() | A2Z | Step 15 Lec 2 | Hard |
+| Rotten Oranges | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2050/142.%20Rotting%20Oranges.cpp) | A2Z | Step 15 Lec 2 | Medium |
+| Flood fill | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2015/48.%20Flood%20Fill.cpp) | A2Z | Step 15 Lec 2 | Hard |
+| Cycle Detection in unirected Graph | [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2066/180.%20Detect%20Cycle%20in%20an%20Undirected%20Graph.cpp) | A2Z | Step 15 Lec 2 | Hard |
+| 0/1 Matrix (Bfs Problem) | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/01%20Matrix.cpp) | A2Z | Step 15 Lec 2 | Medium |
+| Surrounded Regions (dfs) | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Surrounded%20Regions.cpp) | A2Z | Step 15 Lec 2 | Hard |
+| Number of Enclaves [flood fill implementation - multisource] | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2052/147.%20Number%20of%20Enclaves.cpp) | A2Z | Step 15 Lec 2 | Hard |
+| Word ladder - 1 | [](https://leetcode.com/problems/word-ladder/) | [Github]() | A2Z | Step 15 Lec 2 | Hard |
+| Word ladder - 2 | [](https://leetcode.com/problems/word-ladder-ii/) | [Github]() | A2Z | Step 15 Lec 2 | Hard |
+| Number of Distinct Islands [dfs multisource] | []() | [Github]() | A2Z | Step 15 Lec 2 | Hard |
+| Bipartite Graph (DFS) | [](https://leetcode.com/problems/is-graph-bipartite/) | [Github]() | A2Z | Step 15 Lec 2 | Medium |
+| Cycle Detection in Directed Graph (DFS) | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | A2Z | Step 15 Lec 2 | Hard |
 | Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frog%20Jump.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
@@ -218,7 +217,7 @@ Cycle Detection in Directed Graph (DFS) Hard
 | Count Square Submatrices with All Ones | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [Github]() | A2Z | Step 16 Lec 9 | Hard |
 | Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Sum%20Increasing%20Subsequence.cpp) | SDE | Day 25 | Medium |
 | 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/0-1%20Knapsack.cpp) | SDE | Day 26 | Medium |
-
+| Egg Dropping | [Egg Dropping Puzzle](https://www.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1) | [Github]() | SDE | Day 26 | Hard |
 
 
 ---
@@ -261,7 +260,7 @@ Cycle Detection in Directed Graph (DFS) Hard
 | 34  | Binary Trees \[Miscellaneous]                          | Day  |
 | 35  | Binary Search Trees \[Concept and Problems]            | Step |
 | 36  | Binary Search Tree ✅                                    | Day  |
-| 37  | Binary Search Tree Part-II                             | Day  |
+| 37  | Binary Search Tree Part-II ✅                            | Day  |
 | 38  | Graphs \[Concepts & Problems]                          | Step |
 | 39  | Graph                                                  | Day  |
 | 40  | Graph Part-II                                          | Day  |
