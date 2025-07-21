@@ -156,53 +156,54 @@
 | Distinct numbers in Window. | [Count Distinct Elements in Every Window](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20Distinct%20Elements%20in%20Every%20Window.cpp) | SDE | Day 22 | Medium |
 | K-th largest element in an unsorted array. | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Github heap]() | SDE | Day 22 | Easy |
 | Connected Components - Logic Explanation | [Connected Components in an Undirected Graph](https://www.geeksforgeeks.org/problems/connected-components-in-an-undirected-graph/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Connected%20Components%20in%20an%20Undirected%20Graph.cpp) | A2Z | Step 15 Lec 1 | Hard |
-| BFS | [BFS Traversal of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2063/173.%20BFS%20of%20Graph.cpp) | A2Z | Step 15 Lec 1 | Medium |
-| DFS | [Depth First Traversal for a Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2064/177.%20DFS%20of%20Graph.cpp) | A2Z | Step 15 Lec 1 | Hard |
+| BFS | [BFS Traversal of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2063/173.%20BFS%20of%20Graph.cpp) | Both | Step 15 Lec 1/Day 23 | Medium |
+| DFS | [Depth First Traversal for a Graph](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2064/177.%20DFS%20of%20Graph.cpp) | Both | Step 15 Lec 1/Day 23 | Hard |
 | Number of provinces (leetcode) | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2045/131.%20Number%20of%20Provinces.cpp) | A2Z | Step 15 Lec 2 | Medium |
 | Connected Components Problem in Matrix | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20the%20Number%20of%20Complete%20Components.cpp) | A2Z | Step 15 Lec 2 | Hard |
 | Rotten Oranges | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2050/142.%20Rotting%20Oranges.cpp) | A2Z | Step 15 Lec 2 | Medium |
 | Flood fill | [Flood Fill](https://leetcode.com/problems/flood-fill/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2015/48.%20Flood%20Fill.cpp) | A2Z | Step 15 Lec 2/Day 22 | Hard |
-| Cycle Detection in unirected Graph | [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2066/180.%20Detect%20Cycle%20in%20an%20Undirected%20Graph.cpp) | A2Z | Step 15 Lec 2 | Hard |
+| Cycle Detection in unirected Graph | [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2066/180.%20Detect%20Cycle%20in%20an%20Undirected%20Graph.cpp) | Both | Step 15 Lec 2/Day 23 | Hard |
 | 0/1 Matrix (Bfs Problem) | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/01%20Matrix.cpp) | A2Z | Step 15 Lec 2 | Medium |
 | Surrounded Regions (dfs) | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Surrounded%20Regions.cpp) | A2Z | Step 15 Lec 2 | Hard |
 | Number of Enclaves [flood fill implementation - multisource] | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2052/147.%20Number%20of%20Enclaves.cpp) | A2Z | Step 15 Lec 2 | Hard |
 | Word ladder - 1 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Word%20Ladder.cpp) | A2Z | Step 15 Lec 2 | Hard |
 | Word ladder - 2 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Github]() | A2Z | Step 15 Lec 2 | Hard |
 | Number of Distinct Islands [dfs multisource] | [](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1) | [Github]() | A2Z | Step 15 Lec 2 | Hard |
-| Bipartite Graph (DFS) | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Is%20Graph%20Bipartite%3F.cpp) | A2Z | Step 15 Lec 2 | Medium |
-| Cycle Detection in Directed Graph (DFS) | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | A2Z | Step 15 Lec 2 | Hard |
-| Topo Sort | [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Topological%20Sort.cpp) | A2Z | Step 15 Lec 3 | Hard |
-| Cycle Detection in Directed Graph (BFS) | [Course Schedule II ](https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | A2Z | Step 15 Lec 3 | Hard |
-| Course Schedule - I | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/138.%20Course%20Schedule.cpp) | A2Z | Step 15 Lec 3 | Hard |
+| Bipartite Graph (DFS) | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Is%20Graph%20Bipartite%3F.cpp) | Both | Step 15 Lec 2/Day 23 | Medium |
+| Cycle Detection in Directed Graph (DFS) | [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | Both | Step 15 Lec 2/Day 23 | Hard |
+| Topo Sort | [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Topological%20Sort.cpp) | Both | Step 15 Lec 3/Day 23 | Hard |
+| Cycle Detection in Directed Graph (BFS) | [Detect Cycle in a Directed Graph](https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | Both | Step 15 Lec 3/Day 23 | Hard |
+| Course Schedule - I | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/138.%20Course%20Schedule.cpp) | Both | Step 15 Lec 3/Day 23 | Hard |
 | Find eventual safe states | [](https://leetcode.com/problems/find-eventual-safe-states/) | [Github]() | A2Z | Step 15 Lec 3 | Hard |
 | Alien dictionary | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2066/181.%20Alien%20Dictionary.cpp) | A2Z | Step 15 Lec 3 | Hard |
-| Shortest Path in UG with unit weights | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Shortest Path in DAG | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Djisktra's Algorithm | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Why priority Queue is used in Djisktra's Algorithm | []() | [Github]() | A2Z | Step 15 Lec 4 | Medium |
-| Shortest path in a binary maze | []() | [Github]() | A2Z | Step 15 Lec 4 | Medium |
-| Path with minimum effort | []() | [Github]() | A2Z | Step 15 Lec 4 | Medium |
-| Cheapest flights within k stops | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Network Delay time | []() | [Github]() | A2Z | Step 15 Lec 4 | Medium |
-| Number of ways to arrive at destination | []() | [Github]() | A2Z | Step 15 Lec 4 | Medium |
-| Minimum steps to reach end from start by performing multiplication and mod operations with array elements | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Bellman Ford Algorithm | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Floyd Warshal Algorithm | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Find the city with the smallest number of neighbors in a threshold distance | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Minimum Spanning Tree | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Prim's Algorithm | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Disjoint Set [Union by Rank] | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Disjoint Set [Union by Size] | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Kruskal's Algorithm | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Number of operations to make network connected | []() | [Github]() | A2Z | Step 15 Lec 5 | Medium |
-| Most stones removed with same rows or columns | []() | [Github]() | A2Z | Step 15 Lec 5 | Medium |
-| Accounts merge | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Number of island II | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Making a Large Island | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Swim in rising water | []() | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Bridges in Graph | []() | [Github]() | A2Z | Step 15 Lec 6 | Hard |
-| Articulation Point | []() | [Github]() | A2Z | Step 15 Lec 6 | Hard |
-| Kosaraju's Algorithm | []() | [Github]() | A2Z | Step 15 Lec 6 | Hard |
+| Shortest Path in UG with unit weights | [](https://takeuforward.org/plus/dsa/problems/shortest-path-in-undirected-graph-with-unit-weights) | [Github]() | A2Z | Step 15 Lec 4 | Hard |
+| Shortest Path in DAG | [](https://takeuforward.org/plus/dsa/problems/shortest-path-in-dag) | [Github]() | A2Z | Step 15 Lec 4 | Hard |
+| Djisktra's Algorithm | [](https://takeuforward.org/plus/dsa/problems/dijkstra's-algorithm) | [Github]() | Both | Step 15 Lec 4/Day 24 | Hard |
+| Why priority Queue is used in Djisktra's Algorithm | [](https://takeuforward.org/plus/dsa/problems/dijkstra's-algorithm) | [Github]() | A2Z | Step 15 Lec 4 | Medium |
+| Shortest path in a binary maze | [](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Github]() | A2Z | Step 15 Lec 4 | Medium |
+| Path with minimum effort | [](https://leetcode.com/problems/path-with-minimum-effort/) | [Github]() | A2Z | Step 15 Lec 4 | Medium |
+| Cheapest flights within k stops | [](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Github]() | A2Z | Step 15 Lec 4 | Hard |
+| Network Delay time | [](https://leetcode.com/problems/network-delay-time/) | [Github]() | A2Z | Step 15 Lec 4 | Medium |
+| Number of ways to arrive at destination | [](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Github]() | A2Z | Step 15 Lec 4 | Medium |
+| Minimum steps to reach end from start by performing multiplication and mod operations with array elements | [](https://takeuforward.org/plus/dsa/problems/minimum-multiplications-to-reach-end) | [Github]() | A2Z | Step 15 Lec 4 | Hard |
+| Bellman Ford Algorithm | [](https://takeuforward.org/plus/dsa/problems/bellman-ford-algorithm) | [Github]() | Both | Step 15 Lec 4/Day 24 | Hard |
+| Floyd Warshal Algorithm | [](https://takeuforward.org/plus/dsa/problems/floyd-warshall-algorithm) | [Github]() | Both | Step 15 Lec 4/Day 24 | Hard |
+| Find the city with the smallest number of neighbors in a threshold distance | [](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Github]() | A2Z | Step 15 Lec 4 | Hard |
+| Minimum Spanning Tree | [](https://takeuforward.org/plus/dsa/problems/mst-theory) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Prim's Algorithm | [](https://takeuforward.org/plus/dsa/problems/find-the-mst-weight) | [Github]() | Both | Step 15 Lec 5/Day 24 | Hard |
+| Disjoint Set [Union by Rank] | [](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Disjoint Set [Union by Size] | [](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Kruskal's Algorithm | [](https://takeuforward.org/plus/dsa/problems/find-the-mst-weight) | [Github]() | Both | Step 15 Lec 5/Day 24 | Hard |
+| Number of operations to make network connected | [](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Github]() | A2Z | Step 15 Lec 5 | Medium |
+| Most stones removed with same rows or columns | [](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Github]() | A2Z | Step 15 Lec 5 | Medium |
+| Accounts merge | [](https://leetcode.com/problems/accounts-merge/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Number of island II | [](https://leetcode.com/problems/number-of-islands-ii/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Making a Large Island | [](https://leetcode.com/problems/making-a-large-island/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Swim in rising water | [](https://leetcode.com/problems/swim-in-rising-water/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Bridges in Graph | [](https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
+| Articulation Point | [](https://takeuforward.org/plus/dsa/problems/articulation-point-in-graph) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
+| Kosaraju's Algorithm | [](https://takeuforward.org/plus/dsa/problems/kosaraju's-algorithm) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
+
 | Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frog%20Jump.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
