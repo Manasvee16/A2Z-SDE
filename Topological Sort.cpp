@@ -1,3 +1,4 @@
+//DFS
 class Solution {
 public:
     unordered_map<int, vector<int>> graph;
@@ -40,5 +41,39 @@ public:
         inRecStack[node] = false;
         topoOrder.push_back(node); // add after visiting all children
         return false;
+    }
+};
+
+//BFS
+class Solution {
+  public:
+    vector<int> topoSort(int V, vector<vector<int>>& edges) {
+        unordered_map<int, vector<int>> graph;
+        vector<int> topoOrder;
+        queue<int> nodes;
+        vector<int> indegree(V, 0);
+        for (auto i:edges)
+        {
+            graph[i[0]].push_back(i[1]); // add directed edge u → v in adjacency list
+            indegree[i[1]]++;
+        }
+        for (int i=0;i<V;i++)
+        {
+            if (indegree[i]==0)
+                nodes.push(i);
+        }
+        while (!nodes.empty())
+        {
+            int frontt=nodes.front();
+            nodes.pop();
+            topoOrder.push_back(frontt);
+            for (int neighbor:graph[frontt])
+            {
+                indegree[neighbor]--; // remove the current edge
+                if (indegree[neighbor]==0)
+                    nodes.push(neighbor);
+            }
+        }
+        return topoOrder;
     }
 };
