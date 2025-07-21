@@ -203,7 +203,6 @@
 | Bridges in Graph | [](https://leetcode.com/problems/critical-connections-in-a-network/discuss/382385/find-bridges-in-a-graph) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
 | Articulation Point | [](https://takeuforward.org/plus/dsa/problems/articulation-point-in-graph) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
 | Kosaraju's Algorithm | [](https://takeuforward.org/plus/dsa/problems/kosaraju's-algorithm) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
-
 | Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frog%20Jump.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
