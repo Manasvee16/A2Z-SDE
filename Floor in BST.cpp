@@ -18,3 +18,27 @@ class Solution {
         dfs(node->right, inorder);
     }
 };
+
+class Solution {
+public:
+    int floor(Node* root, int x) {
+        Node* ptr = root;
+        int ans = -1;  // Initialize with -1 to indicate no floor found yet
+        while (ptr != nullptr) {
+            if (ptr->data == x) {
+                // Exact match found; this is the floor
+                return ptr->data;
+            } 
+            else if (ptr->data < x) {
+                // Possible floor found; go right to try for a closer one
+                ans = ptr->data;
+                ptr = ptr->right;
+            } 
+            else {
+                // Current node is too big; go left to find smaller values
+                ptr = ptr->left;
+            }
+        }
+        return ans;
+    }
+};
