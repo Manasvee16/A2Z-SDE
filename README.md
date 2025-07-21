@@ -167,16 +167,15 @@
 | Surrounded Regions (dfs) | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Surrounded%20Regions.cpp) | A2Z | Step 15 Lec 2 | Hard |
 | Number of Enclaves [flood fill implementation - multisource] | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2052/147.%20Number%20of%20Enclaves.cpp) | A2Z | Step 15 Lec 2 | Hard |
 | Word ladder - 1 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Word%20Ladder.cpp) | A2Z | Step 15 Lec 2 | Hard |
-| Word ladder - 2 | [](https://leetcode.com/problems/word-ladder-ii/) | [Github]() | A2Z | Step 15 Lec 2 | Hard |
-| Number of Distinct Islands [dfs multisource] | []() | [Github]() | A2Z | Step 15 Lec 2 | Hard |
-| Bipartite Graph (DFS) | [](https://leetcode.com/problems/is-graph-bipartite/) | [Github]() | A2Z | Step 15 Lec 2 | Medium |
+| Word ladder - 2 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/) | [Github]() | A2Z | Step 15 Lec 2 | Hard |
+| Number of Distinct Islands [dfs multisource] | [](https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1) | [Github]() | A2Z | Step 15 Lec 2 | Hard |
+| Bipartite Graph (DFS) | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Is%20Graph%20Bipartite%3F.cpp) | A2Z | Step 15 Lec 2 | Medium |
 | Cycle Detection in Directed Graph (DFS) | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | A2Z | Step 15 Lec 2 | Hard |
-| Topo Sort | [](https://takeuforward.org/plus/dsa/problems/topological-sort-or-kahns-algorithm) | [Github]() | A2Z | Step 15 Lec 3 | Hard |
-| Kahn's Algorithm | [](https://takeuforward.org/plus/dsa/problems/topological-sort-or-kahns-algorithm) | [Github]() | A2Z | Step 15 Lec 3 | Hard |
-| Cycle Detection in Directed Graph (BFS) | [](https://takeuforward.org/plus/dsa/problems/detect-a-cycle-in-a-directed-graph) | [Github]() | A2Z | Step 15 Lec 3 | Hard |
-| Course Schedule - I | [](https://leetcode.com/problems/course-schedule/) | [Github]() | A2Z | Step 15 Lec 3 | Hard |
+| Topo Sort | [Topological Sort](https://www.geeksforgeeks.org/problems/topological-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Topological%20Sort.cpp) | A2Z | Step 15 Lec 3 | Hard |
+| Cycle Detection in Directed Graph (BFS) | [Course Schedule II ](https://leetcode.com/problems/course-schedule-ii/discuss/293048/detecting-cycle-in-directed-graph-problem) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | A2Z | Step 15 Lec 3 | Hard |
+| Course Schedule - I | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/138.%20Course%20Schedule.cpp) | A2Z | Step 15 Lec 3 | Hard |
 | Find eventual safe states | [](https://leetcode.com/problems/find-eventual-safe-states/) | [Github]() | A2Z | Step 15 Lec 3 | Hard |
-| Alien dictionary | [](https://leetcode.com/problems/alien-dictionary/) | [Github]() | A2Z | Step 15 Lec 3 | Hard |
+| Alien dictionary | [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2066/181.%20Alien%20Dictionary.cpp) | A2Z | Step 15 Lec 3 | Hard |
 | Shortest Path in UG with unit weights | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
 | Shortest Path in DAG | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
 | Djisktra's Algorithm | []() | [Github]() | A2Z | Step 15 Lec 4 | Hard |
