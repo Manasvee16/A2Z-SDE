@@ -189,7 +189,7 @@
 | Bellman Ford Algorithm | [Distance From the Source Bellman Ford Algorithm](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2067/183.%20Bellman%20Ford%20Algorithm.cpp) | Both | Step 15 Lec 4/Day 24 | Hard |
 | Floyd Warshal Algorithm | [Implementing Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2068/184.%20Floyd%20Warshall%20Algorithm.cpp) | Both | Step 15 Lec 4/Day 24 | Hard |
 | Find the city with the smallest number of neighbors in a threshold distance | [Find the city with the smallest number of neighbors at a threshold distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Minimum Spanning Tree | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Minimum Spanning Tree | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2069/187.%20Minimum%20Spanning%20Tree.cpp) | A2Z | Step 15 Lec 5 | Hard |
 | Prim's Algorithm | [](https://takeuforward.org/plus/dsa/problems/find-the-mst-weight) | [Github]() | Both | Step 15 Lec 5/Day 24 | Hard |
 | Disjoint Set [Union by Rank] | [](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Disjoint Set [Union by Size] | [](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
