@@ -60,6 +60,30 @@
 | Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | Both | Step 7 Lec 1/Day 3 | Medium |
 | Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | Both | Step 16 Lec 3/Day 3 | Medium | 
 | Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
+| Remove outermost Paranthesis | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
+| Reverse words in a given string / Palindrome Check | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
+| Largest odd number in a string | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
+| Longest Common Prefix | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
+| Isomorphic String | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
+| check whether one string is a rotation of another | []() | [Github]() | A2Z | Step 5 Lec 1 | Medium |
+| Check if two strings are anagram of each other | []() | [Github]() | A2Z | Step 5 Lec 1 | Medium |
+| Sort Characters by frequency | []() | [Github]() | A2Z | Step 5 Lec 2 | Easy |
+| Maximum Nesting Depth of Paranthesis | []() | [Github]() | A2Z | Step 5 Lec 2 | Easy |
+| Roman Number to Integer and vice versa | []() | [Github]() | A2Z | Step 5 Lec 2 | Easy |
+| Implement Atoi | []() | [Github]() | A2Z | Step 5 Lec 2 | Medium |
+| Count Number of Substrings | []() | [Github]() | A2Z | Step 5 Lec 2 | Medium |
+| Longest Palindromic Substring[Do it without DP] | []() | [Github]() | A2Z | Step 5 Lec 2 | Hard |
+| Sum of Beauty of all substring | []() | [Github]() | A2Z | Step 5 Lec 2 | Medium |
+| Reverse Every Word in A String | []() | [Github]() | A2Z | Step 5 Lec 2 | Easy |
+| Minimum number of bracket reversals needed to make an expression balanced | []() | [Github]() | A2Z | Step 18 Lec 1 | Medium |
+| Count and say | []() | [Github]() | A2Z | Step 18 Lec 1 | Medium |
+| Hashing In Strings - Theory | []() | [Github]() | A2Z | Step 18 Lec 1 | Medium |
+| Rabin Karp | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Z-Function | []() | [Github]() | A2Z | Step 18 Lec 1 | Easy |
+| KMP algo / LPS(pi) array | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Shortest Palindrome | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Longest happy prefix | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Count palindromic subsequence in given string | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
 | Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/102.%20Reverse%20Linked%20List.cpp) | SDE | Day 5 | Easy |
 | Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Middle%20of%20the%20Linked%20List.cpp) | SDE | Day 5 | Easy |
 | Merge two sorted Linked List (use method used in mergeSort) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Two%20Sorted%20Lists.cpp) | SDE | Day 5 | Easy |
@@ -189,13 +213,12 @@
 | Bellman Ford Algorithm | [Distance From the Source Bellman Ford Algorithm](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2067/183.%20Bellman%20Ford%20Algorithm.cpp) | Both | Step 15 Lec 4/Day 24 | Hard |
 | Floyd Warshal Algorithm | [Implementing Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2068/184.%20Floyd%20Warshall%20Algorithm.cpp) | Both | Step 15 Lec 4/Day 24 | Hard |
 | Find the city with the smallest number of neighbors in a threshold distance | [Find the city with the smallest number of neighbors at a threshold distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Github]() | A2Z | Step 15 Lec 4 | Hard |
-| Minimum Spanning Tree | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2069/187.%20Minimum%20Spanning%20Tree.cpp) | A2Z | Step 15 Lec 5 | Hard |
-| Prim's Algorithm | [](https://takeuforward.org/plus/dsa/problems/find-the-mst-weight) | [Github]() | Both | Step 15 Lec 5/Day 24 | Hard |
+| Prim's Algorithm | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2069/187.%20Minimum%20Spanning%20Tree.cpp) | Both | Step 15 Lec 5/Day 24 | Hard |
 | Disjoint Set [Union by Rank] | [](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Disjoint Set [Union by Size] | [](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Kruskal's Algorithm | [](https://takeuforward.org/plus/dsa/problems/find-the-mst-weight) | [Github]() | Both | Step 15 Lec 5/Day 24 | Hard |
 | Number of operations to make network connected | [Number of operations to make network connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp) | A2Z | Step 15 Lec 5 | Medium |
-| Most stones removed with same rows or columns | [Most stones removed with same row or column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Github]() | A2Z | Step 15 Lec 5 | Medium |
+| Most stones removed with same rows or columns | [Most stones removed with same row or column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp) | A2Z | Step 15 Lec 5 | Medium |
 | Accounts merge | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Number of island II | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Making a Large Island | [Making a Large Island](https://leetcode.com/problems/making-a-large-island/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
@@ -270,8 +293,8 @@
 | 8   | Binary Search \[1D, 2D Arrays, Search Space]           | Step |
 | 9   | Binary Search                                          | Day  |
 | 10  | Sliding Window & Two Pointer Combined Problems         | Step |
-| 11  | Strings \[Basic and Medium]                            | Step |
-| 12  | Strings \[Extra Set]                                   | Step |
+| 11  | Strings \[Basic and Medium] ✅                           | Step |
+| 12  | Strings \[Extra Set] ✅                                  | Step |
 | 13  | String                                                 | Day  |
 | 14  | String Part-II                                         | Day  |
 | 15  | Learn LinkedList \[Single LL, Double LL, Medium, Hard] | Step |
