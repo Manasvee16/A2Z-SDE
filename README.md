@@ -272,7 +272,13 @@
 | Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Sum%20Increasing%20Subsequence.cpp) | SDE | Day 25 | Medium |
 | 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/0-1%20Knapsack.cpp) | SDE | Day 26 | Medium |
 | Egg Dropping | [Egg Dropping Puzzle](https://www.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1) | [Github]() | SDE | Day 26 | Hard |
-
+| Implement Trie (Prefix Tree) | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Github]() | SDE | Day 27 | Hard |
+| Implement Trie - 2 (Prefix Tree) | [](https://takeuforward.org/plus/dsa/problems/trie-implementation-and-advanced-operations) | [Github]() | SDE | Day 27 | Hard |
+| Longest String with All Prefixes | [](https://takeuforward.org/plus/dsa/problems/longest-word-with-all-prefixes) | [Github]() | SDE | Day 27 | Medium |
+| Number of Distinct Substrings in a String | [](https://takeuforward.org/plus/dsa/problems/number-of-distinct-substrings-in-a-string) | [Github]() | SDE | Day 27 | Hard |
+| Power Set (this is very important) | [](https://takeuforward.org/plus/dsa/problems/power-set) | [Github]() | SDE | Day 27 | Medium |
+| Maximum XOR of two numbers in an array | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Github]() | SDE | Day 27 | Medium |
+| Maximum XOR With an Element From Array | [Maximum XOR With an Element From Array](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | [Github]() | SDE | Day 27 | Hard |
 
 ---
 
@@ -316,11 +322,11 @@
 | 36  | Binary Search Tree ✅                                    | Day  |
 | 37  | Binary Search Tree Part-II ✅                            | Day  |
 | 38  | Graphs \[Concepts & Problems] ✅                         | Step |
-| 39  | Graph                                                  | Day  |
-| 40  | Graph Part-II                                          | Day  |
+| 39  | Graph ✅                                                 | Day  |
+| 40  | Graph Part-II ✅                                         | Day  |
 | 41  | Dynamic Programming \[Patterns and Problems] ✅          | Step |
 | 42  | Dynamic Programming ✅                                   | Day  |
 | 43  | Dynamic Programming Part-II ✅                           | Day  |
 | 44  | Tries                                                  | Step |
-| 45  | Trie                                                   | Day  |
+| 45  | Trie ✅                                                  | Day  |
 
