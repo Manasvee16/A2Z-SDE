@@ -60,30 +60,26 @@
 | Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | Both | Step 7 Lec 1/Day 3 | Medium |
 | Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | Both | Step 16 Lec 3/Day 3 | Medium | 
 | Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
-| Remove outermost Paranthesis | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
-| Reverse words in a given string / Palindrome Check | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
-| Largest odd number in a string | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
-| Longest Common Prefix | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
-| Isomorphic String | []() | [Github]() | A2Z | Step 5 Lec 1 | Easy |
-| check whether one string is a rotation of another | []() | [Github]() | A2Z | Step 5 Lec 1 | Medium |
-| Check if two strings are anagram of each other | []() | [Github]() | A2Z | Step 5 Lec 1 | Medium |
-| Sort Characters by frequency | []() | [Github]() | A2Z | Step 5 Lec 2 | Easy |
-| Maximum Nesting Depth of Paranthesis | []() | [Github]() | A2Z | Step 5 Lec 2 | Easy |
-| Roman Number to Integer and vice versa | []() | [Github]() | A2Z | Step 5 Lec 2 | Easy |
-| Implement Atoi | []() | [Github]() | A2Z | Step 5 Lec 2 | Medium |
-| Count Number of Substrings | []() | [Github]() | A2Z | Step 5 Lec 2 | Medium |
-| Longest Palindromic Substring[Do it without DP] | []() | [Github]() | A2Z | Step 5 Lec 2 | Hard |
-| Sum of Beauty of all substring | []() | [Github]() | A2Z | Step 5 Lec 2 | Medium |
-| Reverse Every Word in A String | []() | [Github]() | A2Z | Step 5 Lec 2 | Easy |
-| Minimum number of bracket reversals needed to make an expression balanced | []() | [Github]() | A2Z | Step 18 Lec 1 | Medium |
-| Count and say | []() | [Github]() | A2Z | Step 18 Lec 1 | Medium |
-| Hashing In Strings - Theory | []() | [Github]() | A2Z | Step 18 Lec 1 | Medium |
-| Rabin Karp | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
-| Z-Function | []() | [Github]() | A2Z | Step 18 Lec 1 | Easy |
-| KMP algo / LPS(pi) array | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
-| Shortest Palindrome | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
-| Longest happy prefix | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
-| Count palindromic subsequence in given string | []() | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Remove outermost Paranthesis | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Github]() | A2Z | Step 5 Lec 1 | Easy |
+| Reverse words in a given string / Palindrome Check | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2005/19.%20Reverse%20Words%20in%20a%20String.cpp) | A2Z | Step 5 Lec 1 | Easy |
+| Largest odd number in a string | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Github]() | A2Z | Step 5 Lec 1 | Easy |
+| Longest Common Prefix | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2020/65.%20Longest%20Common%20Prefix.cpp) | A2Z | Step 5 Lec 1 | Easy |
+| Isomorphic String | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/15.%20Isomorphic%20Strings.cpp) | A2Z | Step 5 Lec 1 | Easy |
+| check whether one string is a rotation of another | [Rotate String](https://leetcode.com/problems/rotate-string/) | [Github]() | A2Z | Step 5 Lec 1 | Medium |
+| Check if two strings are anagram of each other | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2001/2.%20Valid%20Anagram.cpp) | A2Z | Step 5 Lec 1 | Medium |
+| Sort Characters by frequency | [Sort Characters by Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Github]() | A2Z | Step 5 Lec 2 | Easy |
+| Maximum Nesting Depth of Paranthesis | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Github]() | A2Z | Step 5 Lec 2 | Easy |
+| Roman Number to Integer and vice versa | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Github]() | A2Z | Step 5 Lec 2 | Easy |
+| Longest Palindromic Substring[Do it without DP] | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2006/22.%20Longest%20Palindromic%20Substring.cpp) | A2Z | Step 5 Lec 2 | Hard |
+| Sum of Beauty of all substring | [Sum of Beauty of all Substrings](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Github]() | A2Z | Step 5 Lec 2 | Medium |
+| Minimum number of bracket reversals needed to make an expression balanced | [Minimu Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Github]() | A2Z | Step 18 Lec 1 | Medium |
+| Count and say | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Github]() | A2Z | Step 18 Lec 1 | Medium |
+| Rabin Karp | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Z-Function | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2002/6.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp) | A2Z | Step 18 Lec 1 | Easy |
+| KMP algo / LPS(pi) array | [](https://leetcode.com/problems/implement-strstr/) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Shortest Palindrome | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Longest happy prefix | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Count palindromic subsequence in given string | [](https://takeuforward.org/plus/dsa/problems/count-palindromic-subsequences) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
 | Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/102.%20Reverse%20Linked%20List.cpp) | SDE | Day 5 | Easy |
 | Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Middle%20of%20the%20Linked%20List.cpp) | SDE | Day 5 | Easy |
 | Merge two sorted Linked List (use method used in mergeSort) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Two%20Sorted%20Lists.cpp) | SDE | Day 5 | Easy |
@@ -99,7 +95,7 @@
 | Rotate a LinkedList | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Rotate%20List.cpp) | SDE | Day 7 | Medium |
 | Clone a Linked List with random and next pointer | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/107.%20Copy%20List%20with%20Random%20Pointer.cpp) | SDE | Day 7 | Hard |
 | Trapping Rainwater | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2033/97.%20Trapping%20Rain%20Water.cpp) | SDE | Day 7 | Hard |
-| Recursive Implementation of atoi() | [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/String%20to%20Integer%20(atoi).cpp) | A2Z | Step 7 Lec 1 | Hard |
+| Recursive Implementation of atoi() | [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/String%20to%20Integer%20(atoi).cpp) | A2Z | Step 7 Lec 1/Step 5 Lec 2 | Hard |
 | Count Good numbers | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20Good%20Numbers.cpp) | A2Z | Step 7 Lec 1 | Easy |
 | Generate Paranthesis | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2002/5.%20Generate%20Parentheses.cpp) | A2Z | Step 7 Lec 2 | Medium |
 | Print all subsequences/Power Set | [Subsets](https://leetcode.com/problems/subsets/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Subsets.cpp) | A2Z | Step 7 Lec 2 | Medium |
@@ -214,12 +210,11 @@
 | Floyd Warshal Algorithm | [Implementing Floyd Warshall](https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2068/184.%20Floyd%20Warshall%20Algorithm.cpp) | Both | Step 15 Lec 4/Day 24 | Hard |
 | Find the city with the smallest number of neighbors in a threshold distance | [Find the city with the smallest number of neighbors at a threshold distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance.cpp) | A2Z | Step 15 Lec 4 | Hard |
 | Prim's Algorithm | [Minimum Spanning Tree](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2069/187.%20Minimum%20Spanning%20Tree.cpp) | Both | Step 15 Lec 5/Day 24 | Hard |
-| Disjoint Set [Union by Rank] | [](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Disjoint Set [Union by Size] | [](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
-| Kruskal's Algorithm | [](https://takeuforward.org/plus/dsa/problems/find-the-mst-weight) | [Github]() | Both | Step 15 Lec 5/Day 24 | Hard |
+| Disjoint Set [Union by Rank and Size] | [Disjoint Set](https://takeuforward.org/plus/dsa/problems/disjoint-set-) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Disjoint%20Set.cpp) | A2Z | Step 15 Lec 5 | Hard |
+| Kruskal's Algorithm | [Minimum Spanning Tree - Kruskal's Algorithm](https://www.geeksforgeeks.org/problems/minimum-spanning-tree-kruskals-algorithm/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Minimum%20Spanning%20Tree%20-%20Kruskal's%20Algorithm.cpp) | Both | Step 15 Lec 5/Day 24 | Hard |
 | Number of operations to make network connected | [Number of operations to make network connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Number%20of%20Operations%20to%20Make%20Network%20Connected.cpp) | A2Z | Step 15 Lec 5 | Medium |
 | Most stones removed with same rows or columns | [Most stones removed with same row or column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.cpp) | A2Z | Step 15 Lec 5 | Medium |
-| Accounts merge | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
+| Accounts merge | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Accounts%20Merge.cpp) | A2Z | Step 15 Lec 5 | Hard |
 | Number of island II | [Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Making a Large Island | [Making a Large Island](https://leetcode.com/problems/making-a-large-island/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Swim in rising water | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
