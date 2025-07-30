@@ -56,10 +56,41 @@
 | Reverse Pairs | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Reverse%20Pairs.cpp) | Both | Step 3 Lec 3/Day 3 | Hard |
 | Maximum Product Subarray | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Product%20Subarray.cpp) | Both | Step 3 Lec 3/Day 25 | Easy |
 | Find the duplicate in an array of N+1 integers | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Find%20Duplicate.cpp) | SDE | Day 2 | Medium |
-| Search in a 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2018/57.%20Search%20a%202D%20Matrix.cpp) | SDE | Day 3 | Medium |
+| Search in a 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2018/57.%20Search%20a%202D%20Matrix.cpp) | Both | Step 4 Lec 3/Day 3 | Medium |
 | Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | Both | Step 7 Lec 1/Day 3 | Medium |
 | Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | Both | Step 16 Lec 3/Day 3 | Medium | 
 | Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
+| Binary Search to find X in sorted array | [](https://leetcode.com/problems/binary-search/) | [Github]() | A2Z | Step 4 Lec 1 | Easy |
+| Implement Lower Bound | [](https://takeuforward.org/plus/dsa/problems/lower-bound-) | [Github]() | A2Z | Step 4 Lec 1 | Easy |
+| Implement Upper Bound | [](https://takeuforward.org/plus/dsa/problems/upper-bound) | [Github]() | A2Z | Step 4 Lec 1 | Easy |
+| Search Insert Position | [](https://leetcode.com/problems/search-insert-position/) | [Github]() | A2Z | Step 4 Lec 1 | Easy |
+| Floor/Ceil in Sorted Array | [](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-sorted-array) | [Github]() | A2Z | Step 4 Lec 1 | Medium |
+| Find the first or last occurrence of a given number in a sorted array | [](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Github]() | A2Z | Step 4 Lec 1 | Easy |
+| Count occurrences of a number in a sorted array with duplicates | [](https://takeuforward.org/plus/dsa/problems/count-occurrences-in-a-sorted-array) | [Github]() | A2Z | Step 4 Lec 1 | Easy |
+| Search in Rotated Sorted Array I | [](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Github]() | Both | Step 4 Lec 1/Day 11 | Medium |
+| Search in Rotated Sorted Array II | [](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Github]() | A2Z | Step 4 Lec 1 | Medium |
+| Find minimum in Rotated Sorted Array | [](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Github]() | A2Z | Step 4 Lec 1 | Medium |
+| Find out how many times has an array been rotated | [](https://takeuforward.org/plus/dsa/problems/find-out-how-many-times-the-array-is-rotated) | [Github]() | A2Z | Step 4 Lec 1 | Easy |
+| Single element in a Sorted Array | [](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Github]() | Both | Step 4 Lec 1/Day 11 | Easy |
+| Find peak element | [](https://leetcode.com/problems/find-peak-element/) | [Github]() | A2Z | Step 4 Lec 1 | Hard |
+| Find square root of a number in log n | [](https://takeuforward.org/plus/dsa/problems/find-square-root-of-a-number) | [Github]() | A2Z | Step 4 Lec 2 | Medium |
+| Find the Nth root of a number using binary search | [](https://takeuforward.org/plus/dsa/problems/find-nth-root-of-a-number) | [Github]() | Both | Step 4 Lec 2/Day 11 | Medium |
+| Koko Eating Bananas | [](https://leetcode.com/problems/koko-eating-bananas/) | [Github]() | A2Z | Step 4 Lec 2 | Hard |
+| Minimum days to make M bouquets | [](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | [Github]() | A2Z | Step 4 Lec 2 | Hard |
+| Find the smallest Divisor | [](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Github]() | A2Z | Step 4 Lec 2 | Easy |
+| Capacity to Ship Packages within D Days | [](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Github]() | A2Z | Step 4 Lec 2 | Hard |
+| Kth Missing Positive Number | [](https://leetcode.com/problems/kth-missing-positive-number/) | [Github]() | A2Z | Step 4 Lec 2 | Easy |
+| Aggressive Cows | [](https://takeuforward.org/plus/dsa/problems/aggressive-cows) | [Github]() | Both | Step 4 Lec 2/Day 11 | Hard |
+| Book Allocation Problem | [](https://takeuforward.org/plus/dsa/problems/book-allocation-problem) | [Github]() | Both | Step 4 Lec 2/Day 11 | Hard |
+| Split array - Largest Sum | [](https://leetcode.com/problems/split-array-largest-sum/) | [Github]() | A2Z | Step 4 Lec 2 | Hard |
+| Painter's partition | [](https://takeuforward.org/plus/dsa/problems/painters-partition) | [Github]() | A2Z | Step 4 Lec 2 | Hard |
+| Minimize Max Distance to Gas Station | [](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [Github]() | A2Z | Step 4 Lec 2 | Hard |
+| Median of 2 sorted arrays | [](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Github]() | Both | Step 4 Lec 2/Day 11 | Hard |
+| Kth element of 2 sorted arrays | [](https://takeuforward.org/plus/dsa/problems/kth-element-of-2-sorted-arrays) | [Github]() | Both | Step 4 Lec 2/Day 11 | Medium |
+| Find the row with maximum number of 1's | [](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's) | [Github]() | A2Z | Step 4 Lec 3 | Easy |
+| Search in a row and column wise sorted matrix | [](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Github]() | A2Z | Step 4 Lec 3 | Medium |
+| Find Peak Element (2D Matrix) | [](https://leetcode.com/problems/find-a-peak-element-ii/) | [Github]() | A2Z | Step 4 Lec 3 | Hard |
+| Matrix Median | [](https://takeuforward.org/plus/dsa/problems/matrix-median) | [Github]() | Both | Step 4 Lec 3/Day 11 | Hard |
 | Remove outermost Paranthesis | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Github]() | A2Z | Step 5 Lec 1 | Easy |
 | Reverse words in a given string / Palindrome Check | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2005/19.%20Reverse%20Words%20in%20a%20String.cpp) | A2Z | Step 5 Lec 1 | Easy |
 | Largest odd number in a string | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Largest%20Odd%20Number%20in%20String.cpp) | A2Z | Step 5 Lec 1 | Easy |
@@ -272,8 +303,8 @@
 | Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Sum%20Increasing%20Subsequence.cpp) | SDE | Day 25 | Medium |
 | 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/0-1%20Knapsack.cpp) | SDE | Day 26 | Medium |
 | Egg Dropping | [Egg Dropping Puzzle](https://www.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1) | [Github]() | SDE | Day 26 | Hard |
-| Implement Trie (Prefix Tree) | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Github]() | SDE | Day 27 | Hard |
-| Implement Trie - 2 (Prefix Tree) | [](https://takeuforward.org/plus/dsa/problems/trie-implementation-and-advanced-operations) | [Github]() | SDE | Day 27 | Hard |
+| Implement Trie (Prefix Tree) | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2071/190.%20Implement%20Trie%20(Prefix%20Tree).cpp) | SDE | Day 27 | Hard |
+| Implement Trie - 2 (Prefix Tree) | [Trie Delete](https://www.geeksforgeeks.org/problems/trie-delete/1) | [Github]() | SDE | Day 27 | Hard |
 | Longest String with All Prefixes | [](https://takeuforward.org/plus/dsa/problems/longest-word-with-all-prefixes) | [Github]() | SDE | Day 27 | Medium |
 | Number of Distinct Substrings in a String | [](https://takeuforward.org/plus/dsa/problems/number-of-distinct-substrings-in-a-string) | [Github]() | SDE | Day 27 | Hard |
 | Power Set (this is very important) | [](https://takeuforward.org/plus/dsa/problems/power-set) | [Github]() | SDE | Day 27 | Medium |
@@ -291,8 +322,8 @@
 | 5   | Arrays Part-II ✅                                        | Day  |
 | 6   | Arrays Part-III ✅                                       | Day  |
 | 7   | Arrays Part-IV ✅                                        | Day  |
-| 8   | Binary Search \[1D, 2D Arrays, Search Space]           | Step |
-| 9   | Binary Search                                          | Day  |
+| 8   | Binary Search \[1D, 2D Arrays, Search Space] ✅          | Step |
+| 9   | Binary Search ✅                                         | Day  |
 | 10  | Sliding Window & Two Pointer Combined Problems         | Step |
 | 11  | Strings \[Basic and Medium] ✅                           | Step |
 | 12  | Strings \[Extra Set] ✅                                  | Step |
