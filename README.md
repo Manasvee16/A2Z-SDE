@@ -59,7 +59,7 @@
 | Search in a 2D matrix | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2018/57.%20Search%20a%202D%20Matrix.cpp) | Both | Step 4 Lec 3/Day 3 | Medium |
 | Pow(x, n) | [Pow(x,n)](https://leetcode.com/problems/powx-n/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2028/81.%20Pow(x%2Cn).cpp) | Both | Step 7 Lec 1/Day 3 | Medium |
 | Grid Unique Paths | [Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Unique%20Paths.cpp) | Both | Step 16 Lec 3/Day 3 | Medium | 
-| Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | SDE | Day 4 | Medium |
+| Longest Substring without repeat | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2004/18.%20Longest%20Substring%20Without%20Repeating%20Characters.cpp) | Both | Step 10 Lec 1/Day 4 | Medium |
 | Binary Search to find X in sorted array | [Binary Search](https://leetcode.com/problems/binary-search/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2008/26.%20Binary%20Search.cpp) | A2Z | Step 4 Lec 1 | Easy |
 | Implement Lower Bound | [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Implement%20Lower%20Bound.cpp) | A2Z | Step 4 Lec 1 | Easy |
 | Implement Upper Bound | [Implement Upper Bound](https://www.geeksforgeeks.org/problems/implement-upper-bound/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Implement%20Upper%20Bound.cpp) | A2Z | Step 4 Lec 1 | Easy |
@@ -92,6 +92,17 @@
 | Search in a row and column wise sorted matrix | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Github]() | A2Z | Step 4 Lec 3 | Medium |
 | Find Peak Element (2D Matrix) | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [Github]() | A2Z | Step 4 Lec 3 | Hard |
 | Matrix Median | [Median in a Row Wise Sorted Matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Median%20in%20a%20Row-Wise%20Sorted%20Matrix.cpp) | Both | Step 4 Lec 3/Day 11 | Hard |
+| Max Consecutive Ones III | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/) | [Github]() | A2Z | Step 10 Lec 1 | Medium |
+| Fruit into Baskets | [Fruit into Baskets](https://leetcode.com/problems/fruit-into-baskets/) | [Github]() | A2Z | Step 10 Lec 1 | Medium |
+| longest repeating character replacement | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Github]() | A2Z | Step 10 Lec 1 | Medium |
+| Binary Subarray with sum | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/) | [Github]() | A2Z | Step 10 Lec 1 | Easy |
+| Count number of nice subarrays | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/) | [Github]() | A2Z | Step 10 Lec 1 | Medium |
+| Number of substring containing all three characters | [Number of Substring Containing all Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Github]() | A2Z | Step 10 Lec 1 | Medium |
+| Maximum point you can obtain from cards | [Maximum Points you can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Github]() | A2Z | Step 10 Lec 1 | Medium |
+| Longest Substring with At Most K Distinct Characters | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [Github]() | A2Z | Step 10 Lec 2 | Medium |
+| Subarray with k different integers | [Subarray with k Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [Github]() | A2Z | Step 10 Lec 2 | Hard |
+| Minimum Window Substring | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Github]() | A2Z | Step 10 Lec 2 | Hard |
+| Minimum Window Subsequence | [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/) | [Github]() | A2Z | Step 10 Lec 2 | Hard |
 | Remove outermost Paranthesis | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Remove%20Outermost%20Parentheses.cpp) | A2Z | Step 5 Lec 1 | Easy |
 | Reverse words in a given string / Palindrome Check | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2005/19.%20Reverse%20Words%20in%20a%20String.cpp) | Both | Step 5 Lec 1/Day 15 | Easy |
 | Largest odd number in a string | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Largest%20Odd%20Number%20in%20String.cpp) | A2Z | Step 5 Lec 1 | Easy |
@@ -113,21 +124,98 @@
 | Longest happy prefix | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
 | Count palindromic subsequence in given string | [](https://takeuforward.org/plus/dsa/problems/count-palindromic-subsequences) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
 | Compare Version Numbers | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Github]() | SDE | Day 16 | Medium |
-| Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/102.%20Reverse%20Linked%20List.cpp) | SDE | Day 5 | Easy |
-| Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Middle%20of%20the%20Linked%20List.cpp) | SDE | Day 5 | Easy |
+Inserting a node in LinkedList Easy
+Deleting a node in LinkedList Medium
+Find the length of the linkedlist [learn traversal] Easy
+Search an element in the LL Easy
+Introduction to DLL, learn about struct, and how is node represented Easy
+Insert a node in DLL Easy
+Delete a node in DLL Medium
+Reverse a DLL Medium
+Middle of a LinkedList [TortoiseHare Method] Easy
+Reverse a LinkedList [Iterative] Easy
+Reverse a LL [Recursive] Easy
+Detect a loop in LL Medium
+Find the starting point in LL Medium
+Length of Loop in LL Easy
+Check if LL is palindrome or not Medium
+Segrregate odd and even nodes in LL https://leetcode.com/problems/odd-even-linked-list/ Medium
+Remove Nth node from the back of the LL Medium
+Delete the middle node of LL https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/ Medium
+Sort LL https://leetcode.com/problems/sort-list/ Medium
+Sort a LL of 0's 1's and 2's by changing links Medium
+Find the intersection point of Y LL Medium
+Add 1 to a number represented by LL Medium
+Add 2 numbers in LL Medium
+Delete all occurrences of a key in DLL Medium
+Find pairs with given sum in DLL Medium
+Remove duplicates from sorted DLL Medium
+Reverse LL in group of given size K Hard
+Rotate a LL Medium
+Flattening of LL Hard
+Clone a Linked List with random and next pointer Hard
+| Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/102.%20Reverse%20Linked%20List.cpp) | Both | Step 6 Lec 3/Day 5 | Easy |
+| Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Middle%20of%20the%20Linked%20List.cpp) | Both | Step 6 Lec 3/Day 5 | Easy |
 | Merge two sorted Linked List (use method used in mergeSort) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Two%20Sorted%20Lists.cpp) | SDE | Day 5 | Easy |
-| Remove N-th node from back of LinkedList | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/105.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) | SDE | Day 5 | Medium |
-| Add two numbers as LinkedList | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2038/112.%20Add%20Two%20Numbers.cpp) | SDE | Day 5 | Medium |
-| Delete a given Node when a node is given.(0(1) solution) | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Delete%20Node%20in%20a%20Linked%20List.cpp) | SDE | Day 5 | Medium |
-| Find intersection point of Y LinkedList | [Intersection fo Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2038/114.%20Intersection%20of%20Two%20Linked%20Lists.cpp) | SDE | Day 6 | Medium |
-| Detect a cycle in Linked List | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/100.%20Linked%20List%20Cycle.cpp) | SDE | Day 6 | Medium |
-| Reverse a LinkedList in groups of size k | [Reverse Nodes in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Reverse%20Nodes%20in%20k-Group.cpp) | SDE | Day 6 | Hard |
-| Check if a LinkedList is palindrome or not | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/103.%20Palindrome%20Linked%20List.cpp) | SDE | Day 6 | Medium |
-| Find the starting point of the Loop of LinkedList | [Linked List Cycle-II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Linked%20List%20Cycle%20ii.cpp) | SDE | Day 6 | Medium |
+| Remove N-th node from back of LinkedList | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/105.%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp) | Both | Step 6 Lec 3/Day 5 | Medium |
+| Add two numbers as LinkedList | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2038/112.%20Add%20Two%20Numbers.cpp) | Both | Step 6 Lec 3/Day 5 | Medium |
+| Delete a given Node when a node is given.(0(1) solution) | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Delete%20Node%20in%20a%20Linked%20List.cpp) | Both | Step 6 Lec 1/Day 5 | Medium |
+| Find intersection point of Y LinkedList | [Intersection fo Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2038/114.%20Intersection%20of%20Two%20Linked%20Lists.cpp) | Both | Step 6 Lec 3/Day 6 | Medium |
+| Detect a cycle in Linked List | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/100.%20Linked%20List%20Cycle.cpp) | Both | Step 6 Lec 3/Day 6 | Medium |
+| Reverse a LinkedList in groups of size k | [Reverse Nodes in K Groups](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Reverse%20Nodes%20in%20k-Group.cpp) | Both | Step 6 Lec 5/Day 6 | Hard |
+| Check if a LinkedList is palindrome or not | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/103.%20Palindrome%20Linked%20List.cpp) | Both | Step 6 Lec 3/Day 6 | Medium |
+| Find the starting point of the Loop of LinkedList | [Linked List Cycle-II](https://leetcode.com/problems/linked-list-cycle-ii/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Linked%20List%20Cycle%20ii.cpp) | Both | Step 6 Lec 3/Day 6 | Medium |
 | Flattening of a LinkedList | [Flattening of ll](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Flattening%20a%20Linked%20List.cpp) | SDE | Day 6 | Hard |
-| Rotate a LinkedList | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Rotate%20List.cpp) | SDE | Day 7 | Medium |
-| Clone a Linked List with random and next pointer | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/107.%20Copy%20List%20with%20Random%20Pointer.cpp) | SDE | Day 7 | Hard |
+| Rotate a LinkedList | [Rotate List](https://leetcode.com/problems/rotate-list/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Rotate%20List.cpp) | Both | Step 6 Lec 5/Day 7 | Medium |
+| Clone a Linked List with random and next pointer | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/107.%20Copy%20List%20with%20Random%20Pointer.cpp) | Both | Step 6 Lec 5/Day 7 | Hard |
 | Trapping Rainwater | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2033/97.%20Trapping%20Rain%20Water.cpp) | SDE | Day 7 | Hard |
+Implement Stack using Arrays Easy
+Implement Queue using Arrays Easy
+Implement Stack using Queue Medium
+Implement Queue using Stack Medium
+Implement stack using Linkedlist Easy
+Implement queue using Linkedlist Medium
+Check for balanced paranthesis Medium
+Implement Min Stack Medium
+Infix to Postfix Conversion using Stack Medium
+Prefix to Infix Conversion Medium
+Prefix to Postfix Conversion Medium
+Postfix to Prefix Conversion Medium
+Postfix to Infix Medium
+Convert Infix To Prefix Notation Medium
+Next Greater Element Easy
+Next Greater Element 2 Medium
+Next Smaller Element Easy
+Number of NGEs to the right Easy
+Trapping Rainwater Hard
+Sum of subarray minimum Medium
+Asteroid Collision Medium
+Sum of subarray ranges Medium
+Remove k Digits Medium
+Largest rectangle in a histogram Medium
+Maximal Rectangles Hard
+Sliding Window maximum Hard
+Stock span problem Medium
+The Celebrity Problem Hard
+LRU cache (IMPORTANT) Hard
+LFU cache Hard
+Implement Stack using Arrays Easy
+Implement Queue using Arrays Easy
+Implement Stack using Queue (using single queue) Medium
+Implement Queue using Stack (0(1) amortized method) Medium
+Check for balanced parentheses Medium
+Next Greater Element Easy
+Sort a Stack Easy
+Next Smaller Element Easy
+LRU cache (IMPORTANT) Hard
+LFU cache Hard
+Largest rectangle in a histogram Medium
+Sliding Window maximum Hard
+Implement Min Stack Medium
+Rotten Orange (Using BFS) Medium
+Stock span problem Medium
+Find the maximum of minimums of every window size Medium
+The Celebrity Problem Hard
 | Recursive Implementation of atoi() | [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/String%20to%20Integer%20(atoi).cpp) | Both | Step 7 Lec 1/Step 5 Lec 2/Day 8 | Hard |
 | Count Good numbers | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20Good%20Numbers.cpp) | A2Z | Step 7 Lec 1 | Easy |
 | Generate Paranthesis | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2002/5.%20Generate%20Parentheses.cpp) | A2Z | Step 7 Lec 2 | Medium |
@@ -151,6 +239,41 @@
 | Subset Sums | [Subset sum problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Subset%20Sum%20Problem.cpp) | Both | Step 16 Lec 4/Day 9 | Hard |
 | K-th permutation Sequence | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Permutation%20Sequence.cpp) | SDE | Day 9 | Hard |
 | Print all Permutations of a String/Array | [Permutations](https://leetcode.com/problems/permutations/description/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2023/72.%20Permutations.cpp) | SDE | Day 10 | Medium |
+Introduction to Bit Manipulation [Theory] Easy
+Check if the i-th bit is set or not Easy
+Check if a number is odd or not Easy
+Check if a number is power of 2 or not Easy
+Count the number of set bits Easy
+Set/Unset the rightmost unset bit Easy
+Swap two numbers Easy
+Divide two integers without using multiplication, division and mod operator Medium
+Count number of bits to be flipped to convert A to B Medium
+Find the number that appears odd number of times Easy
+Power Set Medium
+Find xor of numbers from L to R Easy
+Find the two numbers appearing odd number of times Easy
+Print Prime Factors of a Number Easy
+All Divisors of a Number Easy
+Sieve of Eratosthenes Medium
+Find Prime Factorisation of a Number using Sieve Medium
+Power(n, x) Medium
+Introduction to Priority Queues using Binary Heaps Medium
+Min Heap and Max Heap Implementation Medium
+Check if an array represents a min-heap or not Medium
+Convert min Heap to max Heap Medium
+Kth largest element in an array [use priority queue] Easy
+Kth smallest element in an array [use priority queue] Easy
+Sort K sorted array Easy
+Merge M sorted Lists Hard
+Replace each array element by its corresponding rank Easy
+Task Scheduler Medium
+Hands of Straights Medium
+Design twitter Medium
+Connect n ropes with minimal cost Medium
+Kth largest element in a stream of running integers Easy
+Maximum Sum Combination Medium
+Find Median from Data Stream Hard
+K most frequent elements Medium
 | Max heap, Min Heap Implementation (Only for interviews) | [](https://takeuforward.org/plus/dsa/problems/implement-max-heap) | [Github]() | SDE | Day 12 | Medium |
 | Maximum Sum Combination | [](https://takeuforward.org/plus/dsa/problems/maximum-sum-combination) | [Github]() | SDE | Day 12 | Medium |
 | Merge K sorted arrays | [](https://takeuforward.org/plus/dsa/problems/merge-k-sorted-arrays) | [Github]() | SDE | Day 12 | Medium |
@@ -201,6 +324,22 @@ Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com
 | Symmetric Binary Tree | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2040/119.%20Symmetric%20Tree.cpp) | SDE | Day 19 | Medium |
 | Flatten Binary Tree to LinkedList | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Flatten%20Binary%20Tree%20to%20Linked%20List.cpp) | Both | Step 13 Lec 3/Day 19/Day 22 | Hard |
 | Check for Children Sum Property | [Children Sum Parent](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Children%20Sum%20Parent.cpp) | Both | Step 13 Lec 3/Day 19 | Hard |
+Introduction to Binary Search Tree Easy
+Search in a Binary Search Tree Easy
+Find Min/Max in BST Medium
+Ceil in a Binary Search Tree Easy
+Floor in a Binary Search Tree Easy
+Insert a given Node in Binary Search Tree Easy
+Delete a Node in Binary Search Tree Medium
+Find K-th smallest/largest element in BST Medium
+Check if a tree is a BST or BT Medium
+LCA in Binary Search Tree Medium
+Construct a BST from a preorder traversal Medium
+Inorder Successor/Predecessor in BST Medium
+Merge 2 BST's Hard
+Two Sum In BST / Check if there exists a pair with Sum K Medium
+Recover BST / Correct BST with two nodes swapped Hard
+Largest BST in Binary Tree Hard
 | Populate Next Right pointers of Tree | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp) | SDE | Day 20 | Medium |
 | Search given Key in BST | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Search%20in%20a%20Binary%20Search%20Tree.cpp) | SDE | Day 20 | Easy |
 | Construct BST from given keys | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp) | SDE | Day 20 | Hard |
@@ -317,6 +456,13 @@ Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com
 | Maximum Sum Increasing Subsequence | [Maximum Sum Increasing Subsequence](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Maximum%20Sum%20Increasing%20Subsequence.cpp) | SDE | Day 25 | Medium |
 | 0-1 Knapsack Problem | [0-1 Knapsack Problem](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/0-1%20Knapsack.cpp) | SDE | Day 26 | Medium |
 | Egg Dropping | [Egg Dropping Puzzle](https://www.geeksforgeeks.org/problems/egg-dropping-puzzle-1587115620/1) | [Github]() | SDE | Day 26 | Hard |
+Implement TRIE - INSERT - SEARCH - STARTSWITH Hard
+Implement Trie - 2 (Prefix Tree) Hard
+Longest String with All Prefixes Medium
+Number of Distinct Substrings in a String Hard
+Bit PreRequisites for TRIE Problems Hard
+Maximum XOR of two numbers in an array Medium
+Maximum XOR With an Element From Array Hard
 | Implement Trie (Prefix Tree) | [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2071/190.%20Implement%20Trie%20(Prefix%20Tree).cpp) | SDE | Day 27 | Hard |
 | Implement Trie - 2 (Prefix Tree) | [Trie Delete](https://www.geeksforgeeks.org/problems/trie-delete/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Trie%20Delete.cpp) | SDE | Day 27 | Hard |
 | Longest String with All Prefixes | [Longest Valid Word with All Prefixes](https://www.geeksforgeeks.org/problems/longest-valid-word-with-all-prefixes/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Longest%20Valid%20Word%20with%20All%20Prefixes.cpp) | SDE | Day 27 | Medium |
@@ -338,23 +484,23 @@ Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com
 | 7   | Arrays Part-IV ✅                                        | Day  |
 | 8   | Binary Search \[1D, 2D Arrays, Search Space] ✅          | Step |
 | 9   | Binary Search ✅                                         | Day  |
-| 10  | Sliding Window & Two Pointer Combined Problems         | Step |
+| 10  | Sliding Window & Two Pointer Combined Problems ✅        | Step |
 | 11  | Strings \[Basic and Medium] ✅                           | Step |
 | 12  | Strings \[Extra Set] ✅                                  | Step |
 | 13  | String ✅                                                | Day  |
 | 14  | String Part-II ✅                                        | Day  |
-| 15  | Learn LinkedList \[Single LL, Double LL, Medium, Hard] | Step |
+| 15  | Learn LinkedList \[Single LL, Double LL, Medium, Hard] ✅ | Step |
 | 16  | Linked List ✅                                           | Day  |
 | 17  | Linked List Part-II ✅                                   | Day  |
 | 18  | Linked List and Arrays ✅                                | Day  |
-| 19  | Stack and Queues \[Pre/Post/Infix, Monotonic, Impl.]   | Step |
-| 20  | Stack and Queue                                        | Day  |
-| 21  | Stack and Queue Part-II                                | Day  |
+| 19  | Stack and Queues \[Pre/Post/Infix, Monotonic, Impl.] ✅  | Step |
+| 20  | Stack and Queue ✅                                       | Day  |
+| 21  | Stack and Queue Part-II ✅                               | Day  |
 | 22  | Recursion \[PatternWise] ✅                              | Step |
 | 23  | Recursion ✅                                             | Day  |
 | 24  | Recursion and Backtracking ✅                            | Day  |
-| 25  | Bit Manipulation \[Concepts & Problems]                | Step |
-| 26  | Heaps \[Learning, Medium, Hard Problems]               | Step |
+| 25  | Bit Manipulation \[Concepts & Problems] ✅               | Step |
+| 26  | Heaps \[Learning, Medium, Hard Problems] ✅              | Step |
 | 27  | Heaps ✅                                                 | Day  |
 | 28  | Greedy Algorithms \[Easy, Medium/Hard] ✅                | Step |
 | 29  | Greedy Algorithm ✅                                      | Day  |
@@ -363,7 +509,7 @@ Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com
 | 32  | Binary Tree Part-II ✅                                   | Day  |
 | 33  | Binary Tree Part-III ✅                                  | Day  |
 | 34  | Binary Trees \[Miscellaneous] ✅                         | Day  |
-| 35  | Binary Search Trees \[Concept and Problems]            | Step |
+| 35  | Binary Search Trees \[Concept and Problems] ✅           | Step |
 | 36  | Binary Search Tree ✅                                    | Day  |
 | 37  | Binary Search Tree Part-II ✅                            | Day  |
 | 38  | Graphs \[Concepts & Problems] ✅                         | Step |
@@ -372,6 +518,6 @@ Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com
 | 41  | Dynamic Programming \[Patterns and Problems] ✅          | Step |
 | 42  | Dynamic Programming ✅                                   | Day  |
 | 43  | Dynamic Programming Part-II ✅                           | Day  |
-| 44  | Tries                                                  | Step |
+| 44  | Tries ✅                                                 | Step |
 | 45  | Trie ✅                                                  | Day  |
 
