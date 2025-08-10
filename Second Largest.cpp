@@ -1,6 +1,30 @@
 class Solution {
   public:
     int getSecondLargest(vector<int> &arr) {
+        if (arr.size() < 2)
+            return -1; // Not enough elements
+        int first = INT_MIN;
+        int second = INT_MIN;
+        for (int num : arr) {
+            if (num > first) {
+                // num becomes new first
+                second = first;
+                first = num;
+            }
+            else if (num < first && num > second) {
+                // num is smaller than first but bigger than second
+                second = num;
+            }
+        }
+        if (second==INT_MIN)
+            return -1;
+        return second;
+    }
+};
+
+class Solution {
+  public:
+    int getSecondLargest(vector<int> &arr) {
         if (arr.size() < 2) 
             return -1; // No second largest exists
         stack<int> stack1, stack2;
