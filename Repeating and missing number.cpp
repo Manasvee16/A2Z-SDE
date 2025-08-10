@@ -1,4 +1,33 @@
 class Solution {
+public:
+    vector<int> findTwoElement(vector<int>& arr) {
+        int n = arr.size();
+        int repeating = -1, missing = -1;
+        // Step 1: Use the array elements as indices and mark visited by making negative
+        for (int i = 0; i < n; i++) {
+            int idx = abs(arr[i]) - 1; // map value to index (0-based)
+            if (arr[idx] < 0) {
+                // If already negative → this number is repeating
+                repeating = abs(arr[i]);
+            } 
+            else {
+                arr[idx] = -arr[idx];
+            }
+        }
+        // Step 2: The index whose value is still positive → missing number
+        for (int i = 0; i < n; i++) {
+            if (arr[i] > 0) {
+                missing = i + 1; // convert index to value
+                break;
+            }
+        }
+        return {repeating, missing};
+    }
+};
+//TC O(N)
+//SC O(1)
+
+class Solution {
   public:
     vector<int> findTwoElement(vector<int>& arr) {
         int n = arr.size();
