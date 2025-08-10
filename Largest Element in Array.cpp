@@ -1,6 +1,13 @@
 class Solution {
   public:
     int largest(vector<int> &arr) {
+        return *max_element(arr.begin(), arr.end());
+    }
+};
+
+class Solution {
+  public:
+    int largest(vector<int> &arr) {
         stack<int> st;
         // Push all elements to the stack
         for (int num : arr) {
