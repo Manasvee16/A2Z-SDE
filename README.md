@@ -209,7 +209,7 @@
 | M Coloring Problem | [M Coloring Problem](https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1) | [GRAPH- NOT DONE YET]() | Both | Step 7 Lec 3/Day 10 | Hard |
 | Sudoko Solver | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Sudoku%20Solver.cpp) | Both | Step 7 Lec 3/Day 10 | Hard |
 | Expression Add Operators | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Expression%20Add%20Operators.cpp) | A2Z | Step 7 Lec 3 | Hard |
-| Subset Sums | [Subset sum problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Subset%20Sum%20Problem.cpp) | Both | Step 16 Lec 4/Day 9 | Hard |
+| Subset Sums | [Subset sum problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Subset%20Sum%20Problem.cpp) | A2Z | Step 16 Lec 4 | Hard |
 | K-th permutation Sequence | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Permutation%20Sequence.cpp) | SDE | Day 9 | Hard |
 | Print all Permutations of a String/Array | [Permutations](https://leetcode.com/problems/permutations/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2023/72.%20Permutations.cpp) | SDE | Day 10 | Medium |
 | Check if the i-th bit is set or not | [](https://takeuforward.org/plus/dsa/problems/check-if-the-i-th-bit-is-set-or-not) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
