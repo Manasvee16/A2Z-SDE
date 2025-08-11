@@ -1,6 +1,31 @@
 class Solution {
 public:
     string countAndSay(int n) {
+        string result = "1"; // first sequence
+        for (int step = 2; step <= n; step++) {
+            string next = "";
+            int count = 1;
+            for (int i = 0; i < result.size(); i++) {
+                // count consecutive same characters
+                while (i + 1 < result.size() && result[i] == result[i + 1]) {
+                    count++;
+                    i++;
+                }
+                // append count + digit
+                next += to_string(count) + result[i];
+                count = 1; // reset count for next char group
+            }
+            result = next; // update sequence
+        }
+        return result;
+    }
+};
+//TC: O(Ln) where Ln is length of nth sequence
+//SC: O(Ln) (two strings at most in memory)
+
+class Solution {
+public:
+    string countAndSay(int n) {
         string ans="";
         ans=helper(n); //to compute the nth sequence.
         return ans;
