@@ -255,8 +255,8 @@
 | Program for Least Recently Used (LRU) Page Replacement Algorithm | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2070/189.%20LRU%20Cache.cpp) | Both | Step 9 Lec 4/Step 12 Lec 2/Day 14 | Medium |
 | Insert Interval | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Insert%20Interval.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Non-overlapping Intervals | [Non overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Non%20Overlapping%20Intervals.cpp) | A2Z | Step 12 Lec 2 | Medium |
-Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github]() | A2Z | Step 13 Lec 1 | Easy
-
+Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github]() | A2Z | Step 13 Lec 1 | Easy |
+|||||||
 | Course Schedule -II | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | A2Z | Step 15 Lec 3 | Hard |
 | Right/Left View of Binary Tree | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2065/178.%20Binary%20Tree%20Right%20Side%20View.cpp) | A2Z | Step 13 Lec 2 | Medium |
 | Print all the Nodes at a distance of K in a Binary Tree | [](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Github]() | A2Z | Step 13 Lec 3 | Medium |
