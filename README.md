@@ -7,14 +7,14 @@
 | Reverse a Number | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Reverse%20Integer.cpp) | A2Z | Step 1 Lec 4 | Easy |
 | Check Palindrome | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Palindrome%20Number.cpp) | A2Z | Step 1 Lec 4 | Easy |
 | GCD or HCF | [GCD of Two Numbers](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/GCD%20of%20Two%20Numbers.cpp) | A2Z | Step 1 Lec 4 | Easy |
-| Armstrong Numbers | [](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/0) | [Github]() | A2Z | Step 1 Lec 4 | Easy |
+| Armstrong Numbers | [Armstrong Number](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/0) | [Github]() | A2Z | Step 1 Lec 4 | Easy |
 | Print all Divisors | [All Divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/All%20Divisors%20of%20a%20Number.cpp) | A2Z | Step 1 Lec 4 | Easy |
 | Check for Prime | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Prime%20Number.cpp) | A2Z | Step 1 Lec 4 | Easy |
 | Factorial of N numbers | [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Factorial.cpp) | A2Z | Step 1 Lec 5 | Easy |
 | Reverse an array | [Reverse an array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Reverse%20an%20Array.cpp) | A2Z | Step 1 Lec 5 | Easy |
 | Check if a string is palindrome or not | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2003/13.%20Valid%20Palindrome.cpp) | A2Z | Step 1 Lec 5 | Medium |
 | Fibonacci Number | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2025/75.%20Fibonacci%20Number.cpp) | A2Z | Step 1 Lec 5 | Easy |
-| Counting frequencies of array elements | [](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | [Github]() | A2Z | Step 1 Lec 6 | Easy |
+| Counting frequencies of array elements | [Frequency of Array Elements](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1) | [Github]() | A2Z | Step 1 Lec 6 | Easy |
 | Find the highest/lowest frequency element | [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frequency%20of%20the%20Most%20Frequent%20Element.cpp) | A2Z | Step 1 Lec 6 | Medium |
 | Selection Sort | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Selection%20Sort.cpp) | A2Z | Step 2 Lec 1 | Easy |
 | Bubble Sort | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Bubble%20Sort.cpp) | A2Z | Step 2 Lec 1 | Easy |
@@ -50,7 +50,7 @@
 | Majority Element (n/3 times) | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2012/39.%20Majority%20Element%20ii.cpp) | Both | Step 3 Lec 3/Day 3 | Medium |
 | 3-Sum Problem | [3 sum](https://leetcode.com/problems/3sum/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/3%20sum.cpp) | Both | Step 3 Lec 3/Day 7 | Medium |
 | 4-Sum Problem | [4 sum](https://leetcode.com/problems/4sum/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/4%20sum.cpp) | Both | Step 3 Lec 3/Day 4 | Hard |
-| Largest Subarray with 0 Sum | [](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | [Github]() | A2Z | Step 3 Lec 3 | Medium |
+| Largest Subarray with 0 Sum | [Largest Subarray With 0 Sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | [Github]() | A2Z | Step 3 Lec 3 | Medium |
 | Count number of subarrays with given xor K | [Count subarrays with given xor](https://www.geeksforgeeks.org/problems/count-subarray-with-given-xor/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20Subarrays%20With%20Given%20XOR.cpp) | Both | Step 3 Lec 3/Day 4 | Hard |
 | Merge Overlapping Subintervals | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Intervals.cpp) | Both | Step 3 Lec 3/Step 12 Lec 2/Day 2 | Medium |
 | Merge two sorted arrays without extra space | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Sorted%20Array.cpp) | A2Z | Step 3 Lec 3/Day 2 | Medium |
@@ -91,7 +91,7 @@
 | Minimize Max Distance to Gas Station | [Minimize Max Distance to Gas Station](https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1) | [Github]() | A2Z | Step 4 Lec 2 | Hard |
 | Median of 2 sorted arrays | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Median%20of%20Two%20Sorted%20Arrays.cpp) | Both | Step 4 Lec 2/Day 11 | Hard |
 | Kth element of 2 sorted arrays | [Kth Element of Two Sorted Array](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/K-th%20Element%20of%20Two%20Arrays.cpp) | Both | Step 4 Lec 2/Day 11 | Medium |
-| Find the row with maximum number of 1's | [](https://takeuforward.org/plus/dsa/problems/find-row-with-maximum-1's) | [Github]() | A2Z | Step 4 Lec 3 | Easy |
+| Find the row with maximum number of 1's | [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/) | [Github]() | A2Z | Step 4 Lec 3 | Easy |
 | Search in a row and column wise sorted matrix | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | [Github]() | A2Z | Step 4 Lec 3 | Medium |
 | Find Peak Element (2D Matrix) | [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Find%20a%20Peak%20Element%20II.cpp) | A2Z | Step 4 Lec 3 | Hard |
 | Matrix Median | [Median in a Row Wise Sorted Matrix](https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Median%20in%20a%20Row-Wise%20Sorted%20Matrix.cpp) | Both | Step 4 Lec 3/Day 11 | Hard |
@@ -122,23 +122,23 @@
 | Count and say | [Count and Say](https://leetcode.com/problems/count-and-say/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20and%20Say.cpp) | Both | Step 18 Lec 1/Day 16 | Medium |
 | Rabin Karp | [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) | [Github]() | Both | Step 18 Lec 1/Day 15 | Hard |
 | Z-Function | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2002/6.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp) | Both | Step 18 Lec 1/Day 16 | Easy |
-| KMP algo / LPS(pi) array | [](https://leetcode.com/problems/implement-strstr/) | [Github]() | Both | Step 18 Lec 1/Day 16 | Hard |
+| KMP algo / LPS(pi) array | [Implement Strstr](https://leetcode.com/problems/implement-strstr/) | [Github]() | Both | Step 18 Lec 1/Day 16 | Hard |
 | Shortest Palindrome | [Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
 | Longest happy prefix | [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
-| Count palindromic subsequence in given string | [](https://takeuforward.org/plus/dsa/problems/count-palindromic-subsequences) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
+| Count palindromic subsequence in given string | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/) | [Github]() | A2Z | Step 18 Lec 1 | Hard |
 | Compare Version Numbers | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Github]() | SDE | Day 16 | Medium |
-| Inserting a node in Linked List | [](https://takeuforward.org/plus/dsa/problems/insertion-at-the-head-of-ll) | [Github]() | A2Z | Step 6 Lec 1 | Easy |
-| Find the length of the linkedlist [learn traversal] | [](https://takeuforward.org/plus/dsa/problems/find-the-length-of-the-linked-list) | [Github]() | A2Z | Step 6 Lec 1 | Easy |
-| Search an element in the LL | [](https://takeuforward.org/plus/dsa/problems/search-in-linked-list) | [Github]() | A2Z | Step 6 Lec 1 | Easy |
+| Inserting a node in Linked List | [Linked List Insertion at Beginning](https://www.geeksforgeeks.org/problems/linked-list-insertion-at-beginning/1) | [Github]() | A2Z | Step 6 Lec 1 | Easy |
+| Find the length of the linkedlist [learn traversal] | [Find Length of Linked List](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1) | [Github]() | A2Z | Step 6 Lec 1 | Easy |
+| Search an element in the LL | [Search in Linked List](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | [Github]() | A2Z | Step 6 Lec 1 | Easy |
 | Insert a Node in DLL | [](https://takeuforward.org/plus/dsa/problems/insert-node-before-head-in-dll) | [Github]() | A2Z | Step 6 Lec 2 | Easy |
-| Delete a Node in DLL | [](https://takeuforward.org/plus/dsa/problems/delete-head-of-dll) | [Github]() | A2Z | Step 6 Lec 2 | Medium |
-| Reverse a DLL | [](https://takeuforward.org/plus/dsa/problems/reverse-a-doubly-linked-list) | [Github]() | A2Z | Step 6 Lec 2 | Medium |
-| Length of Loop in LL | [](https://takeuforward.org/plus/dsa/problems/length-of-loop-in-ll) | [Github]() | A2Z | Step 6 Lec 3 | Easy |
+| Delete a Node in DLL | [Delete Head of Doubly Linked List](https://www.geeksforgeeks.org/problems/delete-head-of-doubly-linked-list/1) | [Github]() | A2Z | Step 6 Lec 2 | Medium |
+| Reverse a DLL | [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | [Github]() | A2Z | Step 6 Lec 2 | Medium |
+| Length of Loop in LL | [Find Length of Loop](https://www.geeksforgeeks.org/problems/find-length-of-loop/1) | [Github]() | A2Z | Step 6 Lec 3 | Easy |
 | Segrregate odd and even nodes in LL | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/106.%20Odd%20Even%20Linked%20List.cpp) | A2Z | Step 6 Lec 3 | Medium |
-| Delete the middle node of LL | [](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Github]() | A2Z | Step 6 Lec 3 | Medium |
-| Sort LL | [](https://leetcode.com/problems/sort-list/) | [Github]() | A2Z | Step 6 Lec 3 | Medium |
-| Sort a LL of 0's 1's and 2's by changing links | [](https://takeuforward.org/plus/dsa/problems/sort-a-ll-of-0's-1's-and-2's) | [Github]() | A2Z | Step 6 Lec 3 | Medium |
-| Add 1 to a number represented by LL | [](https://takeuforward.org/plus/dsa/problems/add-one-to-a-number-represented-by-ll/) | [Github]() | A2Z | Step 6 Lec 3 | Medium |
+| Delete the middle node of LL | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Github]() | A2Z | Step 6 Lec 3 | Medium |
+| Sort LL | [Sort List](https://leetcode.com/problems/sort-list/) | [Github]() | A2Z | Step 6 Lec 3 | Medium |
+| Sort a LL of 0's 1's and 2's by changing links | [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | [Github]() | A2Z | Step 6 Lec 3 | Medium |
+| Add 1 to a number represented by LL | [Add 1 to a Linked List Number](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) | [Github]() | A2Z | Step 6 Lec 3 | Medium |
 | Reverse a LinkedList | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/102.%20Reverse%20Linked%20List.cpp) | Both | Step 6 Lec 3/Day 5 | Easy |
 | Find the middle of LinkedList | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Middle%20of%20the%20Linked%20List.cpp) | Both | Step 6 Lec 3/Day 5 | Easy |
 | Merge two sorted Linked List (use method used in mergeSort) | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Merge%20Two%20Sorted%20Lists.cpp) | SDE | Day 5 | Easy |
@@ -151,14 +151,14 @@
 | Check if a LinkedList is palindrome or not | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2035/103.%20Palindrome%20Linked%20List.cpp) | Both | Step 6 Lec 3/Day 6 | Medium |
 | Find the starting point of the Loop of LinkedList | [Linked List Cycle-II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Linked%20List%20Cycle%20ii.cpp) | Both | Step 6 Lec 3/Day 6 | Medium |
 | Flattening of a LinkedList | [Flattening of ll](https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Flattening%20a%20Linked%20List.cpp) | Both | Step 6 Lec 5/Day 6 | Hard |
-| Delete all occurrences of a key in DLL | [](https://takeuforward.org/plus/dsa/problems/delete-all-occurrences-of-a-key-in-dll) | [Github]() | A2Z | Step 6 Lec 4 | Medium |
-| Find pairs with given sum in DLL | [](https://takeuforward.org/plus/dsa/problems/find-pairs-with-given-sum-in-doubly-linked-list) | [Github]() | A2Z | Step 6 Lec 4 | Medium |
-| Remove duplicates from sorted DLL | [](https://takeuforward.org/plus/dsa/problems/remove-duplicated-from-sorted-dll) | [Github]() | A2Z | Step 6 Lec 4 | Medium |
+| Delete all occurrences of a key in DLL | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Github]() | A2Z | Step 6 Lec 4 | Medium |
+| Find pairs with given sum in DLL | [Find Pairs with Given Sum in Doubly Linked List](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | [Github]() | A2Z | Step 6 Lec 4 | Medium |
+| Remove duplicates from sorted DLL | [Remove Duplicates from a sorted Doubly Linked List](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1) | [Github]() | A2Z | Step 6 Lec 4 | Medium |
 | Rotate a LinkedList | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Rotate%20List.cpp) | Both | Step 6 Lec 5/Day 7 | Medium |
 | Clone a Linked List with random and next pointer | [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2036/107.%20Copy%20List%20with%20Random%20Pointer.cpp) | Both | Step 6 Lec 5/Day 7 | Hard |
 | Trapping Rainwater | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2033/97.%20Trapping%20Rain%20Water.cpp) | Both | Step 9 Lec 3/Day 7 | Hard |
-| Implement stack using Linkedlist | [](https://takeuforward.org/plus/dsa/problems/implement-stack-using-linkedlist) | [Github]() | A2Z | Step 9 Lec 1 | Easy |
-| Implement queue using Linkedlist | [](https://takeuforward.org/plus/dsa/problems/implement-queue-using-linkedlist) | [Github]() | A2Z | Step 9 Lec 1 | Medium |
+| Implement stack using Linkedlist | [Implement Stack Using Linked List](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | [Github]() | A2Z | Step 9 Lec 1 | Easy |
+| Implement queue using Linkedlist | [Implement Queue Using Linked List](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | [Github]() | A2Z | Step 9 Lec 1 | Medium |
 | Infix to Postfix Conversion using Stack | [](https://takeuforward.org/plus/dsa/problems/infix-to-postfix-conversion) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
 | Prefix to Infix Conversion | [](https://takeuforward.org/plus/dsa/problems/prefix-to-infix-conversion) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
 | Prefix to Postfix Conversion | [](https://takeuforward.org/plus/dsa/problems/prefix-to-postfix-conversion) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
