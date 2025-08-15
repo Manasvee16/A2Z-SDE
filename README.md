@@ -159,38 +159,38 @@
 | Trapping Rainwater | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2033/97.%20Trapping%20Rain%20Water.cpp) | Both | Step 9 Lec 3/Day 7 | Hard |
 | Implement stack using Linkedlist | [Implement Stack Using Linked List](https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1) | [Github]() | A2Z | Step 9 Lec 1 | Easy |
 | Implement queue using Linkedlist | [Implement Queue Using Linked List](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1) | [Github]() | A2Z | Step 9 Lec 1 | Medium |
-| Infix to Postfix Conversion using Stack | [](https://takeuforward.org/plus/dsa/problems/infix-to-postfix-conversion) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
-| Prefix to Infix Conversion | [](https://takeuforward.org/plus/dsa/problems/prefix-to-infix-conversion) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
-| Prefix to Postfix Conversion | [](https://takeuforward.org/plus/dsa/problems/prefix-to-postfix-conversion) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
-| Postfix to Prefix Conversion | [](https://takeuforward.org/plus/dsa/problems/postfix-to-prefix-conversion) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
-| Postfix to Infix | []() | [Github]() | A2Z | Step 9 Lec 2 | Medium |
-| Convert Infix To Prefix Notation | [](https://takeuforward.org/plus/dsa/problems/infix-to-prefix-conversion) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
+| Infix to Postfix Conversion using Stack | [Infix to Postfix](https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
+| Prefix to Infix Conversion | [Prefix to Infix Conversion](https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
+| Prefix to Postfix Conversion | [Prefix to Postfix Conversion](https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
+| Postfix to Prefix Conversion | [Postfix to Prefix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
+| Postfix to Infix | [Postfix to Infix Conversion](https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
+| Convert Infix To Prefix Notation | [Infix to Prefix Notation](https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1) | [Github]() | A2Z | Step 9 Lec 2 | Medium |
 | Next Greater Element 2 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2051/145.%20Next%20Greater%20Element%20ii.cpp) | A2Z | Step 9 Lec 3 | Medium |
-| Number of NGEs to the right | [](https://takeuforward.org/plus/dsa/problems/next-greater-element) | [Github]() | A2Z | Step 9 Lec 3 | Easy |
-| Sum of subarray minimum | [](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Github]() | A2Z | Step 9 Lec 3 | Medium |
+| Number of NGEs to the right | [Next Greater Element](https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | [Github]() | A2Z | Step 9 Lec 3 | Easy |
+| Sum of subarray minimum | [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) | [Github]() | A2Z | Step 9 Lec 3 | Medium |
 | Asteroid Collision | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2019/63.%20Asteroid%20Collision.cpp) | A2Z | Step 9 Lec 3 | Medium |
-| Sum of subarray ranges | [](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Github]() | A2Z | Step 9 Lec 3 | Medium |
+| Sum of subarray ranges | [Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/) | [Github]() | A2Z | Step 9 Lec 3 | Medium |
 | Remove k Digits | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2021/68.%20Remove%20K%20Digits.cpp) | A2Z | Step 9 Lec 3 | Medium |
-| Implement Stack using Arrays | [](https://takeuforward.org/plus/dsa/problems/implement-stack-using-arrays) | [Github]() | Both | Step 9 Lec 1/Day 13 | Easy |
-| Implement Queue using Arrays | [](https://takeuforward.org/plus/dsa/problems/implement-queue-using-arrays) | [Github]() | Both | Step 9 Lec 1/Day 13 | Easy |
+| Implement Stack using Arrays | [Implement Stack Using Array](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1) | [Github]() | Both | Step 9 Lec 1/Day 13 | Easy |
+| Implement Queue using Arrays | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1) | [Github]() | Both | Step 9 Lec 1/Day 13 | Easy |
 | Implement Stack using Queue (using single queue) | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2016/53.%20Implement%20Stack%20Using%20Queues.cpp) | Both | Step 9 Lec 1/Day 13 | Medium |
 | Implement Queue using Stack (0(1) amortized method) | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Github](https://leetcode.com/problems/implement-queue-using-stacks/) | Both | Step 9 Lec 1/Day 13 | Medium |
 | Check for balanced parentheses | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2001/4.%20Valid%20Parentheses.cpp) | Both | Step 9 Lec 1/Day 13 | Medium |
 | Next Greater Element | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2019/61.%20Next%20Greater%20Element%20i.cpp) | Both | Step 9 Lec 3/Day 13 | Easy |
-| Sort a Stack | [](https://takeuforward.org/plus/dsa/problems/sort-a-stack) | [Github]() | SDE | Day 13 | Easy |
-| Next Smaller Element | [](https://takeuforward.org/plus/dsa/problems/next-smaller-element) | [Github]() | Both | Step 9 Lec 3/Day 14 | Easy |
-| LFU cache | [](https://leetcode.com/problems/lfu-cache/) | [Github]() | Both | Step 9 Lec 4/Day 14 | Hard |
+| Sort a Stack | [Sort a Stack](https://www.geeksforgeeks.org/problems/sort-a-stack/1) | [Github]() | Both | Step 7 Lec 1/Day 13 | Easy |
+| Next Smaller Element | [Immediate Smaller Element](https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1) | [Github]() | Both | Step 9 Lec 3/Day 14 | Easy |
+| LFU cache | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | [Github]() | Both | Step 9 Lec 4/Day 14 | Hard |
 | Largest rectangle in a histogram | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2023/71.%20Largest%20Rectangle%20in%20Histogram.cpp) | Both | Step 9 Lec 3/Day 14 | Medium |
-| Sliding Window maximum | [](https://leetcode.com/problems/sliding-window-maximum/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2022/70.%20Sliding%20Window%20Maximum.cpp) | Both | Step 9 Lec 4/Day 14 | Hard |
+| Sliding Window maximum | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2022/70.%20Sliding%20Window%20Maximum.cpp) | Both | Step 9 Lec 4/Day 14 | Hard |
 | Implement Min Stack | [Min Stack](https://leetcode.com/problems/min-stack/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2017/54.%20Min%20Stack.cpp) | Both | Step 9 Lec 1/Day 14 | Medium |
-| Stock span problem | [](https://leetcode.com/problems/online-stock-span/) | [Github]() | Both | Step 9 Lec 4/Day 14 | Medium |
-| Find the maximum of minimums of every window size | [](https://takeuforward.org/plus/dsa/problems/maximum-of-minimums-for-every-window-size) | [Github]() | SDE | Day 14 | Medium | 
+| Stock span problem | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Github]() | Both | Step 9 Lec 4/Day 14 | Medium |
+| Find the maximum of minimums of every window size | [Maximum of Minimums for Every Window Size](https://www.geeksforgeeks.org/problems/maximum-of-minimum-for-every-window-size3453/1) | [Github]() | SDE | Day 14 | Medium | 
 | The Celebrity Problem | [The Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | [Github]() | Both | Step 9 Lec 4/Day 14 | Hard |
 | Recursive Implementation of atoi() | [String to Integer atoi](https://leetcode.com/problems/string-to-integer-atoi/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/String%20to%20Integer%20(atoi).cpp) | Both | Step 7 Lec 1/Step 5 Lec 2/Day 8/Day 15 | Hard |
 | Count Good numbers | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20Good%20Numbers.cpp) | A2Z | Step 7 Lec 1 | Easy |
-| Sort a Stack Using Recursion | [](https://takeuforward.org/plus/dsa/problems/sort-a-stack) | [Github]() | A2Z | Step 7 Lec 1 | Medium |
-| Reverse a Stack Using Recursion | [](https://takeuforward.org/plus/dsa/problems/reverse-a-stack) | [Github]() | A2Z | Step 7 Lec 1 | Easy |
-| Generate all Binary Strings | [](https://takeuforward.org/plus/dsa/problems/generate-binary-strings-without-consecutive-1s) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
+|||||||
+| Reverse a Stack Using Recursion | [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) | [Github]() | A2Z | Step 7 Lec 1 | Easy |
+| Generate all Binary Strings | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/description/) | [Github]() | A2Z | Step 7 Lec 2 | Medium |
 | Generate Paranthesis | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2002/5.%20Generate%20Parentheses.cpp) | A2Z | Step 7 Lec 2 | Medium |
 | Print all subsequences/Power Set | [Subsets](https://leetcode.com/problems/subsets/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Subsets.cpp) | Both | Step 7 Lec 2/Step 8 Lec 2/Day 27 | Medium |
 | Count all subsequences with sum K | [Count all subsequences with sum K](https://takeuforward.org/plus/dsa/problems/count-all-subsequences-with-sum-k) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Count%20all%20subsequences%20with%20sum%20K.cpp) | A2Z | Step 7 Lec 2 | Hard |
@@ -212,34 +212,34 @@
 | Subset Sums | [Subset sum problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Subset%20Sum%20Problem.cpp) | A2Z | Step 16 Lec 4 | Hard |
 | K-th permutation Sequence | [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Permutation%20Sequence.cpp) | SDE | Day 9 | Hard |
 | Print all Permutations of a String/Array | [Permutations](https://leetcode.com/problems/permutations/) | [Github](https://github.com/Manasvee16/DSA-Sheet/blob/main/Day%2023/72.%20Permutations.cpp) | SDE | Day 10 | Medium |
-| Check if the i-th bit is set or not | [](https://takeuforward.org/plus/dsa/problems/check-if-the-i-th-bit-is-set-or-not) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
-| Check if a number is odd or not | [](https://takeuforward.org/plus/dsa/problems/check-if-a-number-is-odd-or-not) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
+| Check if the i-th bit is set or not | [Check K-th Bit](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
+| Check if a number is odd or not | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
 | Check if a number is power of 2 or not | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2029/83.%20Power%20of%20Two%20.cpp) | A2Z | Step 8 Lec 1 | Easy |
-| Count the number of set bits | [](https://takeuforward.org/plus/dsa/problems/count-the-number-of-set-bits) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
-| Set/Unset the rightmost unset bit | [](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
-| Swap two numbers | [](https://takeuforward.org/plus/dsa/problems/swap-two-numbers) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
-| Divide two integers without using multiplication, division and mod operator | [](https://leetcode.com/problems/divide-two-integers/) | [Github]() | A2Z | Step 8 Lec 1 | Medium |
-| Count number of bits to be flipped to convert A to B | [](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [Github]() | A2Z | Step 8 Lec 2 | Medium |
-| Find xor of numbers from L to R | [](https://takeuforward.org/plus/dsa/problems/xor-of-numbers-in-a-given-range) | [Github]() | A2Z | Step 8 Lec 2 | Easy |
-| Find the two numbers appearing odd number of times | [](https://takeuforward.org/plus/dsa/problems/single-number---iii) | [Github]() | A2Z | Step 8 Lec 2 | Easy |
-| Print Prime Factors of a Number | [](https://takeuforward.org/plus/dsa/problems/prime-factorisation-of-a-number) | [Github]() | A2Z | Step 8 Lec 3 | Easy |
-| All Divisors of a Number | [](https://takeuforward.org/plus/dsa/problems/divisors-of-a-number) | [Github]() | A2Z | Step 8 Lec 3 | Easy |
-| Sieve of Eratosthenes | [](https://leetcode.com/problems/count-primes/) | [Github]() | A2Z | Step 8 Lec 3 | Medium |
+| Count the number of set bits | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
+| Set/Unset the rightmost unset bit | [Set the Rightmost Unset Bit](https://www.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
+| Swap two numbers | [Swap Two Numbers](https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1) | [Github]() | A2Z | Step 8 Lec 1 | Easy |
+| Divide two integers without using multiplication, division and mod operator | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | [Github]() | A2Z | Step 8 Lec 1 | Medium |
+| Count number of bits to be flipped to convert A to B | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/) | [Github]() | A2Z | Step 8 Lec 2 | Medium |
+| Find xor of numbers from L to R | [Find XOR of Numbers From L to R](https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1) | [Github]() | A2Z | Step 8 Lec 2 | Easy |
+| Find the two numbers appearing odd number of times | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Github]() | A2Z | Step 8 Lec 2 | Easy |
+|||||||
+| All Divisors of a Number | [All Divisors of a Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | [Github]() | A2Z | Step 8 Lec 3 | Easy |
+| Sieve of Eratosthenes | [Count Primes](https://leetcode.com/problems/count-primes/) | [Github]() | A2Z | Step 8 Lec 3 | Medium |
 | Find Prime Factorisation of a Number using Sieve | [](https://takeuforward.org/plus/dsa/problems/prime-factorisation-of-a-number) | [Github]() | A2Z | Step 8 Lec 3 | Medium |
-| Min Heap and Max Heap Implementation | [](https://takeuforward.org/plus/dsa/problems/implement-min-heap) | [Github]() | A2Z | Step 11 Lec 1 | Medium |
-| Check if an array represents a min-heap or not | [](https://takeuforward.org/plus/dsa/problems/check-if-an-array-represents-a-min-heap-) | [Github]() | A2Z | Step 11 Lec 1 | Medium |
-| Convert min Heap to max Heap | [](https://takeuforward.org/plus/dsa/problems/convert-min-heap-to-max-heap) | [Github]() | A2Z | Step 11 Lec 1 | Medium |
-| Kth smallest element in an array [use priority queue] | []() | [Github]() | A2Z | Step 11 Lec 2 | Easy |
-| Sort K sorted array | [](https://takeuforward.org/plus/dsa/problems/merge-k-sorted-lists) | [Github]() | A2Z | Step 11 Lec 2 | Easy |
-| Merge M sorted Lists | [](https://leetcode.com/problems/merge-k-sorted-lists/) | [Github]() | A2Z | Step 11 Lec 2 | Hard |
-| Replace each array element by its corresponding rank | []() | [Github]() | A2Z | Step 11 Lec 2 | Easy |
-| Task Scheduler | [](https://leetcode.com/problems/task-scheduler/) | [Github]() | A2Z | Step 11 Lec 2 | Medium |
-| Hands of Straights | [](https://leetcode.com/problems/hand-of-straights/) | [Github]() | A2Z | Step 11 Lec 2 | Medium |
+| Min Heap and Max Heap Implementation | [Min Heap Implementation](https://www.geeksforgeeks.org/problems/min-heap-implementation/1) | [Github]() | A2Z | Step 11 Lec 1 | Medium |
+| Check if an array represents a min-heap or not | [Does Array Represent Heap](https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1) | [Github]() | A2Z | Step 11 Lec 1 | Medium |
+| Convert min Heap to max Heap | [Convert Min Heap to Max Heap](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1) | [Github]() | A2Z | Step 11 Lec 1 | Medium |
+| Kth smallest element in an array [use priority queue] | [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | [Github]() | A2Z | Step 11 Lec 2 | Easy |
+|||||||
+| Merge M sorted Lists | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Github]() | A2Z | Step 11 Lec 2 | Hard |
+| Replace each array element by its corresponding rank | [Rank Transform Of An Array](https://leetcode.com/problems/rank-transform-of-an-array/) | [Github]() | A2Z | Step 11 Lec 2 | Easy |
+| Task Scheduler | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Github]() | A2Z | Step 11 Lec 2 | Medium |
+| Hands of Straights | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | [Github]() | A2Z | Step 11 Lec 2 | Medium |
 | Design twitter | [Design Twitter](https://leetcode.com/problems/design-twitter/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Design%20Twitter.cpp) | A2Z | Step 11 Lec 3 | Medium |
-| Connect n ropes with minimal cost | [](https://takeuforward.org/plus/dsa/problems/minimum-cost-to-connect-sticks) | [Github]() | A2Z | Step 11 Lec 3 | Medium |
+| Connect n ropes with minimal cost | [Minimum Cost of Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | [Github]() | A2Z | Step 11 Lec 3 | Medium |
 | Max heap, Min Heap Implementation (Only for interviews) | [](https://takeuforward.org/plus/dsa/problems/implement-max-heap) | [Github]() | SDE | Day 12 | Medium |
-| Maximum Sum Combination | [](https://takeuforward.org/plus/dsa/problems/maximum-sum-combination) | [Github]() | Both | Step 11 Lec 3/Day 12 | Medium |
-| Merge K sorted arrays | [](https://takeuforward.org/plus/dsa/problems/merge-k-sorted-arrays) | [Github]() | SDE | Day 12 | Medium |
+| Maximum Sum Combination | [Maximum Sum Combination](https://www.geeksforgeeks.org/problems/maximum-sum-combination/1) | [Github]() | Both | Step 11 Lec 3/Day 12 | Medium |
+| Merge K sorted arrays | [Merge K Sorted Arrays](https://www.geeksforgeeks.org/problems/merge-k-sorted-arrays/1) | [Github]() | SDE | Day 12 | Medium |
 | K most frequent elements | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2060/163.%20Top%20K%20Frequent%20Elements.cpp) | Both | Step 11 Lec 3/Day 12 | Medium |
 | Assign Cookies | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Assign%20Cookies.cpp) | A2Z | Step 12 Lec 1/Step 16 Lec 4/Day 8 | Easy |
 | Fractional Knapsack Problem | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Fractional%20Knapsack.cpp) | Both | Step 12 Lec 1/Day 8 | Medium |
@@ -255,14 +255,14 @@
 | Program for Least Recently Used (LRU) Page Replacement Algorithm | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2070/189.%20LRU%20Cache.cpp) | Both | Step 9 Lec 4/Step 12 Lec 2/Day 14 | Medium |
 | Insert Interval | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Insert%20Interval.cpp) | A2Z | Step 12 Lec 2 | Medium |
 | Non-overlapping Intervals | [Non overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Non%20Overlapping%20Intervals.cpp) | A2Z | Step 12 Lec 2 | Medium |
-Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github]() | A2Z | Step 13 Lec 1 | Easy |
+Post-order Traversal of Binary Tree using 2 or 1 stack | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github]() | A2Z | Step 13 Lec 1 | Easy |
 |||||||
 | Course Schedule -II | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/137.%20Course%20Schedule%20ii.cpp) | A2Z | Step 15 Lec 3 | Hard |
 | Right/Left View of Binary Tree | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2065/178.%20Binary%20Tree%20Right%20Side%20View.cpp) | A2Z | Step 13 Lec 2 | Medium |
-| Print all the Nodes at a distance of K in a Binary Tree | [](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Github]() | A2Z | Step 13 Lec 3 | Medium |
-| Minimum time taken to BURN the Binary Tree from a Node | [](https://www.geeksforgeeks.org/problems/burning-tree/1) | [Github]() | A2Z | Step 13 Lec 3 | Hard |
-| Count total Nodes in a COMPLETE Binary Tree | [](https://leetcode.com/problems/count-complete-tree-nodes/) | [Github]() | A2Z | Step 13 Lec 3 | Medium |
-| Requirements needed to construct a Unique Binary Tree - Theory | [](https://takeuforward.org/plus/dsa/problems/requirements-needed-to-construct-a-unique-bt) | [Github]() | A2Z | Step 13 Lec 3 | Medium |
+| Print all the Nodes at a distance of K in a Binary Tree | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | [Github]() | A2Z | Step 13 Lec 3 | Medium |
+| Minimum time taken to BURN the Binary Tree from a Node | [Burning Tree](https://www.geeksforgeeks.org/problems/burning-tree/1) | [Github]() | A2Z | Step 13 Lec 3 | Hard |
+| Count total Nodes in a COMPLETE Binary Tree | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Github]() | A2Z | Step 13 Lec 3 | Medium |
+| Requirements needed to construct a Unique Binary Tree - Theory | [Unique Binary Tree Requirements](https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1) | [Github]() | A2Z | Step 13 Lec 3 | Medium |
 | Inorder Traversal | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2049/141.%20Binary%20Tree%20Inorder%20Traversal.cpp) | Both | Step 13 Lec 1/Day 17 | Easy |
 | Preorder Traversal | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2039/116.%20Binary%20Tree%20Preorder%20Traversal.cpp) | Both | Step 13 Lec 1/Day 17 | Easy |
 | Postorder Traversal | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2055/153.%20Binary%20Tree%20Postorder%20Traversal.cpp) | Both | Step 13 Lec 1/Day 17 | Easy |
@@ -288,11 +288,11 @@ Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com
 | Flatten Binary Tree to LinkedList | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Flatten%20Binary%20Tree%20to%20Linked%20List.cpp) | Both | Step 13 Lec 3/Day 19/Day 22 | Hard |
 | Check for Children Sum Property | [Children Sum Parent](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Children%20Sum%20Parent.cpp) | Both | Step 13 Lec 3/Day 19 | Hard |
 | Find Min/Max in BST | []() | [Github]() | A2Z | Step 14 Lec 1 | Medium |
-| Insert a given Node in Binary Search Tree | [](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Github]() | A2Z | Step 14 Lec 2 | Easy |
-| Delete a Node in Binary Search Tree | [](https://leetcode.com/problems/delete-node-in-a-bst/) | [Github]() | A2Z | Step 14 Lec 2 | Medium |
-| Inorder Successor/Predecessor in BST | [](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1) | [Github]() | A2Z | Step 14 Lec 2 | Medium |
-| Recover BST / Correct BST with two nodes swapped | [](https://leetcode.com/problems/recover-binary-search-tree/) | [Github]() | A2Z | Step 14 Lec 2 | Hard |
-| Largest BST in Binary Tree | [](https://takeuforward.org/plus/dsa/problems/largest-bst-in-binary-tree) | [Github]() | A2Z | Step 14 Lec 2 | Hard |
+| Insert a given Node in Binary Search Tree | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Github]() | A2Z | Step 14 Lec 2 | Easy |
+| Delete a Node in Binary Search Tree | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Github]() | A2Z | Step 14 Lec 2 | Medium |
+| Inorder Successor/Predecessor in BST | [Inorder Successor in BST](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1) | [Github]() | A2Z | Step 14 Lec 2 | Medium |
+| Recover BST / Correct BST with two nodes swapped | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Github]() | A2Z | Step 14 Lec 2 | Hard |
+| Largest BST in Binary Tree | [Largest BST](https://www.geeksforgeeks.org/problems/largest-bst/1) | [Github]() | A2Z | Step 14 Lec 2 | Hard |
 | Populate Next Right pointers of Tree | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Populating%20Next%20Right%20Pointers%20in%20Each%20Node.cpp) | SDE | Day 20 | Medium |
 | Search given Key in BST | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Search%20in%20a%20Binary%20Search%20Tree.cpp) | Both | Step 14 Lec 1/Day 20 | Easy |
 | Construct BST from given keys | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.cpp) | SDE | Day 20 | Hard |
@@ -356,11 +356,11 @@ Post-order Traversal of Binary Tree using 2 or 1 stack | [](https://leetcode.com
 | Making a Large Island | [Making a Large Island](https://leetcode.com/problems/making-a-large-island/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Swim in rising water | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | [Github]() | A2Z | Step 15 Lec 5 | Hard |
 | Bridges in Graph | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Critical%20Connections%20in%20a%20Network.cpp) | A2Z | Step 15 Lec 6 | Hard |
-| Articulation Point | [](https://takeuforward.org/plus/dsa/problems/articulation-point-in-graph) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
+| Articulation Point | [Articulation Point-I](https://www.geeksforgeeks.org/problems/articulation-point-1/1) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
 | Kosaraju's Algorithm | [](https://takeuforward.org/plus/dsa/problems/kosaraju's-algorithm) | [Github]() | A2Z | Step 15 Lec 6 | Hard |
 | Clone a graph (Not that easy as it looks) | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2045/130.%20Clone%20Graph.cpp) | SDE | Day 23 | Hard |
 | Number of islands(Do in Grid and Graph Both) | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2048/139.%20Number%20of%20Islands.cpp) | SDE | Day 23 | Hard |
-| Strongly Connected Component(using Kosaraju algo) | [](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Github]() | SDE | Day 24 | Hard |
+| Strongly Connected Component(using Kosaraju algo) | [Maximum Number of Non Overlapping Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | [Github]() | SDE | Day 24 | Hard |
 | Climbing Stairs | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Github](https://github.com/shumbul/DSA-Sheet/blob/main/Day%2026/77.%20Climbing%20Stairs.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump | [Geek Jump](https://www.geeksforgeeks.org/problems/geek-jump/1) | [Github](https://github.com/Manasvee16/A2Z-SDE/blob/main/Frog%20Jump.cpp) | A2Z | Step 16 Lec 2 | Medium |
 | Frog Jump with k distances | [Frog Jump with k distances](https://takeuforward.org/plus/dsa/problems/frog-jump-with-k-distances) | [Github]() | A2Z | Step 16 Lec 2 | Medium |
