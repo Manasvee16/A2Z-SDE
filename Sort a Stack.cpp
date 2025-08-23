@@ -24,3 +24,27 @@ void SortedStack ::sort() {
 }
 //TC O(N^2)
 //SC O(N)
+
+//Inserts an element x into the already sorted stack in its correct position.
+void insertSorted(stack<int> &st, int x) {
+    if (st.empty() || st.top() <= x) {
+        st.push(x);
+        return;
+    }
+    int temp = st.top();
+    st.pop();
+    insertSorted(st, x);
+    st.push(temp);
+}
+
+// Recursively sorts the stack by removing one element, sorting the rest, then putting the element back in sorted order.
+void SortedStack::sort() {
+    if (s.empty()) 
+        return;
+    int x = s.top();
+    s.pop();
+    sort();  // sort the remaining stack
+    insertSorted(s, x);  // insert current element at correct position
+}
+//TC O(n) (for recursion in sort) × O(n) (for insertSorted) = O(n^2)
+//SC O(n) for recursion
